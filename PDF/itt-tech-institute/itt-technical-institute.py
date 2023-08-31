@@ -45,6 +45,6 @@ courses = extract_courses(text)
 # Export to CSV
 with open('itt-technical-institute.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(["Course Number", "Course Name", "Credit Hours", "Description"])
+    csvwriter.writerow(["code", "title", "credit", "description"])
     for course in courses:
         csvwriter.writerow(course)
