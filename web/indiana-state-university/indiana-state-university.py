@@ -33,7 +33,7 @@ class IndianaStateUniversityScraper(scrapy.Spider):
             if 'Credits' in text_item.get():
                 item['credit'] = text_item.re_first('.*').replace('Credits', '').replace('Variable', '').strip()
 
-            elif len(text_item.get()) >= 100:
+            elif len(text_item.get()) >= 40:
                 desc = self.normalize_spaces_and_line_breaks(text_item.get().strip())
                 length = len(text_item.get())
                 possible_desc.append((length, desc))
