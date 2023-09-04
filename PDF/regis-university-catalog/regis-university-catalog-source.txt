@@ -4385,6 +4385,20 @@ component. Prerequisite: all MSHI coursework. NOTE: Course fee required.
 
 MSHI 692. HEALTH INFORMATICS PRACTICUM I (3). Provides a hands-on Health Informatics lab experience that covers all phases of a typical health informatics project—clinical need discovery, existing system and workflow evaluation, system and workflow redesign, implementation evaluation and communicating results. Concludes with a mock presentation to clinical stakeholders and system leadership. Prerequisite(s): MSHI 600, MSHI 625, MSHI 635, MSHI 650, MSHI 675, and MSCC 697. NOTE: Course fee required.
 
+MSHI 645. MANAGEMENT OF E-HIM (3). The focus of this
+course is on the advanced concepts of managing digital clinical
+information and other electronic storage in health care
+facilities. Topics include: identity management, health
+information exchange and data sharing, current trends in eHIM,
+eDiscovery, the personal health record and patient portals. The
+course will also cover components and strategies of
+Information Governance including; interoperability of data,
+compliance data dictionary standards, and factors that influence
+data integrity. Graduate level includes development of an
+eDiscovery response plan and Information Governance
+assessment tool. Prerequisite(s): Graduate standing required.
+Cross listing: HIM 445. NOTE: Course fee required.
+
 MSHI 696. HEALTH INFORMATICS PRACTCUM II (3). Continues a hands-on Health Informatics lab experience that covers all phases of a typical health informatics project - clinical need discovery, existing system and workflow evaluation,
 system and workflow redesign, implementation evaluation and communicating results. Concludes with a mock presentation to clinical stakeholders and system leadership. Prerequisites: MSHI
 692. NOTE: Course fee required.
@@ -5813,4 +5827,12 @@ DPT 906. MANAGEMENT OF CERVICOTHORACIC DISORDERS (3). Advanced management of imp
 DPT 910. CLINICAL PRACTICUM (3). Final testing process to complete the Fellowship program. Live skill testing, patient case simulation, reflective examination, evidence-based knowledge assessment and assessment of overall progression in the program, including review of mentorship and reporting. NOTE: Fellowship in Orthopaedic Manual Therapy students only. Fee required. Pass/No Pass grading only.
 
 DPT 911. FOMPT FULFILLLMENT (0). Variable course which allows for student registration to attend missed in-person events such as weekend intensives, with prior approval, and to fulfill missed requirements overall in the FMOPT program.
+
+MSHI 635. DESIGN AND SELECTION OF IT SYSTEMS IN
+HEALTH CARE (3). Introduces planning, acquisition, and implementation of systems which include migration paths, functional requirements, costs, benefits realization and a critical
+analysis of the system proposed in addition to the technological
+infrastructure needed to support facility-wide systems.
+Activities include evaluating RFP’s and RFI’s, and designing
+communication and clinical documentation guidelines. Graduat level includes writing an RFI or RFP and development of system
+evaluation criteria. NOTE: Course fee required.
 

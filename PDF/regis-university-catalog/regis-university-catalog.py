@@ -2,7 +2,7 @@ import re
 import csv
 
 # Load the content of the uploaded file
-with open("data - whole.txt", "r") as file:
+with open("regis-university-catalog-source.txt", "r") as file:
     content_stepwise = file.read()
 
 # Craft a regex pattern based on the provided examples and instructions
@@ -31,7 +31,7 @@ for i in range(len(course_starts)):
         })
 
 # Save the extracted data to a CSV file
-csv_file_path_adjusted = "extracted_courses.csv"
+csv_file_path_adjusted = "regis-university-catalog.csv"
 with open(csv_file_path_adjusted, 'w', newline='') as csvfile:
     fieldnames = ['code', 'title', 'credit', 'description']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
