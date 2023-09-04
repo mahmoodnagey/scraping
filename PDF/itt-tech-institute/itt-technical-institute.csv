@@ -1,590 +1,926 @@
 code,title,credit,description
-AC1220,Accounting Principles I,4.5,"This course involves accounting principles and presents accounting standards, inventory methods, depreciation, and financial
+GE117,Composition I,4,"Composition course
+This course covers phases of the writing process, with special emphasis on the structure of writing and techniques for writing clearly,
+precisely and persuasively. Prerequisite or Corequisite:"
+GE127,College Mathematics I,4,"Mathematics course
+This course will include, but is not limited to, the following concepts: quadratic, polynomial and radical equations, linear functions and
+their graphs, systems of linear equations, functions and their properties and triangles and trigonometric functions. Activities will include
+solving problems and using appropriate technological tools."
+GE150,Survey of the Sciences,4,"Science course
+This survey course is designed to familiarize the student with the methods of rational inquiry and problem solving in the physical
+sciences. Students will explore a selection of topics in the scientific fields including physics, chemistry, biology and earth science to
+develop basic scientific literacy and the ability to critically analyze issues of science."
+GE175,American Government,4,"Social Science course
+This course covers principles and theory related to the United States government, including the development and foundations of the
+Constitution, the organization and function of the federal government including the legislative, executive and judicial branches, political
+parties and the electoral process, and the relationship between states and the federal government."
+GE184,Problem Solving,4,"Science course
+This course introduces students to problem solving techniques and helps them apply the tools of critical reading, analytical thinking and
+mathematics to help solve problems in practical applications."
+GE217,Composition II,4,"Humanities course
+This course focuses on appropriate rhetoric structures and styles for analytical and argumentative writing. Emphasis is placed on critical
+thinking, reading skills and elements of research in the information age."
+GE257,Microbiology,4,"Science course
+This is an introductory course in microbiology, emphasizing fundamental concepts and principles with practical application."
+GE258,Human Anatomy and Physiology I,4,"Science course
+This course provides a systems focused study of the anatomy and physiology of the human body. Topics build from a foundation in
+structural organization, basic chemistry, and the study of cells and tissues to system structure and function. These systems include
+integumentary system, bones and skeletal tissues, joints, muscles, nervous system, special senses, and the endocrine system. The
+course includes a wet laboratory component."
+GE259,Human Anatomy and Physiology II,4,"Science course
+This course is a continuation of the study of the anatomy and physiology of the human body. Building on the foundation of structural
+organization, basic chemistry, and the study of cells and tissues, and study of integumentary, skeletal, muscular, nervous, sense, and
+endocrine systems, this course focuses on the maintenance of the body via the cardiovascular, lymphatic, respiratory, digestive,
+urinary, and reproductive systems, as well as metabolism, acid-base balance, fluid and electrolyte balance, and nutrition. This course
+includes a wet laboratory component. Prerequisite or Corequisite:"
+GE265,Ethics in Society,4,"Humanities course
+This course provides a practical framework and a personal method for ethical thinking and decision-making on issues in contemporary
+society. Students will analyze some of the major ethical dilemmas of the modern world."
+GE291,Sociology,4,"Social Science course
+This course introduces the theories and methods sociologists use to explain and predict the dynamics of the contemporary social world.
+Through this study, the students will employ a “sociological imagination” as they make observations, gain insights, and make
+predictions that can influence their choices about their own social interaction."
+GE347,Group Dynamics,4,"Social Science course
+In this course, students examine elements of successful teams and small decision-making groups. Emphasis is on communication,
+critical thinking and group process techniques."
+GE375,Psychology,4,"Social Science course
+This course introduces psychological theories from behavioristic, humanistic and biological viewpoints. Primary focus is on exploring
+how selected principles of psychology apply to students’ personal lives and social behavior. Students apply the skills of critical thinking,
+observation, and information gathering and analysis as they practice social science and scientific methodology."
+SC1130,Survey of the Sciences,4.5,"Science course
+This survey course is designed to familiarize the student with the methods of rational inquiry and problem solving in the sciences.
+Students will explore a selection of topics in the scientific fields, including physics, chemistry, biology, astronomy and earth science, to
+develop basic scientific literacy and the ability to critically analyze issues of science. This course includes a laboratory component."
+MA1210,College Mathematics I,4.5,"Mathematics course
+This course focuses on fundamental mathematical concepts including quadratic, polynomial and radical equations, linear functions and
+their graphs, systems of linear equations, functions and their properties and matrices. Activities will include solving problems and using
+appropriate technological tools."
+MA1310,College Mathematics II,4.5,"Mathematics course
+This course includes the following concepts: exponential and logarithmic equations and functions, graphs of trigonometric functions,
+trigonometric equations, polar coordinates, oblique triangles, vectors and sequences."
+EN1320,Composition I,4.5,"Composition course
+This course examines phases of the writing process, with emphasis on the structure of writing and techniques for communicating
+clearly, precisely and persuasively."
+PS1350,American Government,4.5,"Social Science course
+This course examines principles and theory related to the United States federal government, including the development and
+foundations of the U.S. Constitution, the organization and function of the federal government including the legislative, executive and
+judicial branches, political parties, the electoral process, and the relationship between states and the federal
+government."
+EN1420,Composition II,4.5,"Composition course
+This course builds on the foundations of Composition I with emphasis on rhetorical structures, argumentation and research. Students
+study how to make strong arguments using visual and oral communication techniques."
+CO2520,Communications,4.5,"Humanities course
+This course focuses on the history, principles and techniques of interpersonal, organizational and mass communications, and on
+communicating using written, verbal and visual formats. Prerequisites: Completion of a minimum of 54 credits earned in the
+program of study including"
+PH2530,Physics,4.5,"Science course
+This course introduces students to the principles of general physics. Practical applications demonstrate the theory. This course includes
+a laboratory component."
+ES2550,Microeconomics,4.5,"Social Science course
+This course introduces the economic way of thinking and applies basic principles of microeconomics. It is the study of choices made by
+households, firms and governments and how these choices impact the market economy. Prerequisites:"
+ES2555,Survey of Economics,4.5,"Social Science course
+This course introduces basic principles of both microeconomics and macroeconomics. Prerequisites:"
+ES2560,Macroeconomics,4.5,"Social Science course
+This course is the study of aggregate economic activity. Students apply basic principles of macroeconomics to unemployment, inflation
+and economic growth. Prerequisites:"
+PY2750,Introduction to Psychology,3.0,"Social Science course
+This course introduces psychological theories related to the human mind and human behavior. The course involves the science of
+perception, learning, information analysis, and psychological development over the human life span."
+SP2750,Group Theory,4.5,"Social Science course
+This course is an overview of the theory related to groups of people bonded by task or culture. Emphasis is on communication, critical
+thinking and group process theory, including social exchange theory, structuration theory, functional theory, group ethics, diversity and
+related communication conflicts, group decision-making, creativity, leadership and gender."
+MA3110,Statistics,4.5,"Mathematics course
+This course introduces descriptive and inferential statistics. Topics include probability and probability distributions, confidence intervals,
+hypothesis testing and linear regression. Prerequisites:"
+PY3150,Psychology,4.5,"Social Science course
+This course introduces psychological theories from behavioral, humanistic and biological viewpoints. Students apply the skills of critical
+thinking, observation, information gathering and analysis to practice social science and scientific methodology."
+SS3150,Research Methods,4.5,"Social Science course
+This course introduces a step-by-step approach to conducting research. Topics include scientific reasoning, applying critical thinking
+principles to assess validity and reliability in research, and production of research-based documents. Prerequisites:"
+EN3220,Written Analysis,4.5,"Composition course
+This course introduces theories and principles of critical and creative thinking with the goal of analysis and production of comprehensive
+written documents. Focus is on critically evaluating ideas and arguments. Prerequisites:"
+MA3310,Calculus I,4.5,"Mathematics course
+This course is an introduction to differential and integral calculus. Topics include limits, continuity, derivatives, antiderivatives and both
+definite and indefinite integrals."
+MA3410,Calculus II,4.5,"Mathematics course
+A continuation of Calculus I, this course introduces methods of integration, partial derivatives and double integration, integration and
+differentiation of the trigonometric and logarithmic functions, series and progressions, the Laplace transform, and differential equations."
+SP3450,Social Psychology,4.5,"Social Science course
+This course is a survey of theories and research concerned with how individuals behave in social constructs, and how they influence
+and are influenced by other people. Prerequisites:"
+HU4640,Ethics,4.5,"Humanities course
+This course introduces fundamentals of, and differences in, the morals and rules of conduct among individuals. Focus is on the
+identification and analysis of a variety of theoretical moral constructs and their application to individual and personal behavior."
+SC4730,Environmental Science,4.5,"Science course
+This course explores the issues of environmental science using an integrative approach against a political, geographic, cultural and
+economic backdrop. Through hands-on and virtual labs and applied problem sets, students will study the impact humans have on the
+environment and the costs and benefits of mitigating the impact. This course includes a laboratory component. Prerequisites:"
+AC1220,Accounting Principles I,4.5,"s
+This course involves accounting principles and presents accounting standards, inventory methods, depreciation, and financial
 components that comprise the income statement, balance sheet and statement of cash flows. Students will perform accounting
 exercises to solve business problems."
-AC1320,Accounting Principles II,4.5,"This course expands on the concepts taught in Accounting Principles I, and includes a broader analysis of financial statements and
+AC1320,Accounting Principles II,4.5,"s
+This course expands on the concepts taught in Accounting Principles I, and includes a broader analysis of financial statements and
 their components. Students study differences between long and short-term liabilities, stocks and bonds, and the uses of management
 versus financial accounting."
-AC1420,Financial Accounting,4.5,"In this course, students practice producing financial statements using different classes of assets and inventory valuation methods. It
+AC1420,Financial Accounting,4.5,"s
+In this course, students practice producing financial statements using different classes of assets and inventory valuation methods. It
 includes the preparation of trial balances and the use of financial ratios to determine a measure of the financial health of a company."
-AC2520,Tax Preparation,4.5,"In this course, students compare and contrast individual and corporate tax models and analyze the tax practice environment. Topics
+AC2520,Tax Preparation,4.5,"s
+In this course, students compare and contrast individual and corporate tax models and analyze the tax practice environment. Topics
 include the disposition of assets, accounting for tax expense, estate property valuation and auditing in the organization."
-AC2620,Fundamentals of Managerial Accounting,4.5,"In this course, students will analyze internal business accounting statements and accounting reports used for management planning
+AC2620,Fundamentals of Managerial Accounting,4.5,"s
+In this course, students will analyze internal business accounting statements and accounting reports used for management planning
 and decision making."
-AC2720,Cost Accounting,4.5,"This course focuses on the evaluation of business cost elements and budgeting for future periods. Topics include cost analysis,
+AC2720,Cost Accounting,4.5,"s
+This course focuses on the evaluation of business cost elements and budgeting for future periods. Topics include cost analysis,
 variances, inventory costing and control of business finances."
-AC2799,Accounting Capstone Project,4.5,"This is a project course in which students solve an accounting problem that is designed to combine elements of courses in the program.
+AC2799,Accounting Capstone Project,4.5,"s
+This is a project course in which students solve an accounting problem that is designed to combine elements of courses in the program.
 The instructor must approve the scope and depth of the student’s project and acts as a resource for the student during the execution of
 the project. A formal written document and presentation are required. Prerequisites: Must be taken during the student’s final
 quarter of study"
-BU1110,Introduction to Business,4.5,"This course explores fundamental processes of management, teamwork, motivation, customer satisfaction, and the production of goods
+BU1110,Introduction to Business,4.5,"s
+This course explores fundamental processes of management, teamwork, motivation, customer satisfaction, and the production of goods
 and services. Students will examine ethical and social responsibilities for businesses, and compare business operations in U.S.
 companies to business operations in foreign countries."
-BU1410,Management Information Systems,4.5,"This course examines fundamentals of information systems used in business. Topics include choice of hardware and software, security,
+BU1410,Management Information Systems,4.5,"s
+This course examines fundamentals of information systems used in business. Topics include choice of hardware and software, security,
 backup, virus protection, and the use of internal and external communication to solve business problems."
-BU2620,Fundamentals of Business Communications,4.5,"This course explores methods to create effective communications within the organization. Concentration is on collaborative
+BU2620,Fundamentals of Business Communications,4.5,"s
+This course explores methods to create effective communications within the organization. Concentration is on collaborative
 communications, communicating bad-news messages and conducting persuasive presentations. Students practice with a variety of
 electronic and hard copy media and will give a professional presentation at the end of the course."
-BU2710,Advanced Business Productivity Software,3.0,"This course focuses on the advanced use of business productivity software including complex assignments that require advanced
+BU2710,Advanced Business Productivity Software,3.0,"s
+This course focuses on the advanced use of business productivity software including complex assignments that require advanced
 formatting and functionality. Instruction will include embedding data and linking and combining documents using word processing,
 spreadsheets, databases, and/or presentation media software. This course examines the concepts found in the Microsoft Office
 Specialist (MOS) Master certification exam."
-BU2715,Advanced Business Productivity Software,4.5,"This course focuses on the advanced use of business productivity software including complex assignments that require advanced
+BU2715,Advanced Business Productivity Software,4.5,"s
+This course focuses on the advanced use of business productivity software including complex assignments that require advanced
 formatting and functionality. Instruction will include embedding data and linking and combining documents using word processing,
 spreadsheets, databases, and/or presentation media software. This course examines the concepts found in the Microsoft Office
 Specialist (MOS) Master certification exam."
-BU2760,Business Law,4.5,"This course examines the legal environment in business, focusing on legal and ethical issues. Students review tort law, criminal law,
+BU2760,Business Law,4.5,"s
+This course examines the legal environment in business, focusing on legal and ethical issues. Students review tort law, criminal law,
 cyber crimes, contracts, bankruptcy, employment law and property law. Prerequisites:"
-BU2799,Business Management Capstone Project,4.5,"This is a project course in which students solve a business problem that is designed to combine elements of all of the courses in the
+BU2799,Business Management Capstone Project,4.5,"s
+This is a project course in which students solve a business problem that is designed to combine elements of all of the courses in the
 program. The instructor must approve the scope and depth of the student’s project and acts as a resource for the student during the
 execution of the project. A formal written document and presentation are required. Prerequisites: Must be taken during the student’s
 final quarter of study"
-BU3110,Business Negotiation,4.5,"This course examines topics in business negotiation, such as general contracts, labor agreements and sales contracts. Students will
+BU3110,Business Negotiation,4.5,"s
+This course examines topics in business negotiation, such as general contracts, labor agreements and sales contracts. Students will
 use standard scenarios to practice developing settlements that are fair for all parties involved in a negotiation. Prerequisites:"
-BU3315,Quantitative Analysis,4.5,"This course focuses on mathematical methods used in decision making. Topics include linear programming, queuing theory,
+BU3315,Quantitative Analysis,4.5,"s
+This course focuses on mathematical methods used in decision making. Topics include linear programming, queuing theory,
 transportation method and working under conditions of uncertainty to make choices that improve business outcomes. Students will use
 software to practice solving business problems."
-CJ123,Criminal Law,4,"This course introduces the student to criminal law, which involves the imposition of penalties for engaging in criminal conduct. The
+CJ123,Criminal Law,4,"s
+This course introduces the student to criminal law, which involves the imposition of penalties for engaging in criminal conduct. The
 course also explores the distinction between criminal law, which typically is enforced by the government, and civil law, which may be
 enforced by private parties. Prerequisites:"
-CJ131,Introduction to Criminal Justice,4,"This survey course introduces the student to the scope, principles and purposes of the American criminal justice system with emphasis
+CJ131,Introduction to Criminal Justice,4,"s
+This survey course introduces the student to the scope, principles and purposes of the American criminal justice system with emphasis
 on crime, law enforcement, courts and corrections."
-CJ132,Criminal Justice Organization and Administration,4,"This course examines the organization, administration and practice of police, courts and correctional organizations at the federal, state
+CJ132,Criminal Justice Organization and Administration,4,"s
+This course examines the organization, administration and practice of police, courts and correctional organizations at the federal, state
 and municipal levels."
-CJ133,Criminology,4,"This course offers an interdisciplinary and integrative approach to the study of crime. It includes an overview of criminological theories
+CJ133,Criminology,4,"s
+This course offers an interdisciplinary and integrative approach to the study of crime. It includes an overview of criminological theories
 of causation, treatment and punishment."
-CJ151,Principles of Policing and Law Enforcement,4,"This course is an introduction to policing and law enforcement in America including a historical and social review of policing and law
+CJ151,Principles of Policing and Law Enforcement,4,"s
+This course is an introduction to policing and law enforcement in America including a historical and social review of policing and law
 enforcement. Emphasis is placed on contemporary strategies used in modern law enforcement organizations and administration to
 combat and prevent crime."
-CJ152,Law Enforcement Reporting and Recording,4,"This course introduces students to fundamental guidelines for reports common to the criminal justice community. The course also
+CJ152,Law Enforcement Reporting and Recording,4,"s
+This course introduces students to fundamental guidelines for reports common to the criminal justice community. The course also
 studies how computers and technology are used as tools in this process."
-CJ211,Correctional Programs: Probation and Parole,4,"This introduction to the probation and parole system in the United States tracks the progress of an individual through each phase of the
+CJ211,Correctional Programs: Probation and Parole,4,"s
+This introduction to the probation and parole system in the United States tracks the progress of an individual through each phase of the
 system."
-CJ241,Criminal Investigation,4,"This course explores theoretical and practical aspects of criminal investigation and introduces the student to investigative processes,
+CJ241,Criminal Investigation,4,"s
+This course explores theoretical and practical aspects of criminal investigation and introduces the student to investigative processes,
 procedures and challenges."
-CJ242,Forensics and Crime Scene Investigation,4,"This course explores the evolution and role of forensics in criminal justice and scientific crime scene investigation. Emphasis is placed
+CJ242,Forensics and Crime Scene Investigation,4,"s
+This course explores the evolution and role of forensics in criminal justice and scientific crime scene investigation. Emphasis is placed
 on identification and detection methods and the collection and gathering of evidence. Prerequisites:"
-CJ243,The Criminalistics of Cybercrime,4,"This course examines the scope of cybercrimes and the cybersecurity threat and legal considerations facing law enforcement and
+CJ243,The Criminalistics of Cybercrime,4,"s
+This course examines the scope of cybercrimes and the cybersecurity threat and legal considerations facing law enforcement and
 cybersecurity professionals in dealing with discovering, investigating and prosecuting cybercrimes. The role of intrusion detection in
 information security and different tools used to detect intrusion will also be discussed."
-CJ253,Policing Techniques: Interviewing and Interrogation,4,"This course explores police techniques and tactics used to combat and prevent crime. Emphasis is placed on the knowledge and
+CJ253,Policing Techniques: Interviewing and Interrogation,4,"s
+This course explores police techniques and tactics used to combat and prevent crime. Emphasis is placed on the knowledge and
 working skills involved in the art of interviewing and interrogating witnesses and suspects, and the relevant legal parameters that must
 be followed during field procedures."
-CJ261,Essentials of Security,4,"This course offers an overview of security elements and types of security organizations with a focus on security measures used to
+CJ261,Essentials of Security,4,"s
+This course offers an overview of security elements and types of security organizations with a focus on security measures used to
 protect lives, property and proprietary information through risk management and asset protection."
-CJ264,Transportation Security,4,"This course examines current and future threats to the transportation systems and discusses methods and technologies designed to
+CJ264,Transportation Security,4,"s
+This course examines current and future threats to the transportation systems and discusses methods and technologies designed to
 confront these threats. Coverage of relevant security issues relating to transportation by sea, land, pipeline and air will be included."
-CJ270,Externship in Criminal Justice,4,"This course provides students with an experiential learning event related to the field of Criminal Justice. Participating students acquire
+CJ270,Externship in Criminal Justice,4,"s
+This course provides students with an experiential learning event related to the field of Criminal Justice. Participating students acquire
 “real-world” experience as an active member of a criminal justice related agency. Students have the opportunity to apply the
 knowledge, skills and abilities they have acquired in the Criminal Justice program. Prerequisites: Completion of a minimum of 72
 credits earned in the program of study"
-CJ299,Criminal Justice Capstone,4,"This course provides a culminating experience after two years of study in the Criminal Justice program. Students are given the
+CJ299,Criminal Justice Capstone,4,"s
+This course provides a culminating experience after two years of study in the Criminal Justice program. Students are given the
 opportunity to demonstrate competency and knowledge they have learned throughout the program. Prerequisites: Completion of a
 minimum of 80 credits earned in the program of study including"
-CJ1110,Introduction to Criminal Justice,4.5,"This survey course introduces the scope, principles and purposes of the American criminal justice system with emphasis on
+CJ1110,Introduction to Criminal Justice,4.5,"s
+This survey course introduces the scope, principles and purposes of the American criminal justice system with emphasis on
 criminology, forensics, law enforcement, courts, corrections and security."
-CJ1210,Criminology,4.5,This course introduces the fundamentals of the causes and control of crime.
-CJ1220,Fundamentals of Law Enforcement,4.5,"This course provides an overview of policing and law enforcement, criminal justice administration and community policing. Topics
+CJ1210,Criminology,4.5,"s
+This course introduces the fundamentals of the causes and control of crime."
+CJ1220,Fundamentals of Law Enforcement,4.5,"s
+This course provides an overview of policing and law enforcement, criminal justice administration and community policing. Topics
 include a historical and social review of policing with an emphasis on current trends and strategies used by modern law enforcement
 agencies to combat and prevent crime."
-CJ1310,Criminal Justice Report Writing,4.5,"This course introduces the process of documenting and writing clear, concise, complete and accurate reports common in criminal
+CJ1310,Criminal Justice Report Writing,4.5,"s
+This course introduces the process of documenting and writing clear, concise, complete and accurate reports common in criminal
 justice fields. Prerequisites:"
-CJ1320,Investigations,4.5,"This course introduces the processes and procedures used in conducting investigations in criminal justice fields. Students will practice
+CJ1320,Investigations,4.5,"s
+This course introduces the processes and procedures used in conducting investigations in criminal justice fields. Students will practice
 detection, investigation and solution of criminal justice problems."
-CJ1440,Community Corrections,4.5,"This course introduces fundamentals of the probation and parole system in the United States as well as other components of
+CJ1440,Community Corrections,4.5,"s
+This course introduces fundamentals of the probation and parole system in the United States as well as other components of
 community corrections."
-CJ1470,Criminalistics,4.5,"This course introduces modern methods used to examine and investigate evidence. This course includes problem sets and a laboratory
+CJ1470,Criminalistics,4.5,"s
+This course introduces modern methods used to examine and investigate evidence. This course includes problem sets and a laboratory
 component."
-CJ2570,Forensic Technology,4.5,"This course is a continuation of the study of forensics begun in the Criminalistics course. Students use principles of forensics and
+CJ2570,Forensic Technology,4.5,"s
+This course is a continuation of the study of forensics begun in the Criminalistics course. Students use principles of forensics and
 technology tools to further examine evidence and recreate crime scenes."
-CJ2640,The American Jail,4.5,"This course introduces the process and procedures used in jailing in the United States, including security, booking, operations and jail
+CJ2640,The American Jail,4.5,"s
+This course introduces the process and procedures used in jailing in the United States, including security, booking, operations and jail
 programs. Topics include the relationship between courts and jails."
-CJ2650,Security Operations and Management,4.5,"This course introduces fundamentals of planning, resource allocation, risk management and implementation of a prepared plan in
+CJ2650,Security Operations and Management,4.5,"s
+This course introduces fundamentals of planning, resource allocation, risk management and implementation of a prepared plan in
 providing security and in times of crisis."
-CJ2670,Computer Forensics,4.5,This course introduces fundamentals of securing a crime scene and gathering evidence from computers used in a crime.
-CJ2699,Criminal Justice Externship,4.5,"This course provides students with an opportunity to apply knowledgeand skills acquired in the program in a real world experience for
+CJ2670,Computer Forensics,4.5,"s
+This course introduces fundamentals of securing a crime scene and gathering evidence from computers used in a crime."
+CJ2699,Criminal Justice Externship,4.5,"s
+This course provides students with an opportunity to apply knowledgeand skills acquired in the program in a real world experience for
 135 hours. Prerequisites: Completion of a minimum of 67 credits earned in the program of study"
-CJ2799,Criminology and Forensic Technology Capstone Project,4.5,"This is a culminating course in the Criminology and Forensic Technology program. Students are given the opportunity to demonstrate
+CJ2799,Criminology and Forensic Technology Capstone Project,4.5,"s
+This is a culminating course in the Criminology and Forensic Technology program. Students are given the opportunity to demonstrate
 skills and knowledge developed from courses in the program. Prerequisites: Must be taken during the student’s final quarter of
 study, and requires prior satisfactory completion of"
-DT1110,Introduction to Drafting and Design Technology,4.5,"This course introduces technical drafting and design practices. Topics include lettering, metric construction, technical sketching,
+DT1110,Introduction to Drafting and Design Technology,4.5,"s
+This course introduces technical drafting and design practices. Topics include lettering, metric construction, technical sketching,
 orthographic projection, sections, intersections, development, fasteners, theory and applications of dimensioning and tolerances,
 pictorial drawing, and the preparation of working and detailed drawings."
-DT1210,Rapid Visualization Techniques,4.5,"This course introduces the concepts of rapid communication of design topics utilizing techniques of freehand drawing and their
+DT1210,Rapid Visualization Techniques,4.5,"s
+This course introduces the concepts of rapid communication of design topics utilizing techniques of freehand drawing and their
 application to technical sketching and design visualization. Hands-on projects include drawing of two- and three-dimensional shapes
 and objects, spatial thinking and eye-hand coordination in relation to the practice of drafting and design."
-DT1230,CAD Methods,4.5,"This course examines computer-aided drafting (CAD) techniques utilizing CAD equipment. Hands-on projects include geometric
+DT1230,CAD Methods,4.5,"s
+This course examines computer-aided drafting (CAD) techniques utilizing CAD equipment. Hands-on projects include geometric
 construction, various projections, sections, auxiliaries, dimensioning, sketching, and detail drawing that is practiced and applied using
 proper CAD procedures. Maintenance of CAD drawing files through the use of operating system commands is applied and stressed."
-DT1320,Building Information Modeling (BIM),4.5,"This course examines architectural planning and design utilizing Building Information Management (BIM) techniques. Fundamental
+DT1320,Building Information Modeling (BIM),4.5,"s
+This course examines architectural planning and design utilizing Building Information Management (BIM) techniques. Fundamental
 design methods and practices for the creation of architectural drawings are presented, with emphasis on the content of the drawings
 and the production skills. Topics include the development of floor plans, elevations and sections of building projects."
-DT1325,Sustainability in Design,4.5,"In this course, students investigate the challenges of implementing sustainability in a variety of contexts, from the perspectives of
+DT1325,Sustainability in Design,4.5,"s
+In this course, students investigate the challenges of implementing sustainability in a variety of contexts, from the perspectives of
 climate change, energy use, natural resource use and ecosystems/land use. Students explore current trends of sustainability as it
 applies to design, manufacturing and building. Topics include materials, manufacturing techniques, new technologies, renewable
 resources and product life cycle analysis."
-DT1410,Materials and Processes in Design,4.5,"This course emphasizes the materials and processes used in manufacturing and construction. Students are introduced to a variety of
+DT1410,Materials and Processes in Design,4.5,"s
+This course emphasizes the materials and processes used in manufacturing and construction. Students are introduced to a variety of
 construction and manufacturing materials, machine tools and tooling used in a variety of processes. Emphasis is placed on terminology
 and function."
-DT1430,Parametric Modeling,4.5,"This course examines the creation of parametric models utilizing design software. Topics include working with constrained geometry,
+DT1430,Parametric Modeling,4.5,"s
+This course examines the creation of parametric models utilizing design software. Topics include working with constrained geometry,
 creating and documenting assemblies, and advanced part modeling techniques."
-DT2510,Advanced CAD Methods,4.5,"This is a course in computer-aided design for the advanced CAD user. Students utilize a typical CAD system to design and analyze
+DT2510,Advanced CAD Methods,4.5,"s
+This is a course in computer-aided design for the advanced CAD user. Students utilize a typical CAD system to design and analyze
 mechanical systems, architectural structures and other devices. This course reinforces CAD skills studied in the CAD Methods course."
-DT2520,3D Civil Drafting,4.5,"This course provides an introduction to civil drafting and design using surveying and engineering data to draw civil engineering plans.
+DT2520,3D Civil Drafting,4.5,"s
+This course provides an introduction to civil drafting and design using surveying and engineering data to draw civil engineering plans.
 Topics include legal descriptions, plan and profile drawings, topographic mapping, cross-sections and required calculations."
-DT2630,3D Modeling and Visualization,4.5,"This course explores 3D modeling, the application of realistic textures, lighting principles and techniques for the use of camera types.
+DT2630,3D Modeling and Visualization,4.5,"s
+This course explores 3D modeling, the application of realistic textures, lighting principles and techniques for the use of camera types.
 An emphasis is placed on industry trends and issues pertaining to rendering output for different mediums."
-DT2740,Advanced CAD Methods using AutoCAD,3.0,"This course focuses on the tools, features and common tasks of AutoCAD. Topics will include altering objects, annotations, creating
+DT2740,Advanced CAD Methods using AutoCAD,3.0,"s
+This course focuses on the tools, features and common tasks of AutoCAD. Topics will include altering objects, annotations, creating
 template content, creating additional drawing objects, dimensioning, drawing organization and inquiry commands, hatching objects,
 inserting and managing external references, isolating or hiding displayed objects, manipulating objects, layouts and visibility, printing
 and plotting, and reusable content. Students will demonstrate competency using all the AutoCAD commands and features. This course
 examines the concepts found in the AutoCAD Certified Professional certification exam."
-DT2745,Advanced CAD Methods using AutoCAD,4.5,"This course focuses on the tools, features and common tasks of AutoCAD. Topics will include altering objects, annotations, creating
+DT2745,Advanced CAD Methods using AutoCAD,4.5,"s
+This course focuses on the tools, features and common tasks of AutoCAD. Topics will include altering objects, annotations, creating
 template content, creating additional drawing objects, dimensioning, drawing organization and inquiry commands, hatching objects,
 inserting and managing external references, isolating or hiding displayed objects, manipulating objects, layouts and visibility, printing an
 plotting, and reusable content. Students will demonstrate competency using all the AutoCAD commands and features. This course
 examines the concepts found in the AutoCAD Certified -Professional certification exam."
-DT2799,Drafting and Design Technology Capstone Project,4.5,"An introduction to the theory and practical development, planning, management and presentation of a drafting project from start to
+DT2799,Drafting and Design Technology Capstone Project,4.5,"s
+An introduction to the theory and practical development, planning, management and presentation of a drafting project from start to
 finish. Topics include techniques of project planning, project design and execution, documentation and presentation. Students are
 required to apply project management techniques to a Capstone Project. Prerequisites: Must be taken during the student’s final
 quarter of study, and requires prior satisfactory completion of"
-ET1210,DC-AC Electronics,4.5,"This course examines properties and operations of electronics systems and circuits. Topics include types of circuits, electromagnetism,
+ET1210,DC-AC Electronics,4.5,"s
+This course examines properties and operations of electronics systems and circuits. Topics include types of circuits, electromagnetism,
 frequency, capacitance, transformers and voltage. Students apply electronics laws to solve circuit problems. Prerequisite or
 Corequisite:"
-ET1220,Digital Fundamentals,4.5,"In this course, students examine the differences between analog and digital signals. Topics include transmission methods, binary data,
+ET1220,Digital Fundamentals,4.5,"s
+In this course, students examine the differences between analog and digital signals. Topics include transmission methods, binary data,
 logic operations, logic circuits, logic symbols, registers and counters."
-ET1310,Solid State Devices,4.5,"In this course, students study a variety of electronic devices, such as semiconductors, diodes, transistors and amplifiers. Bias circuits
+ET1310,Solid State Devices,4.5,"s
+In this course, students study a variety of electronic devices, such as semiconductors, diodes, transistors and amplifiers. Bias circuits
 and methods and switching applications are discussed. Students analyze circuits and troubleshoot a power supply."
-ET1410,Integrated Circuits,4.5,"This course explores principles of operational amplifier circuits (op-amps), AC and DC parameters and applications for power
+ET1410,Integrated Circuits,4.5,"s
+This course explores principles of operational amplifier circuits (op-amps), AC and DC parameters and applications for power
 amplifiers, feedback, oscillation and line and load regulation. Students analyze and troubleshoot op-amp circuits."
-ET2530,Electronic Communications,4.5,"In this course, students explore topics of electronic communications, such as the electromagnetic frequency spectrum, frequency
+ET2530,Electronic Communications,4.5,"s
+In this course, students explore topics of electronic communications, such as the electromagnetic frequency spectrum, frequency
 bands, modulation, digital data, antennas, transmission lines and loads, government services and fiber optics. Exercises include
 diagramming modern transmitter and receiver components, plotting impedances, and making line and load conversions. Prerequisites:"
-ET2560,Introduction to C Programming,4.5,"This course is designed to help students understand the fundamental concepts and terminology of computer programming and practical
+ET2560,Introduction to C Programming,4.5,"s
+This course is designed to help students understand the fundamental concepts and terminology of computer programming and practical
 skills used in designing, writing and debugging simple computer programs in C."
-ET2640,Microprocessors and Microcontrollers,4.5,"This course examines the creation, assembly, features, function, programming and product applications of contemporary
+ET2640,Microprocessors and Microcontrollers,4.5,"s
+This course examines the creation, assembly, features, function, programming and product applications of contemporary
 microprocessors and microcontrollers. Students perform exercises in planning, designing, implementing and debugging functional
 microcontrollers. Prerequisites:"
-ET2750,Programmable Logic Controllers,4.5,"In this course, students study components, operations, maintenance and troubleshooting of programmable logic controllers (PLC).
+ET2750,Programmable Logic Controllers,4.5,"s
+In this course, students study components, operations, maintenance and troubleshooting of programmable logic controllers (PLC).
 Topics include I/O addressing, ladder schematics, scan sequence, sensors, actuators, controls, data manipulation methods, timers and
 counters, sequencers and shift-registers. Students have a PLC project in this course. Prerequisites:"
-ET2760,Advanced PLC Programming,3.0,"This course focuses on the advanced use of core Programmable Logic Controllers (PLC) programming skills. The student will be
+ET2760,Advanced PLC Programming,3.0,"s
+This course focuses on the advanced use of core Programmable Logic Controllers (PLC) programming skills. The student will be
 required to demonstrate mastery of skills to create, modify, and troubleshoot PLC systems. This course examines the concepts found in
 the S7 Certified Programmer certification exam."
-ET2799,Electrical Engineering Technology Capstone Project,4.5,"Final capstone project with fundamental review provides students with a design experience and integration of knowledge in electronics
+ET2799,Electrical Engineering Technology Capstone Project,4.5,"s
+Final capstone project with fundamental review provides students with a design experience and integration of knowledge in electronics
 and computers gained in previous coursework, as well as a means to practice problem solving and teamwork, project management,
 technical writing skills and project presentation skills. Prerequisites: Must be taken during the student’s final quarter of study, and
 requires prior satisfactory completion of"
-ET3110,Networking and Communications,4.5,"This course explores concepts of data communications and networking. Topics include basic data communications networks and
+ET3110,Networking and Communications,4.5,"s
+This course explores concepts of data communications and networking. Topics include basic data communications networks and
 systems, local area networks, internetworks and the Internet."
-ET3150,Automatic Industrial Control,4.5,"This course examines process control technology. Topics include analog and digital signal conditioning, sensors, final control operation,
+ET3150,Automatic Industrial Control,4.5,"s
+This course examines process control technology. Topics include analog and digital signal conditioning, sensors, final control operation,
 discrete-state process control, digital control and controllers. Prerequisites:"
-ET3220,Mobile Wireless Technology,4.5,"This course introduces mobile technology and wireless communications and their practical applications. Topics include wireless
+ET3220,Mobile Wireless Technology,4.5,"s
+This course introduces mobile technology and wireless communications and their practical applications. Topics include wireless
 communications systems, mobile devices and mobile networking."
-ET3280,Electrical Machines and Energy Conversion,4.5,"In this course, students study concepts of basic energy conversion and physical phenomena in electrical machine operation. Topics
+ET3280,Electrical Machines and Energy Conversion,4.5,"s
+In this course, students study concepts of basic energy conversion and physical phenomena in electrical machine operation. Topics
 include magnetic materials and circuits, motors, generators, transformers and induction machines, synchronous machines and
 alternators. Prerequisites:"
-ET3330,Telecommunications Systems and Technology,4.5,"This course explores concepts and applications of telecommunications systems and technology. Emphasis is on technical aspects of
+ET3330,Telecommunications Systems and Technology,4.5,"s
+This course explores concepts and applications of telecommunications systems and technology. Emphasis is on technical aspects of
 digital communications systems with digital signal processing, transmission, reception, storage and retrieval of information."
-ET3380,Power Electronics,4.5,"This course introduces principles and applications of power electronics. Topics include electric power conversion, conditioning and
+ET3380,Power Electronics,4.5,"s
+This course introduces principles and applications of power electronics. Topics include electric power conversion, conditioning and
 control, power devices and switches, switching techniques, rectifiers, converters and inverters, and switching power supplies.
 Prerequisites:"
-ET3430,Fiber Optic Communications,4.5,"This course explores concepts of fiber optic communication systems. Topics include light sources, optical fibers and their properties,
+ET3430,Fiber Optic Communications,4.5,"s
+This course explores concepts of fiber optic communication systems. Topics include light sources, optical fibers and their properties,
 optical amplifiers, optical transmitters and receivers, communications systems and optical networks."
-ET3480,Power Systems,4.5,"In this course, students study energy conversion, elements and the structure and operation of electric power systems. Topics include
+ET3480,Power Systems,4.5,"s
+In this course, students study energy conversion, elements and the structure and operation of electric power systems. Topics include
 generators, transformers, load flow and power distribution, and the operation and analysis of power systems."
-ET4560,C++ Programming,4.5,"This course introduces concepts of object oriented programming and provides hands-on exercises in C++ programming. Areas of
+ET4560,C++ Programming,4.5,"s
+This course introduces concepts of object oriented programming and provides hands-on exercises in C++ programming. Areas of
 instruction include primitive data types, control structures, functions, pass-by-value, pass-by-reference, array, pointers, C-strings,
 recursion, class and objects, file input and output, operator overloading and inheritance."
-ET4580,Green Energy Technology,4.5,"This course explores concepts and applications of renewable energy technology. Topics include types of renewable energy technology,
+ET4580,Green Energy Technology,4.5,"s
+This course explores concepts and applications of renewable energy technology. Topics include types of renewable energy technology,
 such as wind energy, solar power, hydro-electric energy, bio-energy, tidal power, wave energy, geothermal energy, ocean thermal
 power and fuel cells."
-ET4640,Embedded Systems,4.5,"This course examines microcontrollers and their applications in embedded systems. Emphasis is on effective programming, interfacing
+ET4640,Embedded Systems,4.5,"s
+This course examines microcontrollers and their applications in embedded systems. Emphasis is on effective programming, interfacing
 and implementing a microcontroller. Prerequisites:"
-ET4671,Electronic Circuit Analysis,4.5,"This course involves methods of analysis for analog circuits. Topics include transient and steady-state analysis of circuit response using
+ET4671,Electronic Circuit Analysis,4.5,"s
+This course involves methods of analysis for analog circuits. Topics include transient and steady-state analysis of circuit response using
 techniques such as differential equations, Laplace transforms and computer-aided circuit simulation programs, transfer functions and
 Fourier techniques. Prerequisites:"
-ET4771,Electronic Circuit Design,4.5,"This course examines the design of electronic circuits, and includes a laboratory that utilizes computer-aided software tools for circuit
+ET4771,Electronic Circuit Design,4.5,"s
+This course examines the design of electronic circuits, and includes a laboratory that utilizes computer-aided software tools for circuit
 design and simulation. Topics include active filters, time and frequency analysis, and modeling and simulations."
-ET4799,Electrical Engineering and Communications Technology Capstone Project,4.5,"This is a project course in which students solve a technical problem that is designed to combine elements of courses in the program.
+ET4799,Electrical Engineering and Communications Technology Capstone Project,4.5,"s
+This is a project course in which students solve a technical problem that is designed to combine elements of courses in the program.
 The instructor must approve the scope and depth of the student’s project and acts as a resource for the student during the execution of
 the project. A formal written document and presentation are required. Prerequisites: Completion of a minimum of 171 credits
 earned in the program of study"
-FN2640,Fundamentals of Finance,4.5,"This course examines factors included in financial decision-making, such as return on investment, financial planning, budgeting and the
+FN2640,Fundamentals of Finance,4.5,"s
+This course examines factors included in financial decision-making, such as return on investment, financial planning, budgeting and the
 comparison of different corporate investments. It also covers the timing of cash flow and its impact on the desirability of investments.
 Prerequisites:"
-FN3140,Accounting and Finance for Business,4.5,"In this course, students will analyze the cost structure and timing of cash flows in a business, and use the budget and financial
+FN3140,Accounting and Finance for Business,4.5,"s
+In this course, students will analyze the cost structure and timing of cash flows in a business, and use the budget and financial
 performance of the business as the basis to evaluate the attractiveness of its capital investments."
-HM1120,Medical Terminology for Healthcare Professionals,4.5,"This course introduces elements of medical terminology, such as the foundations of medical terms used to describe the human body
+HM1120,Medical Terminology for Healthcare Professionals,4.5,"s
+This course introduces elements of medical terminology, such as the foundations of medical terms used to describe the human body
 and its conditions, terminology for medical and surgical procedures and recognition of common abbreviations. This course also
 provides a basic overview of anatomy."
-HM1310,Information Systems and Technology in Healthcare,4.5,"This course introduces the basic principles and mechanics of the electronic health record, data retrieval and storage, and healthcare
+HM1310,Information Systems and Technology in Healthcare,4.5,"s
+This course introduces the basic principles and mechanics of the electronic health record, data retrieval and storage, and healthcare
 computer systems. Topics include the use of hardware and software in data collection, storage, analysis and reporting, the importance
 of data quality, entry, integrity and reliability as well as confidentiality, and the use of security measures to protect electronic health
 records."
-HM2520,Medical Coding I,4.5,"This course introduces principles and guidelines for using the International Classification of Diseases (“ICD”) and Current Procedural
+HM2520,Medical Coding I,4.5,"s
+This course introduces principles and guidelines for using the International Classification of Diseases (“ICD”) and Current Procedural
 Terminology (“CPT”) systems to code diagnoses and procedures in healthcare settings. Emphasis will be placed on students using
 coding manuals and encoding software to practice diagnosis and procedure coding, and sequencing of diagnoses and procedures.
 Students will be introduced to coding medical records and operative reports."
-HM2620,Medical Coding II,4.5,"Building on Medical Coding I, this course focuses on advanced use of the International Classification of Diseases (“ICD”) and Current
+HM2620,Medical Coding II,4.5,"s
+Building on Medical Coding I, this course focuses on advanced use of the International Classification of Diseases (“ICD”) and Current
 Procedural Terminology (“CPT”) systems to code diagnoses and procedures in healthcare settings. This course also focuses on
 enhancing students’ coding skills."
-IE1110,Introduction to Industrial Engineering Technology,4.5,"This course introduces industrial engineering and the evolution of its approach in solving problems. Topics include an overview of
+IE1110,Introduction to Industrial Engineering Technology,4.5,"s
+This course introduces industrial engineering and the evolution of its approach in solving problems. Topics include an overview of
 industrial engineering, concept and scope of industrial engineering, the evolution of the industrial engineering approach, concepts of
 manufacturing systems, design of manufacturing systems, operation and management of manufacturing systems, and industrial
 engineering education, profession and ethics."
-IE1210,Manufacturing Processes,4.5,"This course is an overview of manufacturing technology and its basic working principles. Topics include basic modern manufacturing
+IE1210,Manufacturing Processes,4.5,"s
+This course is an overview of manufacturing technology and its basic working principles. Topics include basic modern manufacturing
 processes and quality control measures."
-IE1215,Basic Industrial Engineering Graphics,4.5,"This course examines methods of documenting the engineering of a product in process planning and production planning. Topics
+IE1215,Basic Industrial Engineering Graphics,4.5,"s
+This course examines methods of documenting the engineering of a product in process planning and production planning. Topics
 include introduction to design, design using CAD, geometric construction, sketching, lettering, lines, 3D drawing, orthographic
 projection, auxiliary views, dimensioning and tolerancing, tolerance and fit, assembly and exploded assembly models, thread, fastener,
 springs, bill of material, documentation and working drawings, and parametric modeling. Students also study how to read engineering
 drawings and produce a bill of material for a product."
-IE1310,Work Measurements,4.5,"This course introduces principles and practices of work analysis and work measurement. Students will explore productivity
+IE1310,Work Measurements,4.5,"s
+This course introduces principles and practices of work analysis and work measurement. Students will explore productivity
 improvement techniques, such as work simplification, motion economy, and time and motion studies. Topics include the design and
 standardization of work methods. Prerequisites:"
-IE1320,Lean Manufacturing,4.5,"This course explores terminology and benefits of lean manufacturing. Topics include simplification and standardization of workflow,
+IE1320,Lean Manufacturing,4.5,"s
+This course explores terminology and benefits of lean manufacturing. Topics include simplification and standardization of workflow,
 managing capacity and eliminating waste in the production process."
-IE1410,Human Factors,4.5,"This course introduces human factors in the work environment. It focuses on using industrial engineering to improve productivity by
+IE1410,Human Factors,4.5,"s
+This course introduces human factors in the work environment. It focuses on using industrial engineering to improve productivity by
 adapting the work environment to human capabilities."
-IE1420,Statistical Process Control,4.5,"This course introduces statistical concepts and application, such as X-bar and R-charts, p-charts, u-charts, c-charts, and basic quality
+IE1420,Statistical Process Control,4.5,"s
+This course introduces statistical concepts and application, such as X-bar and R-charts, p-charts, u-charts, c-charts, and basic quality
 management concepts."
-IE2510,Industrial Safety,4.5,"This course introduces safety programs used in industry. Topics include three key techniques for increasing safety in the workplace:
+IE2510,Industrial Safety,4.5,"s
+This course introduces safety programs used in industry. Topics include three key techniques for increasing safety in the workplace:
 preliminary hazard analysis, failure modes and effects analysis, and OSHA hazard analysis and safety review requirements."
-IE2515,Facilities Design,4.5,"This course explores the theory of facility design. Topics include the scope of facility planning, facility layout planning procedures,
+IE2515,Facilities Design,4.5,"s
+This course explores the theory of facility design. Topics include the scope of facility planning, facility layout planning procedures,
 systematic layout planning, non-production activity, production activity, computer-aided layout design, selection evaluation and
 implementation, and group technology layout. Prerequisites:"
-IE2620,Cost Estimating,4.5,"This course introduces cost estimating for labor, materials and overhead for products, systems and projects. Topics include budgets
+IE2620,Cost Estimating,4.5,"s
+This course introduces cost estimating for labor, materials and overhead for products, systems and projects. Topics include budgets
 and cost accounting."
-IE2799,Industrial Engineering Technology Capstone,4.5,"This course provides an opportunity for students to work on a comprehensive project that includes designing or improving an integrated
+IE2799,Industrial Engineering Technology Capstone,4.5,"s
+This course provides an opportunity for students to work on a comprehensive project that includes designing or improving an integrated
 system. The project is designed to combine elements of courses in the program of study. Prerequisites: Completion of a minimum of
 75 credits earned in the program of study including"
-IS3110,Risk Management in Information Technology Security,4.5,"This course addresses how risk, threats and vulnerabilities impact information systems in the context of risk management. Topics
+IS3110,Risk Management in Information Technology Security,4.5,"s
+This course addresses how risk, threats and vulnerabilities impact information systems in the context of risk management. Topics
 include methods of assessing, analyzing and managing risks, defining an acceptable level of risk for information systems, and
 identifying elements of a business impact analysis, a business continuity plan and a disaster recovery plan."
-IS3120,Network Communications Infrastructure,4.5,"This course explores the convergence of computer networking and telecommunications technologies. Capabilities and limitations of
+IS3120,Network Communications Infrastructure,4.5,"s
+This course explores the convergence of computer networking and telecommunications technologies. Capabilities and limitations of
 converged networking infrastructure are analyzed through voice, data and video applications in relation to performance, management
 and security challenges. Prerequisites:"
-IS3220,Information Technology Infrastructure Security,4.5,"This course examines security challenges encountered on backbone networks in an information and communications infrastructure.
+IS3220,Information Technology Infrastructure Security,4.5,"s
+This course examines security challenges encountered on backbone networks in an information and communications infrastructure.
 Topics include methods of tightening infrastructure security, a variety of tools for monitoring and managing infrastructure security and
 commonly-used technologies, such as firewalls and VPNs."
-IS3230,Access Security,4.5,"This course explores the concept of controlling access to information systems and applications. Topics include access, authentication
+IS3230,Access Security,4.5,"s
+This course explores the concept of controlling access to information systems and applications. Topics include access, authentication
 and accounting for end-users and system administrators, and security controls for access control including tokens and public key
 infrastructures (PKIs)."
-IS3340,Windows Security,4.5,"This course examines security implementations for a variety of Windows platforms and applications. Areas of study include analysis of
+IS3340,Windows Security,4.5,"s
+This course examines security implementations for a variety of Windows platforms and applications. Areas of study include analysis of
 the security architecture of Windows systems. Students will identify and examine security risks and apply tools and methods to address
 security issues in the Windows environment."
-IS3350,Security Issues in Legal Context,4.5,"This course provides an overview of legal processes involved in implementing and maintaining information systems security. Students
+IS3350,Security Issues in Legal Context,4.5,"s
+This course provides an overview of legal processes involved in implementing and maintaining information systems security. Students
 will study security violations and breaches in relation to pertinent laws and regulations, and will use case studies to analyze legal
 impacts of information security issues. Prerequisites:"
-IS3440,Linux Security,4.5,"This course examines threats, vulnerabilities and other security issues in Linux operating systems and applications in the Linux
+IS3440,Linux Security,4.5,"s
+This course examines threats, vulnerabilities and other security issues in Linux operating systems and applications in the Linux
 environment. Students will practice using different methods, tools and techniques to secure Linux operating systems and applications."
-IS3445,Security for Web Applications and Social Networking,4.5,"In this course, students will analyze security implications of information exchange on the Internet and via Web-based applications.
+IS3445,Security for Web Applications and Social Networking,4.5,"s
+In this course, students will analyze security implications of information exchange on the Internet and via Web-based applications.
 Topics include methods and techniques to identify and countermeasure risks, threats and vulnerabilities for Web-based applications,
 and to mitigate risks associated with Web applications and social networking."
-IS4550,Security Policies and Implementation,4.5,"This course explores security policies that protect and maintain an organization’s network and information systems assets. Topics
+IS4550,Security Policies and Implementation,4.5,"s
+This course explores security policies that protect and maintain an organization’s network and information systems assets. Topics
 include the effects of organizational culture, behavior and communications styles on generating, enforcing and maintaining security
 policies."
-IS4560,Hacking and Countermeasures,4.5,"This course explores hacking techniques and countermeasures. Topics include network systems penetration tools and techniques for
+IS4560,Hacking and Countermeasures,4.5,"s
+This course explores hacking techniques and countermeasures. Topics include network systems penetration tools and techniques for
 identifying vulnerabilities and security holes in operating systems and software applications. Students will practice ethical hacking
 procedures to attempt unauthorized access to target systems and data, and incident handling procedures in the case of an information
 security compromise."
-IS4670,Cybercrime Forensics,4.5,"This course explores cybercrime, security threats and legal considerations facing cybersecurity professionals in dealing with the
+IS4670,Cybercrime Forensics,4.5,"s
+This course explores cybercrime, security threats and legal considerations facing cybersecurity professionals in dealing with the
 discovery, investigation and prosecution of cybercrimes. Students will study tools used by computer forensic professionals for
 investigating cybercrimes, and the use of these tools for the collection, examination and preservation of evidence for prosecution.
 Prerequisites:"
-IS4680,Security Auditing for Compliance,4.5,"This course examines principles, approaches and methodology used in auditing information systems security to ensure processes and
+IS4680,Security Auditing for Compliance,4.5,"s
+This course examines principles, approaches and methodology used in auditing information systems security to ensure processes and
 procedures are in compliance with pertinent laws and regulatory provisions."
-IS4690,Advanced Information Security Practices,4.5,"This course examines the industry standards and practices related to information security as defined by the Certified Information
+IS4690,Advanced Information Security Practices,4.5,"s
+This course examines the industry standards and practices related to information security as defined by the Certified Information
 Systems Security Professional (CISSP) certification. Instruction will include organizational and operational security, communications
 and infrastructure, basic cryptography, and compliance concerns. This course examines the concepts found in the CISSP certification
 exam. Prerequisites or Corequisites:"
-IS4799,Information Systems and Cybersecurity Capstone Project,4.5,"This course serves as a comprehensive assessment of knowledge and skills in information systems and cybersecurity. Activities
+IS4799,Information Systems and Cybersecurity Capstone Project,4.5,"s
+This course serves as a comprehensive assessment of knowledge and skills in information systems and cybersecurity. Activities
 include research into selected security problems and planning, designing and implementing security solutions for a user organization.
 Prerequisites: Completion of a minimum of 171 credits earned in the program of study including"
-ME1231,Administrative Medical Assisting,4.5,"This course introduces the role of the medical assistant in the administrative department of a medical office, including the medical
+ME1231,Administrative Medical Assisting,4.5,"s
+This course introduces the role of the medical assistant in the administrative department of a medical office, including the medical
 assistant’s duties and responsibilities and working with various medical specialties. The course also examines the skills and knowledge
 used to perform medical administrative tasks like receiving patients, scheduling appointments, patient triage, handling medical records,
 and processing medical claims. Course topics include communication skills, compliance and regulatory issues, medical law and ethics,
 medical office management and professionalism."
-ME1431,Clinical Medical Assisting,4.5,"This course introduces the knowledge and skills commonly performed by the clinical medical assistant. Topics include infection control,
+ME1431,Clinical Medical Assisting,4.5,"s
+This course introduces the knowledge and skills commonly performed by the clinical medical assistant. Topics include infection control,
 blood-borne pathogens, universal precautions, asepsis, vital signs, medical histories, diagnostic procedures, nutrition, minor surgery,
 wound care, patient education and assisting with pediatric and geriatric patients."
-ME2531,Medical Office Laboratory Procedures,4.5,"This course explores medical office laboratory procedures. Topics include laboratory safety, the Clinical Laboratory Improvement
+ME2531,Medical Office Laboratory Procedures,4.5,"s
+This course explores medical office laboratory procedures. Topics include laboratory safety, the Clinical Laboratory Improvement
 Amendments (CLIA), quality control testing, laboratory equipment and the medical assistant’s scope of practice in the medical
 laboratory, proper collection and handling techniques, waived laboratory procedures and patient preparation, capillary and venipuncture
 techniques and processing specimens."
-ME2610,Medical Reimbursement and Documentation,4.5,"This course introduces medical reimbursement systems. Topics include the assignment and reporting of codes for diagnoses and
+ME2610,Medical Reimbursement and Documentation,4.5,"s
+This course introduces medical reimbursement systems. Topics include the assignment and reporting of codes for diagnoses and
 procedures/services, completion of C"
-ME2631,Medical Office Specialty Procedures,4.5,"This course explores a medical assistant’s role in medical office specialty procedures and exams. Topics include a review of anatomy
+ME2631,Medical Office Specialty Procedures,4.5,"s
+This course explores a medical assistant’s role in medical office specialty procedures and exams. Topics include a review of anatomy
 and common diseases by body systems, electrocardiography, spirometry, prenatal exams, assistive devices, cast care and minor office
 surgical and emergency preparedness procedures. Prerequisites:"
-ME2635,Medication Administration,4.5,"This course introduces medication administration, and appropriate uses, common side effects, and classification of commonly used
+ME2635,Medication Administration,4.5,"s
+This course introduces medication administration, and appropriate uses, common side effects, and classification of commonly used
 drugs. Topics include prescription requirements, medication preparation and administration, dosage calculation, allergy testing and
 laws regulating medications. Prerequisites:"
-ME2799,Medical Assisting and Administration Externship,6.0,"This course is designed to help students make the transition from the classroom to a medical office environment. The 180-hour,
+ME2799,Medical Assisting and Administration Externship,6.0,"s
+This course is designed to help students make the transition from the classroom to a medical office environment. The 180-hour,
 supervised, unpaid clinical experience in an ambulatory healthcare setting combines practical application with elements of courses in
 the program of study. The course focuses on the demonstration of competencies consistent with program outcomes. The course also
 includes a phlebotomy activity to meet the American Society for Clinical Pathology (ASCP) requirement. Prerequisites: Completion
 of all core courses in the program of study"
-MG1350,Fundamentals of Supervision,4.5,"This course is an overview of the role of supervision in business. Students examine the challenges of motivation, communication,
+MG1350,Fundamentals of Supervision,4.5,"s
+This course is an overview of the role of supervision in business. Students examine the challenges of motivation, communication,
 health and safety issues, collective bargaining and ethical conduct in the workplace."
-MG2650,Fundamentals of Management,4.5,"This course explores the concept that supervision and management are related, but involve different styles. It reviews where
+MG2650,Fundamentals of Management,4.5,"s
+This course explores the concept that supervision and management are related, but involve different styles. It reviews where
 management fits in the organization chart and how managers motivate employees for best organizational results. Concentration is on
 management’s responsibility to bring value to shareholders through the execution of traditional management functions."
-MG3250,Trends in Leadership,4.5,"This course presents a variety of topics in leadership, including leadership theory, leadership framework, leadership styles, and trends
+MG3250,Trends in Leadership,4.5,"s
+This course presents a variety of topics in leadership, including leadership theory, leadership framework, leadership styles, and trends
 and challenges in leadership."
-MG4650,Team Leadership,4.5,"In this course, through case studies, scenarios and simulations, students will study leadership perspectives as applicable to the role of
+MG4650,Team Leadership,4.5,"s
+In this course, through case studies, scenarios and simulations, students will study leadership perspectives as applicable to the role of
 team manager. Topics include methods to motivate team performance, managing a project team and evaluating team success."
-MK2530,Fundamentals of Marketing,4.5,"This course provides an overview of elements of a marketing plan, market segmentation, product and service mix and global
+MK2530,Fundamentals of Marketing,4.5,"s
+This course provides an overview of elements of a marketing plan, market segmentation, product and service mix and global
 competitive forces. The culminating project includes the completion of a marketing plan for a new product or service."
-NT1110,Computer Structure and Logic,4.5,"The organization of a computer is examined in a typical operating systems environment. Terminology and underlying principles related
+NT1110,Computer Structure and Logic,4.5,"s
+The organization of a computer is examined in a typical operating systems environment. Terminology and underlying principles related
 to major computer functions are discussed in the context of hardware and software environments."
-NT1210,Introduction to Networking,4.5,"This course serves as a foundation for the study of computer networking technologies. Concepts in data communications, such as
+NT1210,Introduction to Networking,4.5,"s
+This course serves as a foundation for the study of computer networking technologies. Concepts in data communications, such as
 signaling, coding and decoding, multiplexing, circuit switching and packet switching, OSI and TCP/IP models, LAN/WAN protocols,
 network devices and their functions, topologies and capabilities are discussed. Industry standards and the development of networking
 technologies are surveyed in conjunction with a basic awareness of software and hardware components used in typical networking and
 internetworking environments."
-NT1230,Client-Server Networking I,4.5,"This course introduces operating principles for the client-server based networking systems. Students will examine processes and
+NT1230,Client-Server Networking I,4.5,"s
+This course introduces operating principles for the client-server based networking systems. Students will examine processes and
 procedures involving the installation, configuration, maintenance, troubleshooting and routine administrative tasks of popular desktop
 operating system(s) for standalone and network client computers, and related aspects of typical network server functions. Prerequisite
 or Corequisite:"
-NT1310,Physical Networking,4.5,"This course examines industry standards and practices involving the physical components of networking technologies (such as wiring
+NT1310,Physical Networking,4.5,"s
+This course examines industry standards and practices involving the physical components of networking technologies (such as wiring
 standards and practices, various media and interconnection components), networking devices and their specifications and functions.
 Students will practice designing physical network solutions based on appropriate capacity planning and implementing various
 installation, testing and troubleshooting techniques for a computer network."
-NT1330,Client-Server Networking II,4.5,"The typical network server operating system and its functions are the focus of this course. Areas of study include installation,
+NT1330,Client-Server Networking II,4.5,"s
+The typical network server operating system and its functions are the focus of this course. Areas of study include installation,
 configuration, maintenance and routine administrative tasks of the network services provided by the server in relation to its clients and
 other servers."
-NT1410,Operating Systems,4.5,"This course provides an overview of common operating systems. Topics include architecture, functions, and features of various
+NT1410,Operating Systems,4.5,"s
+This course provides an overview of common operating systems. Topics include architecture, functions, and features of various
 operating systems."
-NT1430,Linux Networking,4.5,"This course covers system and network administrative tasks associated to Linux-based components on a network. Routine tasks in
+NT1430,Linux Networking,4.5,"s
+This course covers system and network administrative tasks associated to Linux-based components on a network. Routine tasks in
 installation, configuration, maintenance, and troubleshooting of Linux workstations and servers will be discussed with emphasis on the
 network services provided by open source solutions."
-NT2530,Advanced Server Operating Systems,4.5,"This course is an intensive study of the server operating system including installation, configuration, management, core infrastructure
+NT2530,Advanced Server Operating Systems,4.5,"s
+This course is an intensive study of the server operating system including installation, configuration, management, core infrastructure
 services, policies and permissions, and virtualization. This course examines the concepts found in the Microsoft Certified Professional
 Installing and Configuring Windows Server 2012 certification exam."
-NT2531,Advanced Server and Storage Infrastructure,4.5,"This course is an intensive study of common solutions for servers and storage devices in business environments. Instruction will
+NT2531,Advanced Server and Storage Infrastructure,4.5,"s
+This course is an intensive study of common solutions for servers and storage devices in business environments. Instruction will
 include topics for the HP ATA – Servers and Storage certification. This course examines the concepts found in the HP Accredited
 Technical Associate (ATA) certification exam."
-NT2532,AIX Operating System Administration,4.5,"This course is an intensive study of the AIX enterprise server operating system including installation, configuration, backup and
+NT2532,AIX Operating System Administration,4.5,"s
+This course is an intensive study of the AIX enterprise server operating system including installation, configuration, backup and
 recovery, and user administration. This course examines the concepts found in the IBM Certified Associate System Administrator - AIX
 7 certification exam."
-NT2535,Advanced Linux Server Operating Systems,4.5,"This course is an intensive study of the Linux enterprise server operating system including installation, configuration, backup and
+NT2535,Advanced Linux Server Operating Systems,4.5,"s
+This course is an intensive study of the Linux enterprise server operating system including installation, configuration, backup and
 recovery, management, core infrastructure services, and user administration. This course also examines the concepts found in the Red
 Hat Certified System Administrator (RHCSA) certification exam."
-NT2540,Advanced Networking Devices,4.5,"This course is an intensive study of routers, switches, and other computer and telecommunication network devices. Instruction will
+NT2540,Advanced Networking Devices,4.5,"s
+This course is an intensive study of routers, switches, and other computer and telecommunication network devices. Instruction will
 include network and routing protocols, local and wide area networks, and VLANs as well as device configuration, management, and
 troubleshooting. This course examines the concepts found in the Cisco Certified Entry Networking Technician (CCENT) certification
 exam."
-NT2580,Introduction to Information Security,4.5,"This course provides an overview of security challenges and strategies of counter measures in the information systems environment.
+NT2580,Introduction to Information Security,4.5,"s
+This course provides an overview of security challenges and strategies of counter measures in the information systems environment.
 Topics include definitions of terms, concepts, elements and goals incorporating industry standards and practices with a focus on
 availability, vulnerability, integrity and confidentiality aspects of information systems. Prerequisites:"
-NT2640,IP Networking,4.5,"This course explores network design and implementation by applying the TCP/IP protocols to provide connectivity and associated
+NT2640,IP Networking,4.5,"s
+This course explores network design and implementation by applying the TCP/IP protocols to provide connectivity and associated
 services. Planning and deployment of network addressing structures, as well as router and switch configurations, are also examined."
-NT2670,Email and Web Services,4.5,"This course explores common network-based services such as Web services, email and FTP in a given server operating systems
+NT2670,Email and Web Services,4.5,"s
+This course explores common network-based services such as Web services, email and FTP in a given server operating systems
 environment. Related security issues will also be studied. Prerequisites:"
-NT2710,"Advanced Computer Maintenance, Troubleshooting, and Repair",3.0,"This course is an intensive study of PC hardware and software including physical devices, BIOS, operating systems, and applications.
+NT2710,"Advanced Computer Maintenance, Troubleshooting, and Repair",3.0,"s
+This course is an intensive study of PC hardware and software including physical devices, BIOS, operating systems, and applications.
 Instruction will include installation, configuration, troubleshooting, and repairing software and hardware implementations. This course
 examines the concepts found in the CompTIA A+ certification exam."
-NT2715,"Advanced Computer Maintenance, Troubleshooting, and Repair",4.5,"This course is an intensive study of PC hardware and software including physical devices, BIOS, operating systems, and applications.
+NT2715,"Advanced Computer Maintenance, Troubleshooting, and Repair",4.5,"s
+This course is an intensive study of PC hardware and software including physical devices, BIOS, operating systems, and applications.
 Instruction will include installation, configuration, troubleshooting, and repairing software and hardware implementations. This course
 examines the concepts found in the CompTIA A+ certification exam."
-NT2730,Advanced Server Operating Systems,3.0,"This course is an intensive study of the server operating system including installation, configuration, management, core infrastructure
+NT2730,Advanced Server Operating Systems,3.0,"s
+This course is an intensive study of the server operating system including installation, configuration, management, core infrastructure
 services, policies and permissions, and virtualization. This course examines the concepts found in the Microsoft Certified Professional
 Installing and Configuring Windows Server 2012 certification exam."
-NT2731,Advanced Server and Storage Infrastructure,3.0,"This course is an intensive study of common solutions for servers and storage devices in business environments. Instruction will include
+NT2731,Advanced Server and Storage Infrastructure,3.0,"s
+This course is an intensive study of common solutions for servers and storage devices in business environments. Instruction will include
 topics for the HP ATA – Servers and Storage certification. This course examines the concepts found in the HP Accredited Technical
 Associate (ATA) certification exam."
-NT2732,AIX Operating System Administration,3.0,"This course is an intensive study of the AIX enterprise server operating system including installation, configuration, backup and
+NT2732,AIX Operating System Administration,3.0,"s
+This course is an intensive study of the AIX enterprise server operating system including installation, configuration, backup and
 recovery, and user administration. This course examines the concepts found in the IBM Certified Associate System Administrator - AIX
 7 certification exam."
-NT2735,Advanced Linux Server Operating Systems,3.0,"This course is an intensive study of the Linux enterprise server operating system including installation, configuration, backup and
+NT2735,Advanced Linux Server Operating Systems,3.0,"s
+This course is an intensive study of the Linux enterprise server operating system including installation, configuration, backup and
 recovery, management, core infrastructure services, and user administration. This course also examines the concepts found in the Red
 Hat Certified System Administrator (RHCSA) certification exam."
-NT2740,Advanced Networking Devices,3.0,"This course is an intensive study of routers, switches, and other computer and telecommunication network devices. Instruction will
+NT2740,Advanced Networking Devices,3.0,"s
+This course is an intensive study of routers, switches, and other computer and telecommunication network devices. Instruction will
 include network and routing protocols, local and wide area networks, and VLANs as well as device configuration, management, and
 troubleshooting. This course examines the concepts found in the Cisco Certified Entry Networking Technician (CCENT) certification
 exam."
-NT2799,Network Systems Administration Capstone Project,4.5,"This course provides an opportunity for students to work on a comprehensive project that includes the design, planning and
+NT2799,Network Systems Administration Capstone Project,4.5,"s
+This course provides an opportunity for students to work on a comprehensive project that includes the design, planning and
 implementation of a network solution for solving specific business problems. Common project management processes are applied to
 identify deliverables and outcomes of the project. Prerequisites: Must be taken during the student’s final quarter of study, and
 requires prior satisfactory completion of"
-NU100,Nursing Roles I,4,"This course provides the foundation upon which all subsequent nursing courses are taught. Covered are the concepts and principles
+NU100,Nursing Roles I,4,"s
+This course provides the foundation upon which all subsequent nursing courses are taught. Covered are the concepts and principles
 related to, and the components of, the roles of the professional nurse (provider of care, manager of care, and member of the nursing
 profession), competent evidence-based nursing practice, therapeutic communication, nursing values, health promotion and
 maintenance, and the nursing process, within the various health care delivery systems of acute, long-term, and community
 environments. Strategies for success in the nursing program are presented. Corequisite:"
-NU110,Clinical Nursing Concepts and Techniques I,4,"This course builds on the concepts and principles taught in Nursing Roles I and introduces basic nursing skills and techniques based on
+NU110,Clinical Nursing Concepts and Techniques I,4,"s
+This course builds on the concepts and principles taught in Nursing Roles I and introduces basic nursing skills and techniques based on
 the roles and values of nursing within a nursing process framework. Nursing skills are developed, applied, and practiced in the nursing
 skills laboratory. Technology is used to reinforce application of content through patient care scenarios."
-NU120,Clinical Nursing Concepts and Techniques II,4,"This course introduces intermediate nursing skills and techniques based on the roles and values of nursing within a nursing process
+NU120,Clinical Nursing Concepts and Techniques II,4,"s
+This course introduces intermediate nursing skills and techniques based on the roles and values of nursing within a nursing process
 framework. Nursing skills are developed, applied, and practiced in the nursing skills laboratory. Technology is used to reinforce
 application of content. Prerequisites:"
-NU130,Adult Nursing I,8,"This course introduces the principles of caring for selected adult patients with medical-surgical health care needs related to problems
+NU121,Dosage Calculations,1,"This course builds on basic math concepts to introduce step-by-step approaches to the calculation and administration of drug dosages.
+The course incorporates the ratio and proportion, formula, and dimensional analysis methods. Technology is used to present and
+reinforce application of content. Prerequisites:"
+NU130,Adult Nursing I,8,"s
+This course introduces the principles of caring for selected adult patients with medical-surgical health care needs related to problems
 with mobility, gastrointestinal function, protection, excretion, or reproduction. Evidence-based nursing care is focused on health
 promotion, maintenance, restoration of optimal living and/or supporting a dignified death. Nursing skills and techniques are developed
 and demonstrated in both the nursing skills laboratory and in the clinical setting. Technology is used to reinforce course content.
 Prerequisites:"
-NU205,Pharmacology,4,"This course introduces pharmacological principles, emphasizing actions, interactions, and adverse effects using the nursing process
+NU205,Pharmacology,4,"s
+This course introduces pharmacological principles, emphasizing actions, interactions, and adverse effects using the nursing process
 framework to address nursing implications for each drug classification. Prerequisites:"
-NU230,Adult Nursing II,8,"This course introduces the principles of caring for selected adult patients with medical-surgical health care needs related to problems
+NU230,Adult Nursing II,8,"s
+This course introduces the principles of caring for selected adult patients with medical-surgical health care needs related to problems
 with oxygenation, cardiac output, tissue perfusion, neurological conditions, emergencies, burns, or regulation and metabolism.
 Evidence-based nursing care is focused on health promotion, maintenance, restoration of optimal living and/or supporting a dignified
 death. Nursing skills and techniques are developed and demonstrated when providing direct care in the clinical setting. Technology is
 used to reinforce course content."
-NU240,Gerontologic Nursing,4,"This course introduces the general principles of caring for the older adult. It begins with an overview of wellness in the older adult, then
+NU240,Gerontologic Nursing,4,"s
+This course introduces the general principles of caring for the older adult. It begins with an overview of wellness in the older adult, then
 looks at the physiological and psychological disorders common to this age group. Evidence-based nursing care is focused on health
 promotion, maintenance, restoration of optimal living and/or supporting a dignified death. The student learns about the special needs of
 this patient population while providing nursing care in a variety of settings. Technology is used to reinforce course content."
-NU250,Mental Health Nursing,4,"This course introduces the principles of mental health and caring for patients experiencing problems of a psychological nature.
+NU250,Mental Health Nursing,4,"s
+This course introduces the principles of mental health and caring for patients experiencing problems of a psychological nature.
 Evidence-based nursing care is focused on health promotion, maintenance and restoration of optimal living. Nursing skills and
 communication techniques are developed and demonstrated when providing direct care in the clinical setting. Technology is used to
 reinforce content learned in the course and to provide additional application of content through patient care scenarios. Prerequisites:"
-NU260,Maternal Child Nursing,8,"This course introduces the principles of providing evidence-based nursing care for the childbearing family and for children. Care is
+NU260,Maternal Child Nursing,8,"s
+This course introduces the principles of providing evidence-based nursing care for the childbearing family and for children. Care is
 focused on health promotion and maintenance, prevention of illness, restoration of optimal living and common health problems of the
 childbearing family and children. Nursing skills and communication techniques are developed and demonstrated when providing direct
 care in the clinical setting. Technology is used to reinforce content learned in the course and to provide additional application of content
 through patient care scenarios. Prerequisites:"
-NU270,Complex Care Nursing,8,"This course introduces the principles of providing nursing care for patients with multiple health-related issues. Evidence-based nursing
+NU270,Complex Care Nursing,8,"s
+This course introduces the principles of providing nursing care for patients with multiple health-related issues. Evidence-based nursing
 care is directed at illness prevention, disease management, restoration of optimal living, and/or supporting a dignified death. Nursing
 skills and communication techniques are developed and demonstrated when providing direct care in the clinical setting. Technology is
 used to reinforce content learned in the course and to provide additional application of content through patient care scenarios.
 Prerequisites:"
-NU280,Nursing Roles II,4,"This course explores advanced topics related to leadership and management principles and current issues applicable to the roles of the
+NU280,Nursing Roles II,4,"s
+This course explores advanced topics related to leadership and management principles and current issues applicable to the roles of the
 professional nurse as provider of care, manager of care, and member of the profession. Transition from the role of student nurse to
 registered nurse is discussed. Also includes an overview of, and preparation for, the National Council Licensure Examination for
 Registered Nurses (NCLEX-RN). Prerequisites:"
-PL1110,Introduction to Paralegal,4.5,"This course provides an overview of the paralegal’s role in the legal services industry, including an introduction to client interaction,
+PL1110,Introduction to Paralegal,4.5,"s
+This course provides an overview of the paralegal’s role in the legal services industry, including an introduction to client interaction,
 case preparation, legal research, courtroom assistance and related ethical considerations. The structure of the American legal system
 and its processes are examined."
-PM3110,Introduction to Project Management,4.5,"This course explores the discipline of project management. Topics include characteristics and phases of a project, the project life cycle,
+PM3110,Introduction to Project Management,4.5,"s
+This course explores the discipline of project management. Topics include characteristics and phases of a project, the project life cycle,
 project process groups, project knowledge areas and project standards. Students will compare project management to program
 management."
-PM3140,Systems Analysis,4.5,"This course explores information systems infrastructure at an enterprise level. Topics include identifying business requirements for
+PM3140,Systems Analysis,4.5,"s
+This course explores information systems infrastructure at an enterprise level. Topics include identifying business requirements for
 information systems solutions, evaluating effectiveness of IT processes, design, analysis and implementation issues in information
 systems, and infrastructure capacity and capability."
-PM3150,Construction Techniques,4.5,"This course examines building techniques and construction materials. Topics include basic materials and installation methods for
+PM3150,Construction Techniques,4.5,"s
+This course examines building techniques and construction materials. Topics include basic materials and installation methods for
 construction, site-work, concrete, masonry, metals, curtain-walls and finishes."
-PM3220,Project Communication and Documentation,4.5,"This course explores a variety of project documents, project communications and the management of multiple projects within the same
+PM3220,Project Communication and Documentation,4.5,"s
+This course explores a variety of project documents, project communications and the management of multiple projects within the same
 time period. Students will prepare and analyze primary project documents, such as project management plans, requirements
 documents and baselines, and will study different forms of project communications."
-PM3225,Project Management Tools and Techniques,4.5,"This course introduces tools and techniques used in project management. Topics include defining project scope, identifying and
+PM3225,Project Management Tools and Techniques,4.5,"s
+This course introduces tools and techniques used in project management. Topics include defining project scope, identifying and
 tracking project risks, and evaluating, controlling and closing a project. Project management software is used to develop an integrated
 project plan and create a project work breakdown structure and schedule."
-PM3320,Project Cost and Budget Management,4.5,"This course examines the importance of cost management in executing a project plan and incorporates the elements of mid-course
+PM3320,Project Cost and Budget Management,4.5,"s
+This course examines the importance of cost management in executing a project plan and incorporates the elements of mid-course
 changes and cash flow management. Topics include cost estimation, creating a realistic baseline, evaluating project performance and
 presenting project benefits to the customer."
-PM3325,Project Quality Management,4.5,"This course provides an applied review of quality principles related to projects. Topics include problem solving tools, such as flow
+PM3325,Project Quality Management,4.5,"s
+This course provides an applied review of quality principles related to projects. Topics include problem solving tools, such as flow
 charts, checklists, cause and effect diagrams, and audit techniques to assess compliance with company-documented processes.
 Prerequisites:"
-PM3420,Procurement and Contract Management,4.5,"This course examines the preparation and analysis of a project procurement plan, following guidelines described in the PMBOK®
+PM3420,Procurement and Contract Management,4.5,"s
+This course examines the preparation and analysis of a project procurement plan, following guidelines described in the PMBOK®
 Guide. Topics include logistics, ethics, closure and administration of the procurement process, including required documentation."
-PM3440,Project Management for Information Technology,4.5,This course examines the characteristics of IT-specific projects. Students will study a variety of approaches to managing IT projects.
-PM3450,Building Codes,4.5,"This course explores structural, mechanical, electrical and plumbing building codes. Topics include references to organizations
+PM3440,Project Management for Information Technology,4.5,"s
+This course examines the characteristics of IT-specific projects. Students will study a variety of approaches to managing IT projects."
+PM3450,Building Codes,4.5,"s
+This course explores structural, mechanical, electrical and plumbing building codes. Topics include references to organizations
 responsible for developing building codes and zoning ordinances, and the role of inspections in ensuring compliance with building
 codes."
-PM4530,Management of Global Projects,4.5,"This course explores the management of multi-cultural, multi-national projects. Topics include leading virtual meetings and building trust
+PM4530,Management of Global Projects,4.5,"s
+This course explores the management of multi-cultural, multi-national projects. Topics include leading virtual meetings and building trust
 and cooperation among teams that have different work standards."
-PM4540,Managing Software Development Projects,4.5,"This course explores basic principles of software development project management. Students will study a variety of software
+PM4540,Managing Software Development Projects,4.5,"s
+This course explores basic principles of software development project management. Students will study a variety of software
 development methods and models. Focus is on application of the software development lifecycle (SDLC) to project planning and
 management."
-PM4550,Construction Cost Estimating,4.5,"In this course, students study the estimation of direct and indirect construction project costs, such as labor, material and equipment.
+PM4550,Construction Cost Estimating,4.5,"s
+In this course, students study the estimation of direct and indirect construction project costs, such as labor, material and equipment.
 Topics include overhead and profit, bidding and computer-based estimating."
-PM4620,Project Risk Management,4.5,"This course examines the process of assessing and managing risk in a project. Topics include developing a project risk management
+PM4620,Project Risk Management,4.5,"s
+This course examines the process of assessing and managing risk in a project. Topics include developing a project risk management
 plan, identifying and documenting risk in a project, performing qualitative and quantitative risk analyses, planning risk responses and
 applying PMBOK® and PMI® standards to a project. Prerequisites:"
-PM4650,Construction Project Scheduling,4.5,"This course examines the planning and scheduling of construction projects. Topics include time schedules for materials, labor and
+PM4650,Construction Project Scheduling,4.5,"s
+This course examines the planning and scheduling of construction projects. Topics include time schedules for materials, labor and
 equipment, and the use of communication tools in construction project planning."
-PM4790,Advanced Project Management,4.5,"Using the Guide to the Project Management Book of Knowledge (PMBOK Guide) Fifth Edition, this course is an advanced review of
+PM4790,Advanced Project Management,4.5,"s
+Using the Guide to the Project Management Book of Knowledge (PMBOK Guide) Fifth Edition, this course is an advanced review of
 each knowledge area and process group. Students will be required to demonstrate their understanding of the fundamental knowledge,
 terminology and processes of effective project management. This course examines the concepts found in the PMP (Project
 Management Professional) and CAPM (Certified Associate in Project Management) certification exams. Prerequisites:"
-PM4795,Project Management and Administration – Information Technology Option Capstone Project,4.5,"This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
+PM4795,Project Management and Administration – Information Technology Option Capstone Project,4.5,"s
+This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
 detailed and comprehensive project management plan. A formal written document and presentation are required. Prerequisites:
 Completion of a minimum of 171 credits earned in the program of study including"
-PM4797,Project Management and Administration – Construction Option Capstone Project,4.5,"This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
+PM4797,Project Management and Administration – Construction Option Capstone Project,4.5,"s
+This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
 detailed and comprehensive project management plan. A formal written document and presentation are required. Prerequisites:
 Completion of a minimum of 171 credits earned in the program of study"
-PM4799,Project Management and Administration Capstone Project,4.5,"This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
+PM4799,Project Management and Administration Capstone Project,4.5,"s
+This is a project course, designed to combine elements of courses in the program, in which students develop and present a formal,
 detailed and comprehensive project management plan. A formal written document and presentation are required. Prerequisites:
 Completion of a minimum of 171 credits earned in the program of study"
-PT1420,Introduction to Programming,4.5,"This course serves as a foundation for understanding the logical function and process of computer programming. Basic computer
+PT1420,Introduction to Programming,4.5,"s
+This course serves as a foundation for understanding the logical function and process of computer programming. Basic computer
 programming knowledge and skills in logic and syntax will be covered. Coding convention and procedures will be discussed relevant to
 the given programming language environment."
-PT2520,Database Concepts,4.5,"This course introduces the basic concepts in databases and their applications. Topics include database history, structure, objects,
+PT2520,Database Concepts,4.5,"s
+This course introduces the basic concepts in databases and their applications. Topics include database history, structure, objects,
 relational database management systems (RDBMS) and introductory Structured Query Language (SQL)."
-SD1230,Introduction to Application Design and Development,4.5,"This course provides an overview of the desktop and mobile application industry, technologies and development environment. Topics
+SD1230,Introduction to Application Design and Development,4.5,"s
+This course provides an overview of the desktop and mobile application industry, technologies and development environment. Topics
 include platforms and tools, market trends, and the impact on the economy and society."
-SD1240,Creating Websites Using HTML and CSS,4.5,"This course examines functions of Websites for mobile and desktop devices, and entry-level skills used to create such sites using
+SD1240,Creating Websites Using HTML and CSS,4.5,"s
+This course examines functions of Websites for mobile and desktop devices, and entry-level skills used to create such sites using
 HTML and CSS (Cascading Style Sheets) technologies."
-SD1340,"Creating Websites Using HTML5, CSS3 and JavaScript",4.5,"This course introduces techniques used in building interactive Websites for mobile and desktop devices, using technologies such as
+SD1340,"Creating Websites Using HTML5, CSS3 and JavaScript",4.5,"s
+This course introduces techniques used in building interactive Websites for mobile and desktop devices, using technologies such as
 HTML5, CSS3 and JavaScript."
-SD1420,Introduction to Java Programming,4.5,This course introduces fundamentals of programming using Java and associated development tools and environments.
-SD2520,Introduction to Database and XML with jQuery,4.5,"This course introduces fundamental concepts of database technology and applications. Topics include object-oriented relational
+SD1420,Introduction to Java Programming,4.5,"s
+This course introduces fundamentals of programming using Java and associated development tools and environments."
+SD2520,Introduction to Database and XML with jQuery,4.5,"s
+This course introduces fundamental concepts of database technology and applications. Topics include object-oriented relational
 databases, database management systems, and using SQL, XML and jQuery to build databases that interact with applications."
-SD2550,Application Development Using Java I,4.5,This course introduces basic techniques used to develop applications using Java. Prerequisites:
-SD2620,Advanced Software Development Using Java,4.5,"This course is an intensive study that includes the industry standards and practices related to software development using the Java
+SD2550,Application Development Using Java I,4.5,"s
+This course introduces basic techniques used to develop applications using Java. Prerequisites:"
+SD2620,Advanced Software Development Using Java,4.5,"s
+This course is an intensive study that includes the industry standards and practices related to software development using the Java
 programming language as described by the Oracle Certified Associate Java SE 8. Instruction will include object-oriented programming
 as well as design and implementation of functional software solutions. This course examines the concepts found in the Oracle Certified
 Associate Java SE 8 certification exam."
-SD2650,Application Development Using Java II,4.5,"This course examines intermediate-level development techniques for applications running in the Android operating system
+SD2650,Application Development Using Java II,4.5,"s
+This course examines intermediate-level development techniques for applications running in the Android operating system
 environment. Focus is on applications interacting with Websites for mobile devices. Prerequisites:"
-SD2670,Social Networking Applications and Technology,4.5,"This course examines a variety of social networking platforms, media, methods, tools and applications running on desktop and mobile
+SD2670,Social Networking Applications and Technology,4.5,"s
+This course examines a variety of social networking platforms, media, methods, tools and applications running on desktop and mobile
 devices. Topics include analysis of technical features and capabilities of social networking applications and the impact on consumer
 behavior and the global economy."
-SD2720,Advanced Software Development Using Java,3.0,"This course is an intensive study that includes the industry standards and practices related to software development using the Java
+SD2720,Advanced Software Development Using Java,3.0,"s
+This course is an intensive study that includes the industry standards and practices related to software development using the Java
 programming language as described by the Oracle Certified Associate Java SE 8. Instruction will include object-oriented programming
 as well as design and implementation of functional software solutions. This course examines the concepts found in the Oracle Certified
 Associate Java SE 8 certification exam."
-SD2799,Software Development Capstone Project,4.5,"This course provides the opportunity for students to use knowledge and skills acquired in the program of study to research, design,
+SD2799,Software Development Capstone Project,4.5,"s
+This course provides the opportunity for students to use knowledge and skills acquired in the program of study to research, design,
 develop and promote a desktop or mobile application. Prerequisites: Must be taken during the student’s final quarter of study,
 and requires prior satisfactory completion of"
-SD3120,Programming in Open Source with LAMP,4.5,"This course introduces skills to develop software applications in the open source environment using Linux, Apache, MySQL and PHP
+SD3120,Programming in Open Source with LAMP,4.5,"s
+This course introduces skills to develop software applications in the open source environment using Linux, Apache, MySQL and PHP
 (LAMP) technologies."
-SD3140,Introduction to Web Interface Design,4.5,"This course examines principles and techniques used to design functional and user-friendly Web interfaces for a variety of mobile and
+SD3140,Introduction to Web Interface Design,4.5,"s
+This course examines principles and techniques used to design functional and user-friendly Web interfaces for a variety of mobile and
 desktop applications."
-SD3240,Creating Websites in the LAMP Environment,4.5,"This course examines strategies and skills used to develop interactive Websites and applications in the open source environment using
+SD3240,Creating Websites in the LAMP Environment,4.5,"s
+This course examines strategies and skills used to develop interactive Websites and applications in the open source environment using
 Linux, Apache, MySQL and PHP (LAMP) technologies. Prerequisites:"
-SD3320,Programming in Visual Basic,4.5,This course introduces techniques for using Visual Basic in the Microsoft Visual Studio environment. Prerequisites:
-SD3410,Software Testing,4.5,"This course examines practical ways to test software in development environments. Methods and tools involved in test planning,
+SD3320,Programming in Visual Basic,4.5,"s
+This course introduces techniques for using Visual Basic in the Microsoft Visual Studio environment. Prerequisites:"
+SD3410,Software Testing,4.5,"s
+This course examines practical ways to test software in development environments. Methods and tools involved in test planning,
 execution, and reporting throughout the software development life cycle will be introduced. Validation and resolution methods and tools
 will also be explored. Prerequisites:"
-SD3440,Creating Websites Using ASP.NET,4.5,"This course examines strategies and techniques to develop interactive Websites in the Microsoft ASP.NET environment.
+SD3440,Creating Websites Using ASP.NET,4.5,"s
+This course examines strategies and techniques to develop interactive Websites in the Microsoft ASP.NET environment.
 Prerequisites:"
-SD4550,Application Development Using Visual Studio I,4.5,"This course introduces techniques to develop Windows based applications for desktop and mobile devices in the Microsoft Visual
+SD4550,Application Development Using Visual Studio I,4.5,"s
+This course introduces techniques to develop Windows based applications for desktop and mobile devices in the Microsoft Visual
 Studio environment."
-SD4555,Development for Web Analytics Applications,4.5,"This course examines technologies and techniques used in applications, such as social networking and media, email and blogs, cloudbased productivity, Web-based advertising, search engines and services. Topics include how to apply applications that effectively
+SD4555,Development for Web Analytics Applications,4.5,"s
+This course examines technologies and techniques used in applications, such as social networking and media, email and blogs, cloudbased productivity, Web-based advertising, search engines and services. Topics include how to apply applications that effectively
 interact with applications to perform data analysis and support organizational and business needs. Prerequisites:"
-SD4650,Application Development Using Visual Studio II,4.5,This course examines techniques to develop interactive Windows based applications in the Microsoft Visual Studio environment.
-SD4660,Security in Application Development,4.5,"This course provides an overview of strategies and techniques used for information and system security in developing software
+SD4650,Application Development Using Visual Studio II,4.5,"s
+This course examines techniques to develop interactive Windows based applications in the Microsoft Visual Studio environment."
+SD4660,Security in Application Development,4.5,"s
+This course provides an overview of strategies and techniques used for information and system security in developing software
 applications for desktop and mobile devices."
-SD4680,Cloud Computing with Google App Engine and Microsoft Windows Azure,4.5,This course examines strategies and techniques applicable to the development environment for cloud-based applications.
-SD4799,Software Development Capstone Project,4.5,"This course provides the opportunity for students to use the knowledge and skills taught in the program of study to research, design,
+SD4680,Cloud Computing with Google App Engine and Microsoft Windows Azure,4.5,"s
+This course examines strategies and techniques applicable to the development environment for cloud-based applications."
+SD4799,Software Development Capstone Project,4.5,"s
+This course provides the opportunity for students to use the knowledge and skills taught in the program of study to research, design,
 develop and promote a functional software application that can help solve specific problems for end users. Prerequisites: Completion
 of a minimum of 171 credits earned in the program of study"
-TB133,Strategies for the Technical Professional,4,"The course reviews characteristics and trends of the global information society including basic information processing, Internet
+TB133,Strategies for the Technical Professional,4,"s
+The course reviews characteristics and trends of the global information society including basic information processing, Internet
 research, other skills used by the technical professional and techniques that can be used for independent technical learning."
-TB143,Introduction to Personal Computers,4,"Organization of a typical Personal Computer (PC) is examined in a given popular operating systems environment. Terminology and
+TB143,Introduction to Personal Computers,4,"s
+Organization of a typical Personal Computer (PC) is examined in a given popular operating systems environment. Terminology and
 concepts related to major PC hardware components and their functions will be discussed consistent with industry standards and
 practices."
-TB145,Introduction to Computing,4,"The course offers an overview of the computing field and computer technology trends with emphasis on terminology and concepts
+TB145,Introduction to Computing,4,"s
+The course offers an overview of the computing field and computer technology trends with emphasis on terminology and concepts
 related to PC hardware and software components and their functions from a hands-on approach. Entry-level hands-on skills as well as
 theory in handling PC hardware will be taught."
-TB150,Computing and Productivity Software,4,"The course covers the fundamentals of computing and the use of computers in communications and networks. Emphasis is placed on
+TB150,Computing and Productivity Software,4,"s
+The course covers the fundamentals of computing and the use of computers in communications and networks. Emphasis is placed on
 the use of computer technology, Internet and the World Wide Web in enterprise computing and working environments. The course will
 also focus on using productivity software and hands-on applications to problem solving in business and other working environments."
-TB184,Problem Solving,4,"This course introduces students to problem solving techniques and helps them apply the tools of critical reading, analytical thinking and
+TB184,Problem Solving,4,"s
+This course introduces students to problem solving techniques and helps them apply the tools of critical reading, analytical thinking and
 mathematics to help solve problems in practical applications."
-TB332,Professional Procedures and Portfolio Development,4,"Students are required to plan and compile their projects in the form of a portfolio. Instruction on interviewing procedures and writing
+TB332,Professional Procedures and Portfolio Development,4,"s
+Students are required to plan and compile their projects in the form of a portfolio. Instruction on interviewing procedures and writing
 business communications is also included in this course."
-GS1140,Problem Solving Theory,4.5,"This course introduces students to fundamental principles, strategies and methods of problem solving theory.
+GS1140,Problem Solving Theory,4.5,"s
+This course introduces students to fundamental principles, strategies and methods of problem solving theory.
 42"
-GS1145,Strategies for the Technical Professional,4.5,"This course reviews characteristic and trends of the global information society including basic information processing, Internet research,
+GS1145,Strategies for the Technical Professional,4.5,"s
+This course reviews characteristic and trends of the global information society including basic information processing, Internet research,
 other skills used by the technical professionals and techniques that can be used for independent technical learning."
-GS2745,Advanced Strategies for the Technical Professional,3.0,"This course focuses on skills, characteristics and attitudes that contribute to professional life. Topics include personal integrity,
+GS2745,Advanced Strategies for the Technical Professional,3.0,"s
+This course focuses on skills, characteristics and attitudes that contribute to professional life. Topics include personal integrity,
 business communication skills, teamwork and conflict resolution, financial literacy, professional work habits, networking and social
 media, and lifelong learning. Prerequisites: Completion of a minimum of 65 credits earned in the program of study including"
-GS2748,Professional Strategies and Processes,4.5,"This course focuses on skills, characteristics and attitudes that contribute to professional life. Topics include personal integrity,
+GS2748,Professional Strategies and Processes,4.5,"s
+This course focuses on skills, characteristics and attitudes that contribute to professional life. Topics include personal integrity,
 business communication skills, teamwork and conflict resolution, financial literacy, professional work habits, networking and social
 media, and lifelong learning. Prerequisites: Completion of a minimum of 65 credits earned in the program of study"

@@ -24,7 +24,7 @@ def extract_courses(text):
             number, name = None, None
 
         # Extract credit hours
-        hours_match = re.search(r'(\d+(\.\d)?) credit hours', block)
+        hours_match = re.search(r'(\d+(\.\d)?) credit hour', block)
         hours = hours_match.group(1) if hours_match else None
 
         # Extract description, taking all content after credit hours detail until "Prerequisite:"
