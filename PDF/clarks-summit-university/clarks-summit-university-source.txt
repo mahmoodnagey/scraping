@@ -273,7 +273,13 @@ This course will examine structural models for governance of non–profit organi
 CA424	Management of Support Services	3 credits
 This course will introduce students to competencies necessary for effectively managing the support services that surround organizations, including food service, facilities services, housekeeping, and site maintenance. Record keeping, planning, equipment procurement, outsourcing, budgeting, evaluation, standards, and inspections are also addressed in this course.
 Criminal Justice
-CJ206, CJ307, CJ308, CJ409	Community Service Apprenticeship	1 credit
+CJ206  Community Service Apprenticeship	1 credit
+This apprenticeship course is part of a series of one-credit hands-on practicum experiences for criminal justice majors where students will serve the community for 45 hours.
+CJ307  Community Service Apprenticeship	1 credit
+This apprenticeship course is part of a series of one-credit hands-on practicum experiences for criminal justice majors where students will serve the community for 45 hours.
+CJ308  Community Service Apprenticeship	1 credit
+This apprenticeship course is part of a series of one-credit hands-on practicum experiences for criminal justice majors where students will serve the community for 45 hours.
+CJ409	Community Service Apprenticeship	1 credit
 This apprenticeship course is part of a series of one-credit hands-on practicum experiences for criminal justice majors where students will serve the community for 45 hours.
 CJ211	Theological Foundations of Justice and Restoration	3 credits
 This course is designed to lay the groundwork for understanding the biblical foundations of justice and its roots in the Judeo-Christian Ethic. The topic of justice will be addressed from a perspective of God’s revealed heart for the oppressed and afflicted. This will elucidate the relationship between our Christian call to discipleship and ministry in criminal justice applications.
