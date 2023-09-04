@@ -404,7 +404,7 @@ CO706	Clinical Treatment of Mental and Emotional Disorders	3 credits
 Developing and implementing a treatment plan, reporting, and assessing progress with benchmarks through diagnostics, referral procedures, and an understanding of biopsychological responses including consideration of psychotropic medications and mood altering chemicals. Prerequisite: CO540, CO702, CO704.
 Institutional Courses
 CSU101	CSU First Year Experience	0 credit
-CSU101 is an interactive college course designed to assist students transitioning to Clarks Summit University while also developing positive habits vital to success, in college and beyond. The curriculum includes an introduction to CSU (polices, programs, services, and expectations) and topics to develop and/or strengthen skills that contribute to educational success (time management, motivation, goal setting, learning styles, and other life skills). Upon successful completion of the course the student will have developed a working knowledge of the campus community, established solid study skills, and will assume responsibility for their academic decisions as it relates to success in college. This class is required for new high school graduates and select transfers; students may not withdraw. This is a pass/fail course.
+An interactive college course designed to assist students transitioning to Clarks Summit University while also developing positive habits vital to success, in college and beyond. The curriculum includes an introduction to CSU (polices, programs, services, and expectations) and topics to develop and/or strengthen skills that contribute to educational success (time management, motivation, goal setting, learning styles, and other life skills). Upon successful completion of the course the student will have developed a working knowledge of the campus community, established solid study skills, and will assume responsibility for their academic decisions as it relates to success in college. This class is required for new high school graduates and select transfers; students may not withdraw. This is a pass/fail course.
 Drama (Theatre)
 DR302	Introduction to Theatre	3 credits
 This course is designed to give the student an introductory view of drama/theatre art form. Basic methods of acting, directing, and technical theatre will be introduced. Opportunities for practical application are available. This course may be used as an English elective.
@@ -725,7 +725,11 @@ HP308	Motor Learning and Skill Analysis	3 credits
 This course is designed to help students understand how humans learn to move and how motor learning and movement are influenced and affected by the life span developmental processes. Particular emphasis is placed on critical element motor skill proficiency and assessment with appropriate sequential progressions for achievement in motor learning experiences.
 HP310	First Aid, CPR, and Aquatics Testing	0 credit
 This course requires each student to successfully complete three competencies: a basic first aid/first responder’s course, a CPR for adult, child, and infant, and an aquatics class covering the basic strokes, progressions, aquatic activities, and water safety testing. These competencies are required for all Health and Physical Education majors and should be current at the time of graduation.
-HP313, 314, 315	Sports Skills Proficiency and Assessment Exam	0 credit
+HP313    Sports Skills Proficiency and Assessment Exam	0 credit
+This course requires each student to demonstrate adequate proficiency and demonstrated ability to assess each of the movement and sports skills covered in HP301 Individual, Dual, and Rhythmic Sports; HP304 Team Sports; and HP308 Motor Learning and Skill Analysis classes. The instructor will verify the proficiency and assessment of the student in each movement and sports skills
+314  Sports Skills Proficiency and Assessment Exam	0 credit
+This course requires each student to demonstrate adequate proficiency and demonstrated ability to assess each of the movement and sports skills covered in HP301 Individual, Dual, and Rhythmic Sports; HP304 Team Sports; and HP308 Motor Learning and Skill Analysis classes. The instructor will verify the proficiency and assessment of the student in each movement and sports skills
+315	Sports Skills Proficiency and Assessment Exam	0 credit
 This course requires each student to demonstrate adequate proficiency and demonstrated ability to assess each of the movement and sports skills covered in HP301 Individual, Dual, and Rhythmic Sports; HP304 Team Sports; and HP308 Motor Learning and Skill Analysis classes. The instructor will verify the proficiency and assessment of the student in each movement and sports skills
 HP316	First Aid and CPR	0 credit
 This course requires each student to successfully complete two competencies: a basic first aid/first responder’s course and a CPR for adult, child, and infant. These competencies are required for all Sport & Health Science majors and should be current at the time of graduation.
@@ -928,16 +932,18 @@ This course is designed to help the student study areas of missions not included
 Military (Army ROTC)
 MIL101/102	Concepts of Leadership I and II	1 credit/semester
 Instruction focuses on providing a basic understanding of the Army and general military knowledge and skills while concentrating on leadership skills and civic responsibilities important to everyone. Classes are one hour a week.
-MIL111L/112L, 131L/132L	Leadership Application Laboratory	0 credit
+MIL111L/112L  Leadership Application Laboratory	0 credit
+This class focuses on hands–on application and reinforcement of classroom instruction as well as teaching weapons, first aid, land navigation, and tactical leadership. This class meets at various locations in the Scranton area for two hours each week, is highly encouraged for students in the basic course, and is required for students in the advanced course.
+131L/132L	Leadership Application Laboratory	0 credit
 This class focuses on hands–on application and reinforcement of classroom instruction as well as teaching weapons, first aid, land navigation, and tactical leadership. This class meets at various locations in the Scranton area for two hours each week, is highly encouraged for students in the basic course, and is required for students in the advanced course.
 
 MIL138	Physical Fitness Training	1 credit
 U.S. Army Master Fitness trainers supervise a comprehensive fitness program based on the latest military fitness techniques and principles. The classes are one hour in duration.
 MIL201/202         Dynamics of Leadership I and II	2 credits/semester
 Instruction is designed to familiarize students with basic military leadership at the junior leader and immediate supervisor level. Classes are two hours each week.
-MIL301/302	Basic Military Leadership I and II	2/1 credits
+MIL301-302  	Basic Military Leadership I and II	2/1 credits
 Instruction focuses on continued leadership development. Students are trained and evaluated on developing, managing, and presenting training to the MS I and II cadets. The goal of the MS I and II year is to prepare students for the National Leadership Development and Assessment Course. Classes are two hours each week.
-MIL401/402	Advanced Military Leadership I and II	2/1 credits
+MIL401-402  	Advanced Military Leadership I and II	2/1 credits
 Instruction focuses on teaching students to function as a member of a staff and continue to develop leadership skills. This course covers public speaking, military briefing, effective writing as well as training management, and administrative and logistical support. Classes are two hours each week.
 Ministry-Mentored
 MM301	Leadership	3 credits
@@ -1120,7 +1126,7 @@ PE220	Intermediate Karate	1 credit
 This course will provide continued instruction and practice essential to progressing in rank. Class sessions will work on stretching, self-defense, intermediate-level skills and katas necessary to testing for green, purple, or brown belts, and elementary kumite (free sparring—for purple belts). Prerequisite: PE120.
 PE240        Advanced Karate	1 credit
 This course will provide continued instruction and practice essential to preparing to test for black belt. Class sessions will work on advanced skills and katas necessary for black belt. Advanced skills will include selected weapons. A brown belt is prerequisite.
-PE320-360	Intercollegiate Athletics	1 credit
+PE320/360	Intercollegiate Athletics	1 credit
 A student athlete may receive Physical Education credit for intercollegiate sport participation. This course is designed for playing team members and not team staff (manager, statistician, etc.).
 
 PE400	Learning Activities, Games and Events	3 credits
@@ -1210,7 +1216,22 @@ As the student works at the ministry site and gains exposure to the full spectru
 	ability to plan, implement and evaluate a ministry project that benefits the internship site.
 If the student is married, his wife will also receive coaching and mentoring to assist in her development as a wife of a pastor or ministry leader.
 Sports Apprenticeship
-SA201, SA202, SA301, SA302, SA401, SA402	Sports Apprenticeship I-VI	1 credit
+SA201  Sports Apprenticeship I-VI	1 credit
+The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
+Science
+SA202  Sports Apprenticeship I-VI	1 credit
+The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
+Science
+SA301 Sports Apprenticeship I-VI	1 credit
+The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
+Science
+SA302  Sports Apprenticeship I-VI	1 credit
+The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
+Science
+SA401  Sports Apprenticeship I-VI	1 credit
+The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
+Science
+SA402	Sports Apprenticeship I-VI	1 credit
 The sports apprenticeship courses are a series of six one-credit labs for all Sports Management and Sports & Recreational Ministries majors. These will be hands-on practicum courses where students will work side-by-side with the CSU Athletic Department, Recreation Center, and campus Intramural program to practice the basic competencies of organizing and leading sports and recreation related activities, programs, events, and facilities.
 Science
 SC200	Physical Science Survey	3 credits
