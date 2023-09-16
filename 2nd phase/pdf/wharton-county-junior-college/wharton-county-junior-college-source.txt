@@ -30,11 +30,13 @@ Agricultural Construction
 Safety procedures, selection, use, and maintenance of hand and power tools, metal cutting and welding; and construction materials and principles.
 Prerequisite:	None Type:	ACAD
 AGRI 2317	3:3:0
-Introduction to Agricultural Economics Fundamental economic principles and their application in the agricultural industry.
+Introduction to Agricultural Economics
+Fundamental economic principles and their application in the agricultural industry.
 Prerequisite:	TSI ELAR (Reading and Writing)
 requirement met
 Type:	ACAD
 AGRI 2330	3:3:0
+Wildlife Conservation and Management Principles
 Wildlife Conservation and Management Principles and practices used in the production and	improvement	of	wildlife	resources. Aesthetic, ecological, and recreational uses of public and private lands.
 Prerequisite:	TSI ELAR (Reading and Writing)
 requirement met
@@ -42,6 +44,7 @@ Type:	ACAD
 
 
 ELPT 1321	3:2:2
+Introduction to Electrical Safety
 Introduction to Electrical Safety and Tools Safety rules and regulations. Includes the selection, inspection, use, and maintenance of common tools for electricians.
 Prerequisite:	None Type:	TECH
 
@@ -92,7 +95,8 @@ Prerequisite:    HART 1301 and HART 1307; or
 Division Chair Approval
 Type:	TECH
 HART 1356	3:3:1
-EPA Recovery Certification Preparation Certification training for HVAC refrigerant recovery, recycle, and reclaim. Instruction will provide a review of EPA guidelines for refrigerant recovery and recycling during the installation, service, and repair of all HVAC and refrigeration systems.
+EPA Recovery Certification Preparation
+Certification training for HVAC refrigerant recovery, recycle, and reclaim. Instruction will provide a review of EPA guidelines for refrigerant recovery and recycling during the installation, service, and repair of all HVAC and refrigeration systems.
 Prerequisite:	None Type:	TECH
 
 HART 2336	3:3:1
@@ -246,7 +250,8 @@ Co-requisite     AUMT 1310; AUMT 2425; and
 AUMT 2434
 Type:	TECH
 AUMT 2417	4:3:4
-Automotive Engine Performance Analysis I Theory,   operation,	diagnosis	of	drivability concerns, and repair of ignition and fuel delivery systems. Use of current engine performance diagnostic	equipment.	May		be	taught manufacturer specific.
+Automotive Engine Performance Analysis I Theory
+operation,	diagnosis	of	drivability concerns, and repair of ignition and fuel delivery systems. Use of current engine performance diagnostic	equipment.	May		be	taught manufacturer specific.
 Prerequisite:	Credit for or concurrent
 enrollment in AUMT 1301 Co-requisite:	AUMT 1407 and AUMT 1419 Type:	TECH
 AUMT 2425	4:3:4
@@ -259,7 +264,8 @@ Co-requisite:	AUMT 1310; AUMT 2413; and
 AUMT 2434
 Type	TECH
 AUMT 2434	4:3:4
-Automotive Engine Performance Analysis II Diagnosis and repair of emission systems, computerized engine performance systems, and advanced ignition and fuel systems. Includes use of advanced engine performance diagnostic equipment.	May	be	taught	manufacturer specific.
+Automotive Engine Performance Analysis II
+Diagnosis and repair of emission systems, computerized engine performance systems, and advanced ignition and fuel systems. Includes use of advanced engine performance diagnostic equipment.	May	be	taught	manufacturer specific.
 Prerequisite:	Credit for or concurrent
 enrollment in AUMT 1301
 Co-requisite:	AUMT 1310; AUMT 2413; and
@@ -348,7 +354,8 @@ Introduction to Accounting I
 A study of analyzing, classifying, and recording business transactions in a manual and computerized environment. Emphasis on understanding the complete accounting cycle and preparing financial statements, bank reconciliations, and payroll.
 Prerequisite:	None Type:	TECH
 ACNT 1411	4:2:4
-Introduction to Computerized Accounting Introduction to utilizing the computer in maintaining accounting records with primary emphasis on a general ledger package.
+Introduction to Computerized Accounting
+Introduction to utilizing the computer in maintaining accounting records with primary emphasis on a general ledger package.
 Prerequisite:	ACNT 1303 or concurrent enrollment
 Type:	TECH
 ACNT 1429	4:2:4
@@ -393,7 +400,8 @@ Business Math
 Fundamentals	of	business	mathematics including analytical and critical thinking skills.
 Prerequisite:	None Type:	TECH
 POFT 1413	4:3:2
-Professional Workforce Preparation Preparation for career success including ethics, interpersonal	relations,	professional	attire, advancement, and job shadowing.
+Professional Workforce Preparation
+Preparation for career success including ethics, interpersonal	relations,	professional	attire, advancement, and job shadowing.
 Prerequisite:	POFT 1309 Type:	TECH
 
 
@@ -483,7 +491,8 @@ Prerequisite:     Open only to students admitted
 to the Cosmetology program
 Type:	TECH
 CSME 1410	4:3:4
-Introduction to Hair Cutting and Related Theory Introduction to the theory and practice of hair cutting. Topics include terminology, implements, sectioning, and finishing techniques.
+Introduction to Hair Cutting and Related Theory
+Introduction to the theory and practice of hair cutting. Topics include terminology, implements, sectioning, and finishing techniques.
 Prerequisite:     Open only to students admitted
 to the Cosmetology program
 Type:	TECH
@@ -495,17 +504,20 @@ Prerequisite:    Open only to students admitted
 to the Cosmetology program
 Type:	TECH
 CSME 1451	4:3:4
-Artistry of Hair, Theory, and Practice Instruction in the artistry of hair design. Topics include theory, techniques, and application of hair design.
+Artistry of Hair, Theory, and Practice
+Instruction in the artistry of hair design. Topics include theory, techniques, and application of hair design.
 Prerequisite:	Open only to students admitted
 to the Cosmetology program
 Type:	TECH
 CSME 1453	4:3:4
-Chemical Reformation and Related Theory Presentation of the theory and practice of chemical reformation including terminology, application, and workplace competencies.
+Chemical Reformation and Related Theory
+Presentation of the theory and practice of chemical reformation including terminology, application, and workplace competencies.
 Prerequisite:	Open only to students admitted
 to the Cosmetology program
 Type:	TECH
 CSME 2202	2:1:3
-Introduction to Application of Hair Color Introduction to basic hair color applications, including safety and sanitation procedures.
+Introduction to Application of Hair Color
+Introduction to basic hair color applications, including safety and sanitation procedures.
 Prerequisite:	Open only to students admitted
 to the Cosmetology program
 Type:	TECH
@@ -609,7 +621,8 @@ Prerequisite:	DHYG 1301; 1311; and 1431
 with a grade of “C” or higher
 Type:	TECH
 DHYG 1235	2:2:0
-Pharmacology for the Dental Hygienist Classification of drugs and their uses, actions, interactions, side effects, contraindications, with emphasis on dental applications.
+Pharmacology for the Dental Hygienist
+Classification of drugs and their uses, actions, interactions, side effects, contraindications, with emphasis on dental applications.
 Prerequisite:	DHYG 1339; 1304; 1261; 1227;
 1219; and 1207 with a grade of “C” or higher
 Type:	TECH
@@ -620,7 +633,8 @@ Prerequisite:	DHYG 1301; 1311; and 1431;
 with a grade of “C” or higher
 Type:	TECH
 DHYG 1301	3:3:1
-Orofacial Anatomy, Histology & Embryology Histology and embryology of oral tissues, gross anatomy	of	the	head	and	neck,	tooth morphology, and individual tooth identification.
+Orofacial Anatomy, Histology & Embryology
+Histology and embryology of oral tissues, gross anatomy	of	the	head	and	neck,	tooth morphology, and individual tooth identification.
 Prerequisite:	Open only to students admitted
 to Dental Hygiene Program
 Type:	TECH
@@ -790,7 +804,8 @@ Prerequisite:     Must be in final semester of AAS
 degree; must have a GPA of 2.0 or higher; and have Division Chair approval
 Type:	TECH
 CDEC 2307	3:3:0
-Math and Science for Early Childhood Exploration	of	principles,	methods,	and materials for teaching children math and science concepts and process skills through  discovery and play.
+Math and Science for Early Childhood
+Exploration	of	principles,	methods,	and materials for teaching children math and science concepts and process skills through  discovery and play.
 Prerequisite:	None Type:	TECH
 CDEC 2315	3:3:0
 Diverse Cultural/Multilingual Education
@@ -890,7 +905,8 @@ A study of electronic circuit fabrication techniques including printed circuit b
 Skill in techniques of electronic equipment fabrication is gained through layout and construction of a complete unit. Component recognition, schematic symbols, soldering, wire wrapping, ESD considerations, and re-work techniques for discrete, leaded, and surface- mount components. IPC-A-610B training.
 Prerequisite:	None Type:	TECH
 CETT 1331	3:3:1
-Programming for Discrete Electronic Devices Introduction to a high level programming language. Includes structured programming and problem solving applicable to discrete electronic devices and how they apply to technical applications. Lecture and lab programming practice using Python.
+Programming for Discrete Electronic Devices
+Introduction to a high level programming language. Includes structured programming and problem solving applicable to discrete electronic devices and how they apply to technical applications. Lecture and lab programming practice using Python.
 Prerequisite:	None Type:	TECH
 CETT 1341	3:3:1
 Solid State Circuits
@@ -976,7 +992,8 @@ Co-Requisite:	EMSP 1338; EMSP 1355; EMSP
 2305
 Type:	TECH
 EMSP 1338	3:3:1
-Introduction to Advanced Practice Fundamental		elements	associated		with emergency	medical	services	to	include
+Introduction to Advanced
+Practice Fundamental		elements	associated		with emergency	medical	services	to	include
 
 preparatory	practices,	pathophysiology, medication administration, and related topics.
 Prerequisite:	EMSP 1501 and EMSP 1160 or
@@ -995,7 +1012,8 @@ Co-requisite:	EMSP 1291; EMSP 1338; EMSP
 2305
 Type:	TECH
 EMSP 1356	3:2:3
-Patient Assessment and Airway Management Knowledge and skills required to perform patient assessment, airway management, and artificial ventilation.
+Patient Assessment and Airway
+Management Knowledge and skills required to perform patient assessment, airway management, and artificial ventilation.
 Prerequisite:	EMSP 1501 and EMSP 1160 or
 current EMT certification
 Co-requisite:	EMSP 1291; EMSP 1338; EMSP
@@ -1151,7 +1169,8 @@ Prerequisite:     TSI ELAR (Reading and Writing)
 and Math requirements met
 Type:	TECH
 DFTG 1417	4:3:3
-Architectural Drafting – Residential Preparation	of	architectural	drawings	for residential structures with emphasis on light frame	construction	methods,	including architectural drafting procedures, practices, terms, and symbols.
+Architectural Drafting
+Residential Preparation	of	architectural	drawings	for residential structures with emphasis on light frame	construction	methods,	including architectural drafting procedures, practices, terms, and symbols.
 
 Prerequisite:     DFTG    1405    and    credit    or
 concurrent enrollment in DFTG 2319
@@ -1345,7 +1364,8 @@ Pharmacology
 Overview of the basic concepts of the pharmacological treatment of various diseases affecting major body systems.
 Prerequisite:	None Type:	TECH
 HITT 1301	3:2:2
-Health Data Content and Structure Introduction to systems and processes for collecting,			maintaining,	and	disseminating primary	and		secondary	health	related information including content of health record, documentation requirements, registries, indices, licensing,		regulatory	agencies,		forms	and screens. (only offered the fall semester) Prerequisite:	None
+Health Data Content and Structure
+Introduction to systems and processes for collecting,			maintaining,	and	disseminating primary	and		secondary	health	related information including content of health record, documentation requirements, registries, indices, licensing,		regulatory	agencies,		forms	and screens. (only offered the fall semester) Prerequisite:	None
 Type:	TECH
 HITT 1305	3:3:0
 Medical Terminology I
@@ -1363,7 +1383,8 @@ An overview of skills and knowledge in ICD and CPT coding and claims forms for r
 Prerequisite: None TYPE:	TECH
 
 HITT 1341	3:2:3
-Coding and Classification Systems Fundamentals of coding rules, conventions, and guidelines using clinical classification systems. (only offered the spring semester)
+Coding and Classification Systems
+Fundamentals of coding rules, conventions, and guidelines using clinical classification systems. (only offered the spring semester)
 Prerequisite:	HITT 1301, 1305, and BIOL 2401
 Co-requisite:	BIOL 2402 and HITT 2330 Type:	TECH
 HITT 1345	3:3:0
@@ -1381,7 +1402,8 @@ Prerequisite:    HITT 1301 and 1311 (may be
 taken concurrently)
 Type:	TECH
 HITT 1441	4:2:4
-Coding and Classification Systems Fundamentals of coding rules, conventions and guidelines using clinical classification systems.
+Coding and Classification Systems
+Fundamentals of coding rules, conventions and guidelines using clinical classification systems.
 Prerequisite:	HITT 1301 and 1305; BIOL 2401
 and	2402;	and	concurrent enrollment in HPRS 2301
 Type:	TECH
@@ -1403,10 +1425,12 @@ Health Information Organization and Supervision
 Principles of organization and supervision of human, financial, and physical resources. Course must be completed with a grade of “C” or higher. (only offered the spring semester)
 Prerequisite:	HITT 1353 and 2443 Type:	TECH
 HITT 2340	3:2:3
-Advanced Medical Billing and Reimbursement Skill	development	in	coding	to	prepare reimbursement forms in various health care settings for submissions to payers. (only offered the spring semester)
+Advanced Medical Billing and Reimbursement
+Skill	development	in	coding	to	prepare reimbursement forms in various health care settings for submissions to payers. (only offered the spring semester)
 Prerequisite:	HITT 1341 and 2435 Type:	TECH
 HITT 2435	4:2:4
-Coding and Reimbursement Methodologies Advanced coding techniques with emphasis on case studies, health records, and federal regulations	regarding	prospective	payment systems and methods of reimbursement.
+Coding and Reimbursement Methodologies
+Advanced coding techniques with emphasis on case studies, health records, and federal regulations	regarding	prospective	payment systems and methods of reimbursement.
 Prerequisite:	HITT 1341 and 2330 Type:	TECH
 
 HITT 2443	4:4:1
@@ -1501,7 +1525,8 @@ Prerequisite:     CHLT     1309;      PSYT      1329;
 concurrent enrollment in DAAC 1317; and Division Chair approval
 Type:	TECH
 PSYT 1329	3:3:0
-Interviewing and Communication Skills Development of the basic communication skills necessary to develop an effective helping relationship	with	clients.	Emphasis	on importance of effective oral communications. Topics include counseling techniques such as intake interviewing, relationship building, and informed consent.
+Interviewing and Communication Skills
+Development of the basic communication skills necessary to develop an effective helping relationship	with	clients.	Emphasis	on importance of effective oral communications. Topics include counseling techniques such as intake interviewing, relationship building, and informed consent.
 Prerequisite:	None Type:	TECH
 PSYT 2164	1:0:8
 Practicum (or Field Experience) – Clinical Psychology
@@ -1576,7 +1601,8 @@ Implementing and Supporting Client Operating Systems
 The fundamentals of managing and configuring local, network, and distributed network clients. Topics may adapt to changes in industry practices.
 Prerequisite:	ITSC 1305 Type:	TECH
 ITNW 1309	3:2:2
-Fundamentals of Cloud Computing Introduction to Cloud computing from a business and technical perspective, including Cloud concepts,	services,	architecture,	systems integration, connectivity, data center migration, administration,	security,	compliance	and technical		support.		Coverage	includes preparation for industry certifications. Topics may adapt to changes in industry practices. (only offered the fall semester)
+Fundamentals of Cloud Computing
+Introduction to Cloud computing from a business and technical perspective, including Cloud concepts,	services,	architecture,	systems integration, connectivity, data center migration, administration,	security,	compliance	and technical		support.		Coverage	includes preparation for industry certifications. Topics may adapt to changes in industry practices. (only offered the fall semester)
 Prerequisite:	ITNW 1313 Type:	TECH
 ITNW 1313	3:2:2
 Computer Virtualization
@@ -1589,7 +1615,8 @@ Prerequisite:	ITSC 1305 and Grade of “C” or
 higher in ITCC 1414 or ITNW 1325
 Type:	TECH
 ITNW 1325	3:2:2
-Fundamentals of Networking Technologies Instruction in networking technologies and their implementation.	Topics	include		the	OSI reference	model,	network	protocols, transmission media, and networking hardware and software.
+Fundamentals of Networking Technologies
+Instruction in networking technologies and their implementation.	Topics	include		the	OSI reference	model,	network	protocols, transmission media, and networking hardware and software.
 
 Prerequisite:	None Type:	TECH
 ITNW 1335	3:2:2
@@ -1625,10 +1652,12 @@ Introduction to Computers
 Overview of computer information systems. Introduces computer hardware, operating systems, software, procedures and human resources. Includes introduction to the Internet, word processing, spreadsheets, presentation graphics, and databases, and current issues such as the effect of computers on society; the history and use of computers in business, educational, and other modern settings are also studied. This course is not intended to count toward a student's major field of study in business or computer science.
 Prerequisite:	None Type:	TECH
 ITSC 1305	3:2:2
-Introduction to PC Operating Systems Introduction to personal computer operating systems including installation, configuration, file management,		memory	and	storage management, control of peripheral devices, and use of utilities. Focus is on Microsoft OS. Prerequisite:	None
+Introduction to PC Operating Systems
+Introduction to personal computer operating systems including installation, configuration, file management,		memory	and	storage management, control of peripheral devices, and use of utilities. Focus is on Microsoft OS. Prerequisite:	None
 Type:	TECH
 ITSC 1316	3:2:2
-Linux Installation and Configuration Introduction to Linux operating system. Includes Linux installation, basic administration, utilities and commands, upgrading, networking, security, and application installation. Emphasizes hands- on setup, administration, and management of Linux.
+Linux Installation and Configuration
+Introduction to Linux operating system. Includes Linux installation, basic administration, utilities and commands, upgrading, networking, security, and application installation. Emphasizes hands- on setup, administration, and management of Linux.
 Prerequisite:	None Type:	TECH
 
 ITSC 1325	3:2:2
@@ -1704,14 +1733,16 @@ Aerobics II
 Exercise program that provides guidance in the selection of activities for immediate and future needs through instruction in advanced aerobics. Prerequisite: PHED 1103
 Type:	ACAD
 PHED 1107	1:0:3
-Beginning Weight Lifting/Circuit Training Combines weight lifting with aerobic activities in a structured conditioning program that trains the whole body.
+Beginning Weight Lifting/Circuit
+Training Combines weight lifting with aerobic activities in a structured conditioning program that trains the whole body.
 Prerequisite:	None Type:	ACAD
 PHED 1110	1:0:3
 Co-Ed Volleyball
 Open to individuals who wish to improve their personal skills in volleyball through supervised practices and game conditions.
 Prerequisite:	None Type:	ACAD
 PHED 1117	1:0:3
-Advanced Weight Lifting/Circuit Training Combines weight lifting with aerobic activities in a structured conditioning program that trains the whole body.
+Advanced Weight Lifting/Circuit
+Training Combines weight lifting with aerobic activities in a structured conditioning program that trains the whole body.
 Prerequisite:	PHED 1107 Type:	ACAD
 PHED 1122	1:0:3
 Concepts of Baseball
@@ -1929,7 +1960,8 @@ Prerequisite: TSI Placement or MATH 0308 Co-requisite: MATH 1324 Mathematics for
 Business and Social Sciences
 Type:	ACAD
 NCBM 0232	2:2:0
-Support Course for Contemporary Mathematics Intended for Non-STEM (Science, Technology, Engineering, and Mathematics) majors. Topics include introductory treatments of sets and logic, financial mathematics, probability and statistics with appropriate applications. Number sense, proportional reasoning, estimation, technology, and communication should be embedded throughout the course. Additional topics may be covered. This course is designed to help students accelerate through the developmental math sequence in one semester. It focuses on the college-readiness concepts necessary to successfully complete Contemporary Math concurrently. This class includes directed review, just-in-time instruction, and emphasis on math-specific study skills. This course must be successfully completed with a “C” or higher to satisfy TSI requirements.
+Support Course for Contemporary Mathematics
+Intended for Non-STEM (Science, Technology, Engineering, and Mathematics) majors. Topics include introductory treatments of sets and logic, financial mathematics, probability and statistics with appropriate applications. Number sense, proportional reasoning, estimation, technology, and communication should be embedded throughout the course. Additional topics may be covered. This course is designed to help students accelerate through the developmental math sequence in one semester. It focuses on the college-readiness concepts necessary to successfully complete Contemporary Math concurrently. This class includes directed review, just-in-time instruction, and emphasis on math-specific study skills. This course must be successfully completed with a “C” or higher to satisfy TSI requirements.
 Prerequisite: TSI Placement or MATH 0308 Co-requisite: MATH 1332 Contemporary
 Mathematics
 Type:	ACAD
@@ -2365,17 +2397,20 @@ Prerequisite:     RNSG 1216; 1430; 1128; 1161;
 1125; 1533; 2362; 1126
 Co-requisite:	RNSG 1538; 2363 Type:	TECH
 RNSG 1161	1:0:4
-Clinical – Registered Nursing/Registered Nurse A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
+Clinical – Registered Nursing/Registered Nurse
+A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
 Prerequisite:	Admission to the ADN Program Co-requisite:	RNSG 1430; 1125; 1128; 1216
 Type:	TECH
 RNSG 1162	1:0:3
-Clinical – Registered Nursing/Registered Nurse A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
+Clinical – Registered Nursing/Registered Nurse
+A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
 Prerequisite:	Admission	to	Concept-Based
 Transition to Nursing Practice Program
 Co-requisite:	RNSG 1118; 1128; 1324 Type:	TECH
 
 RNSG 1216	2:0:8
-Professional Nursing Competencies Development	of			professional		nursing competencies in the care of patients throughout the lifespan. Emphasizes psychomotor skills and clinical reasoning in the performance of nursing procedures related to the concepts of: clinical judgment,	comfort,		elimination,		fluid	and electrolytes, nutrition, gas exchange, safety, functional		ability,	immunity,	metabolism, mobility, and tissue integrity. Includes health assessment and medication administration. This course lends itself to a concept-based approach. A minimum grade of “C” is required to pass this course.
+Professional Nursing Competencies
+Development	of			professional		nursing competencies in the care of patients throughout the lifespan. Emphasizes psychomotor skills and clinical reasoning in the performance of nursing procedures related to the concepts of: clinical judgment,	comfort,		elimination,		fluid	and electrolytes, nutrition, gas exchange, safety, functional		ability,	immunity,	metabolism, mobility, and tissue integrity. Includes health assessment and medication administration. This course lends itself to a concept-based approach. A minimum grade of “C” is required to pass this course.
 Prerequisite:	Admission to the ADN Program Co-requisite:	RNSG 1430; 1125; 1128; 1161
 Type:	TECH
 RNSG 1324	3:2:4
@@ -2412,20 +2447,23 @@ Prerequisite:	RNSG 1216; 1430; 1128; 1161;
 2363; 1137
 Co-requisite: RNSG 2539; 2360 Type:	TECH
 RNSG 2360	3:0:12
-Clinical – Registered Nursing/Registered Nurse A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
+Clinical – Registered Nursing/Registered Nurse
+A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
 Prerequisite:	RNSG 1430; 1125; 1128; 1216;
 1161; 1533; 1126; 2362; 1538;
 1137; 2363
 Co-requisite:	RNSG 2539; 2138 Type:	TECH
 RNSG 2362	3:0:12
-Clinical – Registered Nursing/Registered Nurse A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical
+Clinical – Registered Nursing/Registered Nurse
+A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical
 
 professional. A minimum grade of “C” is required to pass this course.
 Prerequisite:	RNSG 1430; 1125; 1128; 1216;
 1161
 Co-requisite:	RNSG 1533; 1126 Type:	TECH
 RNSG 2363	3:0:12
-Clinical – Registered Nursing/Registered Nurse A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
+Clinical – Registered Nursing/Registered Nurse
+A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision	is	provided	by	the	clinical professional. A minimum grade of “C” is required to pass this course.
 Prerequisite:	RNSG 1430; 1125; 1128; 1216;
 1161; 1533; 1126; 2362
 Co-requisite:	RNSG 1538; 1137 Type:	TECH
@@ -2461,7 +2499,8 @@ Contracts
 Presents fundamental concepts of contract law including formation, performance, and enforcement of contracts under the common law and the Uniform Commercial Code with emphasis on the paralegal's role in contract law. Prerequisite: None
 Type:	TECH
 LGLA 1353	3:3:0
-Wills, Trusts, and Probate Administration Presents fundamental concepts of the law of wills,	trusts,	and	probate	administration emphasizing the paralegal's role.
+Wills, Trusts, and Probate Administration
+Presents fundamental concepts of the law of wills,	trusts,	and	probate	administration emphasizing the paralegal's role.
 Prerequisite:	None Type:	TECH
 LGLA 1355	3:3:0
 Family Law
@@ -2554,7 +2593,8 @@ Therapeutic Exercise
 Concepts, principles, and application of techniques related to therapeutic exercise and functional training.
 Prerequisite:	PTHA 1409; 1413 Type:	TECH
 PTHA 2431	4:3:4
-Management of Neurological Disorders Comprehensive rehabilitation techniques of selected neurological disorders.
+Management of Neurological Disorders
+Comprehensive rehabilitation techniques of selected neurological disorders.
 Prerequisite:	PTHA 1360; 2205 Type:	TECH
 PTHA 2435	4:3:4
 Rehabilitation Techniques
@@ -2749,12 +2789,14 @@ Practical, general workplace training supported by an individualized learning pl
 Prerequisite:  RADR 2401; 1313; and 1266 with a “C” or higher
 Type:	TECH
 RADR 1313	3:2:4
-Principles of Radiographic Imaging I Radiographic image quality and the effects of exposure variables. A minimum grade of “C” is required to pass this course.
+Principles of Radiographic Imaging I
+Radiographic image quality and the effects of exposure variables. A minimum grade of “C” is required to pass this course.
 Prerequisite:	RADR 1409; 1411; and 1166 with a “C” or higher
 Type:	TECH
 
 RADR 1409	4:3:3
-Introduction to Radiography and Patient Care An overview of the historical development of radiography, basic radiation protection, and introduction to medical terminology, ethical and legal issues for health care professionals, and an orientation to the profession and to health care systems. Patient assessment, infection control procedures, emergency and safety procedures, communication and patient interaction skills, and basic pharmacology are also included. A minimum grade of “C” is required to pass this course.
+Introduction to Radiography and Patient Care
+An overview of the historical development of radiography, basic radiation protection, and introduction to medical terminology, ethical and legal issues for health care professionals, and an orientation to the profession and to health care systems. Patient assessment, infection control procedures, emergency and safety procedures, communication and patient interaction skills, and basic pharmacology are also included. A minimum grade of “C” is required to pass this course.
 Prerequisite:	Acceptance into the Radiologic
 Technology	Program;	BIOL 2401; and BIOL 2402
 Type:	TECH
@@ -2771,7 +2813,8 @@ Prerequisite:    RADR 2205 and 1267 with a “C”
 or higher
 Type:	TECH
 RADR 2205	2:1:4
-Principles of Radiographic Imaging II Radiographic image quality and the effects of exposure variables, and the synthesis of all variables in image production. A minimum grade of “C” is required to pass this course.
+Principles of Radiographic Imaging II
+Radiographic image quality and the effects of exposure variables, and the synthesis of all variables in image production. A minimum grade of “C” is required to pass this course.
 Prerequisite:	RADR 2401; 1313; and 1266 with a “C” or higher
 Type:	TECH
 
@@ -2894,7 +2937,8 @@ Prerequisite: SPAN 2311 Type:	ACAD
 
 
 SPCH 1311	3:3:0
-Introduction to Speech Communication Introduces	basic	human	communication principles and theories embedded in a variety of contexts including interpersonal, small group, and public speaking.
+Introduction to Speech Communication
+Introduces	basic	human	communication principles and theories embedded in a variety of contexts including interpersonal, small group, and public speaking.
 Prerequisite:	TSI ELAR (Reading and Writing)
 requirement met or concurrent enrollment in INRW 0306 or INRW 0307 or ENGL 1301/NCBI 0300
 Type:	ACAD
@@ -2930,7 +2974,8 @@ Type:	ACAD
 
 
 VNSG 1119	1:1:0
-Leadership and Professional Development Study of the importance of professional growth. Topics include the role of the licensed vocational nurse in the multi-disciplinary health care team, professional	organizations,	and	continuing education.
+Leadership and Professional Development
+Study of the importance of professional growth. Topics include the role of the licensed vocational nurse in the multi-disciplinary health care team, professional	organizations,	and	continuing education.
 Prerequisite:	Successful   completion   of   all
 second semester courses
 Type:	TECH
@@ -2963,7 +3008,8 @@ Overview of the physical, psychosocial, and cultural aspects of the aging proces
 
 Prerequisite:	Admission to the LVN Program Type:	TECH
 VNSG 1227	2:1:2
-Essentials of Medication Administration General principles of medication administration including determination of dosage, preparation, safe administration, and documentation of multiple forms of drugs. Instruction includes various systems of measurement.
+Essentials of Medication Administration
+General principles of medication administration including determination of dosage, preparation, safe administration, and documentation of multiple forms of drugs. Instruction includes various systems of measurement.
 Prerequisite:	Admission to the LVN Program Type:	TECH
 VNSG 1230	2:2:1
 Maternal-Neonatal Nursing
@@ -2990,7 +3036,8 @@ Study of human behavior with emphasis on emotional and mental abnormalities and 
 second semester courses with a grade of “C” or higher
 Type:	TECH
 VNSG 1320	3:3:1
-Anatomy and Physiology for Allied Health Study of the structure (anatomy) and function (physiology) of the human body, including the neuroendocrine,			integumentary, musculoskeletal,	digestive,		urinary, reproductive,	respiratory,	and	circulatory systems.
+Anatomy and Physiology for Allied Health
+Study of the structure (anatomy) and function (physiology) of the human body, including the neuroendocrine,			integumentary, musculoskeletal,	digestive,		urinary, reproductive,	respiratory,	and	circulatory systems.
 Prerequisite:	Admission to the LVN Program Type:	TECH
 VNSG 1360	3:0:12
 Clinical II – Licensed Practical/Vocational Nurse Training
@@ -3029,11 +3076,13 @@ Type:	TECH
 
 
 WLDG 1412	4:3:4
-Introduction to Flux Cored Arc Welding (FCAW) An overview of terminology, safety procedures and equipment set-up. Practice in performing various joints (T-joints, lap joints, and butt joints) using Flux Cored Arc Welding (FCAW) equipment.
+Introduction to Flux Cored Arc Welding
+(FCAW) An overview of terminology, safety procedures and equipment set-up. Practice in performing various joints (T-joints, lap joints, and butt joints) using Flux Cored Arc Welding (FCAW) equipment.
 Prerequisite: None Type:	TECH
 
 WLDG 1413	4:3:4
-Introduction to Blueprint Reading for Welders A study of industrial blueprints. Emphasis placed on terminology, symbols, graphic description, and welding processes. Includes systems of measurement and industry standards. Also includes interpretation of plans and drawings used by industry to facilitate field application and production.
+Introduction to Blueprint Reading for Welders
+A study of industrial blueprints. Emphasis placed on terminology, symbols, graphic description, and welding processes. Includes systems of measurement and industry standards. Also includes interpretation of plans and drawings used by industry to facilitate field application and production.
 Prerequisite:	None Type:	TECH
 WLDG 1417	4:2:6
 Introduction to Layout and Fabrication
@@ -3057,10 +3106,12 @@ Intermediate Shielded Metal Arc Welding (SMAW)
 A study of the production of various fillets and groove welds. Preparation of specimens for testing in various positions.
 Prerequisite:	WLDG 1428 Type:	TECH
 WLDG 2451	4:2:6
-Advanced Gas Tungsten Arc Welding (GTAW) Advanced topics in GTAW welding, including welding in various positions and directions.
+Advanced Gas Tungsten Arc Welding
+(GTAW) Advanced topics in GTAW welding, including welding in various positions and directions.
 Prerequisite:	WLDG 1417 Type:	TECH
 WLDG 2452	4:3:4
-Advanced Flux Cored Arc Welding (FCAW) Advanced concepts of flux cored arc welding of structural and fabricated steel products. Skill development in multi-pass fillet and V-groove welding.
+Advanced Flux Cored Arc Welding
+(FCAW) Advanced concepts of flux cored arc welding of structural and fabricated steel products. Skill development in multi-pass fillet and V-groove welding.
 Prerequisite:	WLDG 1417 Type:	TECH
 WLDG 2453	4:3:4
 Advanced Pipe Welding
