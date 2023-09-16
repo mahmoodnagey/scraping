@@ -4,14 +4,11 @@ cycle and the accounting systems for service and merchandising businesses. Three
 ACC 2223 — PRINCIPLES OF ACCOUNTING II — (Prerequisite: ACC 1213). This course is a continuation of
 ACC 2213. The topics to be covered include corporate accounting concepts, managerial accounting concepts
 and internal business decision making. Three semester hours credit.
-AGRICULTURE
-AGR 1112 — SURVEY OF AGRICULTURE — An inroductory course covering the general functions,
-organization, and operation of the agricultural industry in both national and international settings.
+AGR 1112 — SURVEY OF AGRICULTURE — An inroductory course covering the general functions, organization, and operation of the agricultural industry in both national and international settings.
 AGR 2314 — BASIC SOILS — This course is a general course in soils designed to give the student a basic
 understanding of all-important phases of the subject, including soil genesis, morphology, classification, and
 the physical, chemical and biological aspects of soils as applied to soil fertility. Soil management, including
-fertilization and liming of soils, is also included. Three hours lecture. Two hours lab. Four semester hours
-credit.
+fertilization and liming of soils, is also included. Three hours lecture. Two hours lab. Four semester hours credit.
 ART 1113 — ART APPRECIATION — This course is designed to provide an understanding and appreciation of
 the visual arts. Three semester hours credit.
 ART 1313 — DRAWING I — This course is an introduction to the basic principles and materials of drawing.
@@ -21,24 +18,19 @@ color and further study of composition. Three semester hours credit.
 ART 1433 — DESIGN I — This course is designed to provide students with an understanding of the elements and
 principles of design to enable development of an informed, intuitive sense as well as a highly informed skills
 base/ methodology involving black and white design problems which apply principles and Introduction to
-the fundamentals of two-dimensional design with emphasis in black and white media. Three semester hours
-credit.
+the fundamentals of two-dimensional design with emphasis in black and white media. Three semester hours credit.
 ART 1443 — DESIGN II — This course is designed to provide students with an understanding of color theory
 and applications of color so that there begins to be an informed as well as intuitive sense of seeing, mixing,
-and applying color and light to design problems. Continuation of Design I with emphasis in color theory.
-Three semester hours credit.
+and applying color and light to design problems. Continuation of Design I with emphasis in color theory. Three semester hours credit.
 ART 1453 — THREE DIMENSIONAL DESIGN — This course is designed to provide students with an
 understanding of spatial form in three dimensions through the use of applied design elements and principles
 to studio problems in mixed media. Three semester hours credit.
 EAST CENTRAL COMMUNITY COLLEGE 130
-ART 2513 — PAINTING I — This course is an introduction to painting compositions and techniques. Three
-semester hours credit.
+ART 2513 — PAINTING I — This course is an introduction to painting compositions and techniques. Three semester hours credit.
 ART 2713 — ART HISTORY I — This course is a survey course of historical background of art forms from
-Prehistoric to Renaissance. Emphasis is on painting, architecture, and sculpture as related to history. Three
-semester hours credit.
+Prehistoric to Renaissance. Emphasis is on painting, architecture, and sculpture as related to history. Three semester hours credit.
 ART 2723 — ART HISTORY II — This course is a survey course of historical background of art forms from
-Prehistoric to Renaissance. Emphasis is on painting, architecture, and sculpture as related to history. Three
-semester hours credit.
+Prehistoric to Renaissance. Emphasis is on painting, architecture, and sculpture as related to history. Three semester hours credit.
 BIO 1111 — PRINCIPLES OF BIOLOGY I, Laboratory — This course is a laboratory course for non-science
 majors that contains experiments and exercises that reinforce the principles introduced in BIO 1113 Principles
 of Biology I, Lecture. One semester hour credit.
@@ -55,32 +47,27 @@ BIO 1121 — PRINCIPLES OF BIOLOGY II, Laboratory — This course is a laborator
 majors that contains experiments and exercises that reinforce the principles introduced in BIO 1123 Principles
 of Biology II, Lecture. One semester hour credit.
 BIO 1123 — PRINCIPLES OF BIOLOGY II, Lecture — This course is a lecture course for non-science majors that
-emphasizes the survey of the diversity of life, ecology, evolution, and an overview of organ systems. Three
-semester hours credit.
+emphasizes the survey of the diversity of life, ecology, evolution, and an overview of organ systems. Three semester hours credit.
 BIO 1124 — PRINCIPLES OF BIOLOGY II, Lecture and Laboratory — This course is a combined lecture and
 laboratory course for non-science majors that emphasizes the survey of the diversity of life, ecology, evolution,
 and an overview of organ systems. Labs associated with this course contain experiments and exercises that
 reinforce the principles introduced in lecture classes. Four semester hours credit.
 BIO 1131 — GENERAL BIOLOGY I LAB —This course is a laboratory course for science majors that contains
-experiments and exercises that reinforce the principles introduced in BIO 1133 General Biology I. One
-semester hour credit.
+experiments and exercises that reinforce the principles introduced in BIO 1133 General Biology I. One semester hour credit.
 BIO 1133 — GENERAL BIOLOGY I — This course is a lecture course for science majors that includes study of
 the scientific method, chemistry relevant to biological systems, cell structure and physiology, cell processes
-including photosynthesis and cellular respiration, cell division, genetics, and molecular genetics. Three
-semester hours credit.
+including photosynthesis and cellular respiration, cell division, genetics, and molecular genetics. Three semester hours credit.
 BIO 1134 — GENERAL BIOLOGY I, Lecture and Laboratory — This course is a combined lecture and laboratory
 course for science majors that includes study of the scientific method, chemistry relevant to biological systems,
 cell structure and function, cell processes including photosynthesis and cellular respiration, cell division,
 genetics, and molecular genetics. Labs associated with this course contain experiments and exercises that
 reinforce the principles introduced in lecture classes. Four semester hours credit.
 BIO 1141 — GENERAL BIOLOGY II LAB — This course is a laboratory course for science majors that contains
-experiments and exercises that reinforce the principles introduced in BIO 1143 General Biology II. One
-semester hour credit.
+experiments and exercises that reinforce the principles introduced in BIO 1143 General Biology II. One semester hour credit.
 BIO 1143 — GENERAL BIOLOGY II — This course is a lecture course for science majors that reinforces concepts
 introduced in BIO 1133 General Biology I, while emphasizing the diversity of life. Topics covered include
 adaptation by natural selection, classification, ecology, detailed consideration of each group of organisms
-and viruses, study of animals and plants including their basic anatomy and physiology. Three semester hours
-credit.
+and viruses, study of animals and plants including their basic anatomy and physiology. Three semester hours credit.
 BIO 1144 — GENERAL BIOLOGY II, Lecture and Laboratory — A combined lecture and laboratory course
 for science majors that reinforces concepts introduced in BIO 1134 General Biology I, while emphasizing
 the diversity of life. Topics covered include evolution, classification, ecology, detailed consideration of each
@@ -108,16 +95,14 @@ BIO 1323 — BOTANY II — This course is a lecture course that emphasizes class
 plants. Pre- requisite: BIO 1313/1311. Three semester hours credit.
 BIO 1613 — NUTRITION — This course is a lecture course covering the nutrients required for normal growth
 and prevention of major chronic disease, and applied to the selection of food for ingestion, the metabolic
-process of digestion, assimilation, and absorption and their applications for healthcare providers. Three
-semester hours credit.
+process of digestion, assimilation, and absorption and their applications for healthcare providers. Three semester hours credit.
 BIO 2311 — DENDROLOGY LAB — This course is a laboratory course that contains experiments and exercises
 that reinforce the principles introduced in BIO 2313 Dendrology. One semester hour credit.
 BIO 2313 — DENDROLOGY — This course is a lecture course concerning the taxonomy, morphology, ecology,
 and identification of woody plants. Three semester hours credit.
 BIO 2314 — DENDROLOGY W/LAB — This course is a combined lecture and laboratory course concerning
 the taxonomy, morphology, ecology, and identification of woody plants. Labs associated with this course
-contain experiments and exercises that reinforce the principles introduced in lecture classes. Four semester
-hours credit.
+contain experiments and exercises that reinforce the principles introduced in lecture classes. Four semester hours credit.
 BIO 2411 — ZOOLOGY I LAB — This course is a laboratory course that contains experiments and exercises that
 reinforce the principles introduced in BIO 2413 Zoology I. One semester hour credit.
 BIO 2413 — ZOOLOGY I — This course is a lecture course that includes in-depth studies of phylogeny and
@@ -145,8 +130,7 @@ courses: General Biology (BIO 1133 & 1131 or BIO 1143 & 1141), Zoology (BIO 2413
 or prior admittance into either the Associated Degree Nursing Program or Surgical Technology Program at
 ECCC. Four semester hours credit.
 BIO 2521 — ANATOMY AND PHYSIOLOGY II LAB — This course is a laboratory course that contains
-experiments and exercises that reinforce the principles introduced in BIO 2523 Anatomy and Physiology II.
-One semester hour credit.
+experiments and exercises that reinforce the principles introduced in BIO 2523 Anatomy and Physiology II. One semester hour credit.
 BIO 2523 — ANATOMY AND PHYSIOLOGY II — This course is a lecture course that includes detailed studies
 of the anatomy and physiology of the human special senses and the endocrine, circulatory, respiratory,
 digestive, and urinary systems, as well as reproduction and development. Prerequisite: Grade of C or better
@@ -159,15 +143,13 @@ principles introduced in lecture classes. Prerequisite: Grade of C or better in 
 I (BIO 2513 & 2511). Four semester hours credit.
 BIO 2921 — MICROBIOLOBY LAB — This course is a laboratory course which provides experiments that
 reinforce principles introduced in the lecture to include fundamental laboratory techniques in lab safety,
-microscopy, culturing and identification of microbes, and effectiveness of antimicrobial agents. One semester
-hour credit.
+microscopy, culturing and identification of microbes, and effectiveness of antimicrobial agents. One semester hour credit.
 BIO 2923 — MICROBIOLOGY — This course is a lecture course providing a survey of the microbes (microscopic
 organisms) with emphasis on those affecting other forms of life, especially man. Prerequisite: Grade of C or
 better in any of the following courses: General Biology (BIO 1133 & 1131 or BIO 1143 & 1141), Zoology (BIO
 2413 & 2411 or BIO 2423 & 2421) or General Chemistry (CHE 1213 & 1211), Anatomy and Physiology I ( BIO
 2513 & BIO 2511) or General Botany (BIO 1313 & BIO 1311) or ACT science score of 18, or prior admittance
-into either the Associated Degree Nursing Program or Surgical Technology Program at ECCC. Three semester
-hours credit.
+into either the Associated Degree Nursing Program or Surgical Technology Program at ECCC. Three semester hours credit.
 BIO 2924 — MICROBIOLOGY, Lecture and Laboratory — This course is a lecture course providing a survey
 of the microbes (microscopic organisms) with emphasis on those affecting other forms of life, especially
 man. Labs in this course provide experiments that reinforce principles introduced in the lecture to include
@@ -197,11 +179,9 @@ as applied to the functions of planning, organizing, directing, controlling, and
 communication in business enterprise. Three lecture hours. Three semester hours credit.
 BAD 2613 — ENTREPRENEURSHIP — This course is an applied business administration course designed
 to integrate the key principles of business planning, marketing, staffing, financing, management, and
-information systems to the task of starting, operating, and/or expanding a small business. Three lecture
-hours. Three semester hours credit.
+information systems to the task of starting, operating, and/or expanding a small business. Three lecture hours. Three semester hours credit.
 BAD 2713 — PRINCIPLES OF REAL ESTATE — This course is an introduction to the nature of the real estate
-market, types of ownership of property, contracts, and methods of transferal of title. Three lecture hours.
-Three semester hours credit.
+market, types of ownership of property, contracts, and methods of transferal of title. Three lecture hours. Three semester hours credit.
 CHE 1211 — GENERAL CHEMISTRY I LAB — This course is a laboratory course that contains experiments
 and exercises that reinforce the principles introduced in CHE 1213 General Chemistry I. Co-requisite: CHE
 1213 General Chemistry I. One semester hour credit.
@@ -214,8 +194,7 @@ and exercises that reinforce the principles introduced in CHE 1223 General Chemi
 1223 General Chemistry II. One semester hour credit.
 CHE 1223 — GENERALCHEMISTRY II — This course is a lecture course that covers solutions, kinetics,
 equilibria, thermodynamics, acid-base chemistry, and electrochemistry, Prerequisite: Grade of C or better in
-General Chemistry I (CHE 1213 & 1211). Co-requisite: CHE 1221 General Chemistry II Lab. Three semester
-hours credit.
+General Chemistry I (CHE 1213 & 1211). Co-requisite: CHE 1221 General Chemistry II Lab. Three semester hours credit.
 CHE 2421 — ORGANIC CHEMISTRY I LAB —A laboratory course that acquaints students with important
 manipulations, and procedures, and the preparation and study of organic compounds being introduced in
 CHE 2423 Organic Chemistry I. Co-requisite: CHE 2423 Organic Chemistry I. One semester hour credit.
@@ -251,13 +230,11 @@ with integrated lab components. Three lecture hours. Three semester hours credit
 CSC 1613 — COMPUTER PROGRAMMING I — This course is an introduction to problem-solving methods
 and algorithm development; designing, debugging, branching, looping, scope rules, functions, input/
 output manipulation (to include text files), simple arrays, and a variety of applications in an object-oriented
-programming language. Course has lecture with integrated lab components. Three lecture hours. Three
-semester hours credit.
+programming language. Course has lecture with integrated lab components. Three lecture hours. Three semester hours credit.
 CSC 2134 — PROGRAMMING I with C++ — This course is an in introduction to problem solving methods,
 algorithm development, designing, debugging, and documentation in C++ language with a variety of
 applications including I/O statements, operators, conditional, looping, methods/functions, and array
-processing. Prerequisite: previous programming experience. Three-hour lecture and a required lab component.
-Four semester hours credit.
+processing. Prerequisite: previous programming experience. Three-hour lecture and a required lab component. Four semester hours credit.
 CSC 2144 — PROGRAMMING II with C++ — This course is designed to be a continuation of program and
 algorithm development and analysis, search/sort methods, dynamic memory management, abstract data
 types and object-oriented design, designing and debugging larger programs. Prerequisite: CSC 2134. Three
@@ -277,8 +254,7 @@ CRJ 2213 — TRAFFIC LAW — This course is an examination of the role of law en
 traffic problems. Emphasis is placed on the history, development, and enforcement of statutes pertaining to
 motor vehicles. Three hours lecture. Three semester hours.
 CRJ 2313 — POLICE OPERATIONS — This course is a study of the operation of law enforcement agencies.
-Particular emphasis is placed on the functions of the patrol division. Three hours lecture. Three semester
-hours.
+Particular emphasis is placed on the functions of the patrol division. Three hours lecture. Three semester hours.
 CRJ 2323 — CRIMINAL LAW — This course is a study of the basic elements of substantive criminal law
 including defenses to criminal liability. Three hours lecture. Three semester hours.
 CRJ 2333 — CRIMINAL INVESTIGATION — This course is a study of principles of investigation; proper
@@ -290,8 +266,7 @@ juvenile agencies. Processing, detention, and disposition of cases. Statutes and
 juveniles. Three hours lecture. Three semester hours.
 CRJ 2623 — ASSETS PROTECTION — This course is a study of security awareness of management and
 employees; vulnerability training; internal/external theft and fraud; disaster control; physical security
-planning; investigation; guard protection; and alcohol and drug abuse in work place. Three hours lecture.
-Three semester hours.
+planning; investigation; guard protection; and alcohol and drug abuse in work place. Three hours lecture. Three semester hours.
 EDU 1613 — FOUNDATIONS IN EDUCATION — Survey of the history and philosophies of American
 education with special emphasis on current issues and problems in education. Includes a minimum of 30
 hours field experience.
@@ -301,8 +276,7 @@ factors of production, GDP/business cycles and economic growth, circular flow of
 international trade. Three lecture hours. Three semester hours credit.
 ECO 2123 — PRINCIPLES OF MICROECONOMICS — This course is the study of firms, industries and
 consumers to include the following topics; supply and demand, elasticity of demand and supply, consumer
-choice theory, production and cost theory and market structures. Three lecture hours. Three semester hours
-credit.
+choice theory, production and cost theory and market structures. Three lecture hours. Three semester hours credit.
 EGR 2413 — ENGINEERING MECHANICS (STATICS) — This course is the study of equilibrium of point
 objects and extended objects in two- and three-dimensions using vector algebra. Distributed forces, structures,
 friction, and moments of inertia in three dimensions. Prerequisites: MAT 1623 and PHY 2513. Three hours
@@ -326,8 +300,7 @@ multimedia presentations, and other related documents. This course will be accep
 not university transfer. Three lecture hours. Three hours credit.
 ENG 1113 — ENGLISH COMPOSITION I — This course prepares the student to think critically and compose
 texts for academic and professional rhetorical situations. Prerequisite: Completion of ENG 0114 and/or ENG
-0124 with a grade of “C” or better, or ACT English score of 17. Three lecture hours. Three semester hours
-credit.
+0124 with a grade of “C” or better, or ACT English score of 17. Three lecture hours. Three semester hours credit.
 ENG 1113 CR — ENGLISH COMPOSITION I WITH THE CO-REQUISITE COMPONENT — This course is
 designed for students with an English ACT sub-score of 14, 15, or 16. CR courses meet 3 times per week: two
 days in class and one day for individualized instruction. Taking a CR course allows the student to by-pass
@@ -349,8 +322,7 @@ ENG 2323 — BRITISH LITERATURE I — This course surveys British Literature fro
 through the Restoration and Eighteenth Century. Prerequisites: ENG 1113 and ENG 1123 with a grade of C or
 better. Three lecture hours. Three semester hours credit.
 ENG 2333 — BRITISH LITERATURE II — This course surveys British literature from the Romantic Period to
-the present. Prerequisites: ENG 1113 and ENG 1123 with a grade of C or better. Three lecture hours. Three
-semester hours credit.
+the present. Prerequisites: ENG 1113 and ENG 1123 with a grade of C or better. Three lecture hours. Three semester hours credit.
 ENG 2423 — WORLD LITERATURE I — This course surveys texts representative of global, historical, and
 cultural diversity from the ancient world through the early modern world. Prerequisites: ENG 1113 and ENG
 1123 with a grade of C or better. Three lecture hours. Three semester hours credit.
@@ -361,12 +333,10 @@ ENG 2613 — FILM AS LITERATURE — This course involves the study of current an
 as a form of literary, historic, and cinematic expression. Prerequisites: ENG 1113 with a grade of C or better.
 Three lecture hours. Three semester hours credit.
 GEO 1113 — WORLD REGIONAL GEOGRAPHY — This course is a regional survey of the basic geographic
-features and major new developments of the nations of the world. Three hours lecture. Three semester hours
-credit.
+features and major new developments of the nations of the world. Three hours lecture. Three semester hours credit.
 GEO 1123 — PRINCIPLES OF GEOGRAPHY — This course is the study of the basic content of geography,
 planetary relationships of the earth, interpretation and use of maps, elements of weather and climate, regional
-distribution of climatic elements and the interrelationship of human physical and cultural landscapes. Three
-semester hours credit.
+distribution of climatic elements and the interrelationship of human physical and cultural landscapes. Three semester hours credit.
 GLY 1113 — PHYSICAL GEOLOGY — The course is designed to help students to more thoroughly understand
 the physical environment and forces that shape our Earth and affect our lives. It primarily covers the
 relationships of Earth processes and the resultant rocks, minerals, physical features, and natural resources on
@@ -385,8 +355,7 @@ HPR 1141 — VARSITY SPORTS II — This course includes the participation in foo
 softball, tennis, golf, soccer or cheerleading. One semester hour credit.
 HPR 1213 — PERSONAL AND COMMUNITY HEALTH I — The course is the application of principles
 and practices of healthful living to the individual and community; major health problems and the mutual
-responsibilities of home, school, and health agencies. Three lecture hours. Three semester hours credit. One
-semester hour credit.
+responsibilities of home, school, and health agencies. Three lecture hours. Three semester hours credit. One semester hour credit.
 HPR 1313 — INTRODUCTION TO HEALTH, PHYSICAL EDUCATION AND RECREATION — This course
 is the introduction to the objectives, literature, and organizations of the profession. Analysis of successful
 teaching with discussion of the responsibilities and opportunity of professional personnel. Orientation of
@@ -406,11 +375,9 @@ softball, tennis, golf, soccer or cheerleading. One semester hour credit.
 HPR 2141 — VARSITY SPORTS IV — This course includes the participation in football, basketball, baseball,
 softball, tennis, golf, soccer or cheerleading. One semester hour credit.
 HPR 2213 — FIRST AID & CPR — This course includes the instruction and practice in methods prescribed in
-the American Red Cross or American Heart Association standard and advanced courses. Three lecture hours.
-Three semester hours credit.
+the American Red Cross or American Heart Association standard and advanced courses. Three lecture hours. Three semester hours credit.
 HPR 2323 — RECREATION LEADERSHIP — Planning and leadership techniques for conducting community
-recreation centers, playgrounds, parks, and school recreation programs. Three lecture hours. Three semester
-hours credit.
+recreation centers, playgrounds, parks, and school recreation programs. Three lecture hours. Three semester hours credit.
 HPR 2423 — FOOBALL THEORY — This course is the theoretical study of football methods from an offensive
 and defensive standpoint including the fundamentals of blocking, passing, tackling, charging, punting,
 generalship, rules and team play. Three lecture hours. Three semester hours credit.
@@ -430,8 +397,7 @@ HPR 2561 — FITNESS AND CONDITIONING TRAINING IV — This course includes the i
 practice of basic principles of fitness and conditioning through a variety of exercises and activities. Two hours
 laboratory. One semester hour credit.
 HPR 2723 — PREVENTION & CARE OF ATHELTIC INJURIES — This course is the study of theory and practice
-for the prospective athletic trainer or coach in the prevention and care of athletic injuries. Three lecture hours.
-Three semester hours credit.
+for the prospective athletic trainer or coach in the prevention and care of athletic injuries. Three lecture hours. Three semester hours credit.
 HPR 2733 — INTRODUCTION TO ATHLETIC TRAINING — This course includes an introduction to the
 profession, including but not limited to procedural aspects of the athletic training room operations, role
 delineations, preparation, and competencies with 50 observational/experience hours under a Board of
@@ -454,8 +420,7 @@ HIS 2223 — AMERICAN (U.S.) HISTORY II — This course is a survey of American 
 Three lecture hours. Three semester hours credit.
 HIS 2813 — FILM AND MUSIC AS HISTORY — This course involves the study of feature films, music, and
 television as a form of historical interpretation and expression within American History. Prerequisites: Any
-one of the following, with a grade of C or better. HIS 2213,2223, or HIS 1113,1123. Three lecture hours. Three
-semester hours credit.
+one of the following, with a grade of C or better. HIS 2213,2223, or HIS 1113,1123. Three lecture hours. Three semester hours credit.
 FCS 1233 — PRINCIPLES OF NUTRITION — This course is a study of nutrients required for growth and
 optimal health emphasizing recommended nutrient intake, food selection, digestion, absorption, transport,
 metabolism, and function. Three semester hours credit.
@@ -469,8 +434,7 @@ in a supervised project to be completed by the student. With the completion of t
 student shall earn three semester hours of credit in the humanities. Humanities I provides an overview of
 history’s most memorable achievements spanning the major world civilizations of Africa, the Americas, Asia,
 Europe, and the Middle East from the Prehistoric Era to the Renaissance. A global perspective is presented
-through a survey of history, literature, music, philosophy, and the visual arts. Three lecture hours. Three
-semester hours credit.
+through a survey of history, literature, music, philosophy, and the visual arts. Three lecture hours. Three semester hours credit.
 JOU 1111 (112, 211, 212) — COLLEGE PUBLICATIONS — Laboratory courses designed to give practical
 experience in working with college newspaper and yearbook production.
 LEA 1811 — LEADERSHIP AND ORGANIZATION SKILLS I — This course is a study of leadership styles and
@@ -490,8 +454,7 @@ and events of LEA 1811, LEA 1821, and LEA 2811; emphasizing servant leadership. 
 LIS 1121 — BASIC LIBRARY RESEARCH — This course is the study of the skills necessary to navigate
 various information resources and evaluate materials found. This includes using state-provided resources
 like MAGNOLIA and MELO. The course will focus on the paper writing process by finding and evaluating
-sources, discussing plagiarism and copyright, citing information, and annotating bibliographies. One
-semester hour credit.
+sources, discussing plagiarism and copyright, citing information, and annotating bibliographies. One semester hour credit.
 LLS 1151 — COLLEGE LIFE — This course is a study of how College Life offers group experiences in study
 skills and career exploration. This course is designed to assist the first-time student in achieving academic
 success. One hour lecture. One semester hour credit.
@@ -503,8 +466,7 @@ orientation course with credits counting toward graduation, the goal is to prepa
 journey and beyond with real-world knowledge gained in an engaging setting with personalized attention.
 Two lecture hours. Two semester hours credit.
 LLS 1321 — CAREER EXPLORATION — This course is designed to assist students in determining career goals.
-Interest tests, personality inventories, and aptitude tests are given to help students determine career choices.
-One semester hour credit.
+Interest tests, personality inventories, and aptitude tests are given to help students determine career choices. One semester hour credit.
 LLS 1411 — IMPROVEMENT OF STUDY — This course is designed to aid the student in study skills, promote
 student success in basic reading and note-taking techniques, critical thinking, time management, test-taking
 strategies, and listening and memory enhancement. One hour lecture. One semester hour credit.
@@ -555,16 +517,13 @@ descriptive statistics, and finance. Pre Requisite: ACT Math Score of 16 or high
 higher, or completion of MAT 1233 with a “C” or better or minimum Accuplacer Score required for MAT 1313.
 MAT 2113 – INTRODUCTION TO LINEAR ALGEBRA – This course includes the following topics: systems of
 linear equations; matrices; determinants; vector spaces; orthogonality; linear transformations; applications;
-eigenvalues and eigenvectors. Prerequisite: Grade of “C” or better in MAT 1623. Three lecture hours. Three
-semester hours credit.
+eigenvalues and eigenvectors. Prerequisite: Grade of “C” or better in MAT 1623. Three lecture hours. Three semester hours credit.
 MAT 2323- STASTICS – This course is an introduction to statistical methods of describing, summarizing,
 comparing, and interpreting data to include probability distributions, sampling, estimation, confidence
-intervals, and hypothesis testing. Pre-requisites: MAT 1313 or MAT 1343. Three lecture hours. Three semester
-hours.
+intervals, and hypothesis testing. Pre-requisites: MAT 1313 or MAT 1343. Three lecture hours. Three semester hours.
 MAT 2613 – CALCULUS III – This course includes the following topics: analytical geometry; parametric
 equations; polar coordinates; improper integrals, infinite sequences and series; Taylor polynomial, vectors
-and geometry of space. Prerequisite: Grade of “C” or better in MAT 1623. Three lecture hours. Three semester
-hours credit.
+and geometry of space. Prerequisite: Grade of “C” or better in MAT 1623. Three lecture hours. Three semester hours credit.
 MAT 2623 – CALCULUS IV – This course includes the following topics: partial differentiation; optimization;
 multiple integration; vector calculus; quadric surfaces, line integrals, and divergence theorem. Prerequisite:
 Grade of “C” or better in MAT 2613. Three lecture hours. Three semester hours credit.
@@ -572,16 +531,13 @@ MAT 2913 — DIFFERENTIAL EQUATIONS — This course includes the following topic
 higher order differential equations; existence theorems; Laplace transforms; applications. Pre/Co-requisite:
 Grade of “C” or better in MAT 2623. Three lecture hours. Three semester hours credit.
 MFL 1213 — SPANISH I — This course stresses conversation, pronunciation, listening comprehension, reading,
-writing, and functional grammar with emphasis on communication. Prerequisite: None. Three semester
-hours credit.
+writing, and functional grammar with emphasis on communication. Prerequisite: None. Three semester hours credit.
 MFL 1223 — SPANISH II — This course is a continuation of MFL 1213 with wider vocabulary and more complex
-structures and functions. Prerequisite: MFL 1213 or one unit of high school Spanish. Three semester hours
-credit.
+structures and functions. Prerequisite: MFL 1213 or one unit of high school Spanish. Three semester hours credit.
 MFL 2213 — SPANISH III — This course is a continuation of MFL 1223 with additional materials of literary
 and cultural value. Prerequisite: MFL 1223 or two units of high school Spanish. Three semester hours credit.
 MFL 2223 — SPANISH IV — This course is a continuation of MFL 2213 with additional literary and cultural
-readings and compositions as well as a review of essential elements of grammar. Prerequisite: MFL 2213.
-Three semester hours credit.
+readings and compositions as well as a review of essential elements of grammar. Prerequisite: MFL 2213. Three semester hours credit.
 MFL 2513—Occupational Spanish—This course is designed to teach basic oral communication skills for
 interaction in Spanish in an occupational setting. This course specializes in medical terminology. This course
 is not a substitute for Spanish I or Spanish II. It is a Humanities elective that transfers to the university. Three
@@ -595,13 +551,11 @@ levels of literature and develop the student’s interest in playing. One semest
 MUA 1172 — BRASS FOR MUSIC EDUCATION MAJORS I — This course is the study of brass instruction
 for music education majors with and advanced non-music majors with an emphasis on brass instrumental
 playing. Designed to teach the fundamental principles of playing, explore moderate to advanced levels of
-literature, develop the student’s interest in playing and strengthen the student’s playing ability. Two semester
-hours credit.
+literature, develop the student’s interest in playing and strengthen the student’s playing ability. Two semester hours credit.
 MUA 1182 — BRASS FOR MUSIC EDUCATION MAJORS II — This course is the study of brass instruction
 for music education majors with and advanced non-music majors with an emphasis on brass instrumental
 playing. Designed to teach the fundamental principles of playing, explore moderate to advanced levels of
-literature, develop the student’s interest in playing and strengthen the student’s playing ability. Two semester
-hours credit.
+literature, develop the student’s interest in playing and strengthen the student’s playing ability. Two semester hours credit.
 MUA 1241 — ELECTIVE GUITAR I — This course is the study of guitar instruction for non-music majors
 and music majors who wish to take guitar as an elective. Introduction to guitar technique, repertoire, and
 performance of standard literature. One semester hour credit.
@@ -640,11 +594,9 @@ MUA 1521 — CLASS PIANO FOR MUSIC MAJORS II — This course is class piano inst
 with no previous piano training. This curriculum is designed to prepare students for their piano proficiency
 examination upon transfer to university. One semester hour credit.
 MUA 1541 — PIANO FOR NON-MUSIC MAJORS I — This course is individual piano instruction for nonmusic majors. One semester hour credit.
-MUA 1542 — PIANO FOR VOICE MAJORS I — This course is individual piano instruction for voice majors.
-Two semester hours credit
+MUA 1542 — PIANO FOR VOICE MAJORS I — This course is individual piano instruction for voice majors. Two semester hours credit
 MUA 1551 — PIANO FOR NON-MUSIC MAJORS II — This course is individual piano instruction for nonmusic majors. One semester hour credit.
-MUA 1552 — PIANO FOR VOICE MAJORS II — This course is individual piano instruction for voice majors.
-Two semester hours credit
+MUA 1552 — PIANO FOR VOICE MAJORS II — This course is individual piano instruction for voice majors. Two semester hours credit
 MUA 1571 — PIANO FOR NON-KEYBOARD MUSIC MAJORS I — This course is individual piano instruction
 for non- keyboard music majors. One semester hour credit.
 MUA 1572 — PIANO FOR KEYBOARD MAJORS (MUSIC EDUCATION) I — This course is individual piano
@@ -685,22 +637,18 @@ education majors is designed to teach the fundamental principles of singing, exp
 and develop and improve the student’s singing ability. Two semester hours credit.
 MUA 1841 — ELECTIVE WOODWINDS I — This course is the study of woodwind instruction for music
 majors and non-music majors. Designed to teach the fundamental principles of playing, explore varied levels
-of literature, and develop the student’s knowledge of woodwind instruction and performance. One semester
-hour credit.
+of literature, and develop the student’s knowledge of woodwind instruction and performance. One semester hour credit.
 MUA 1851 — ELECTIVE WOODWINDS II — This course is the study of woodwind instruction for music
 majors and non-music majors. Designed to teach the fundamental principles of playing, explore varied levels
-of literature, and develop the student’s knowledge of woodwind instruction and performance. One semester
-hour credit.
+of literature, and develop the student’s knowledge of woodwind instruction and performance. One semester hour credit.
 MUA 1872 — WOODWINDS FOR MUSIC EDUCATION MAJORS I —This course is the study of woodwind
 instruction for music education majors and advanced non- music majors with an emphasis on woodwind
 instrumental playing. Designed to teach the fundamental principles of playing, explore moderate to advanced
-levels of literature, develop the student’s interest in playing, and strengthen the student’s playing ability. Two
-semester hours credit.
+levels of literature, develop the student’s interest in playing, and strengthen the student’s playing ability. Two semester hours credit.
 MUA 1882 — WOODWINDS FOR EDUCATION MAJORS II — This course is the study of woodwind instruction
 for music education majors and advanced non- music majors with an emphasis on woodwind instrumental
 playing. Designed to teach the fundamental principles of playing, exploring moderate to advanced levels of
-literature, developing the student’s interest in playing, and strengthening the student’s playing ability. Two
-semester hours credit.
+literature, developing the student’s interest in playing, and strengthening the student’s playing ability. Two semester hours credit.
 MUA 2141 — ELECTIVE BRASS III — This course is the study of brass instruction for non-brass/music
 education majors and non-music
  majors. Designed to teach the fundamental principles of playing, exploring moderate levels of literature, and
@@ -711,13 +659,11 @@ moderate levels of literature, and developing the student’s interest in playin
 MUA 2172 — BRASS FOR MUSIC EDUCATION III — This course is the study of brass instruction for music
 education majors with and advanced non-music majors with an emphasis on brass instrumental playing.
 Designed to teach the fundamental principles of playing, exploring moderate to advanced levels of literature,
-and developing the student’s interest in playing, and strengthening the student’s playing ability. Two semester
-hours credit.
+and developing the student’s interest in playing, and strengthening the student’s playing ability. Two semester hours credit.
 MUA 2182 — BRASS FOR MUSIC EDUCATION MAJORS IV — This course is the study of brass instruction
 for music education majors with and advanced non-music majors with an emphasis on brass instrumental
 playing. Designed to teach the fundamental principles of playing, exploring moderate to advanced levels of
-literature, developing the student’s interest in playing, and strengthening the student’s playing ability. Two
-semester hours credit.
+literature, developing the student’s interest in playing, and strengthening the student’s playing ability. Two semester hours credit.
 MUA 2241 — ELECTIVE GUITAR III — This course is the study of guitar instruction for non-music majors
 and music majors who wish to take guitar as an elective. Introduction to guitar technique, repertoire, and
 performance of standard literature. One semester hour credit.
@@ -753,8 +699,7 @@ MUA 2521 — CLASS PIANO FOR MUSIC MAJORS IV — This course is class piano inst
 majors with no previous piano training. This curriculum is designed to prepare students for their piano
 proficiency examination upon transfer to university. One semester hour credit.
 MUA 2541 — PIANO FOR NON-MUSIC MAJORS III —This course is individual piano instruction for nonmusic majors. One semester hour credit.
-MUA 2542 — PIANO FOR VOICE MAJORS III — This course is individual piano instruction for voice majors.
-Two semester hours credit.
+MUA 2542 — PIANO FOR VOICE MAJORS III — This course is individual piano instruction for voice majors. Two semester hours credit.
 MUA 2551 — PIANO FOR NON-MUSIC MAJORS IV — This course is individual piano instruction for nonmusic majors. One semester hour credit.
 MUA 2552 — PIANO FOR VOICE MAJORS IV — This course is individual piano instruction for non-music
 majors. Two semester hours credit.
@@ -787,19 +732,15 @@ and develop the student’s knowledge of woodwind instruction and performance. O
 MUA 2872 — WOODWINDS FOR EDUCATION MAJORS III — This course is woodwind instruction for music
 education majors and advanced non- music majors with an emphasis on woodwind instrumental playing.
 Designed to teach the fundamental principles of playing, explore moderate to advanced levels of literature,
-develop the student’s interest in playing, and strengthen the student’s playing ability. Two semester hours
-credit.
+develop the student’s interest in playing, and strengthen the student’s playing ability. Two semester hours credit.
 MUA 2882 — WOODWINDS FOR MUSIC EDUCATION MAJORS IV — This course is woodwind instruction
 for music education majors and advanced non- music majors with an emphasis on woodwind instrumental
 playing. Designed to teach the fundamental principles of playing, explore moderate to advanced levels of
-literature, develop the student’s interest in playing, and strengthen the student’s playing ability. Two semester
-hours credit.
+literature, develop the student’s interest in playing, and strengthen the student’s playing ability. Two semester hours credit.
 MUO 1111 — BAND I — This course is designed to teach the principles of playing musical instruments, explore
-varied levels of literature and develop the student’s knowledge of performance technique. One semester
-hour credit.
+varied levels of literature and develop the student’s knowledge of performance technique. One semester hour credit.
 MUO 1121 — BAND II — This course is designed to teach the principles of playing musical instruments,
-explore varied levels of literature and develop the student’s knowledge of performance technique. One
-semester hour credit.
+explore varied levels of literature and develop the student’s knowledge of performance technique. One semester hour credit.
 MUO 1131 — SMALL INSTRUMENT ENSEMBLE I (COLLEGIANS) — This course is designed to explore
 varied levels of literature and develop the student’s knowledge of performance technique in small ensembles
 and auxiliary groups. One semester hour credit.
@@ -821,11 +762,9 @@ from one or more genres of music. One semester hour credit.
 MUO 1251 — SELECT VOICE ENSEMBLE II (VOCE) — This course is for select singers focused on performing
 from one or more genres of music. One semester hour credit.
 MUO 2111 — BAND III — This course is designed to teach the principles of playing musical instruments,
-explore varied levels of literature and develop the student’s knowledge of performance technique. One
-semester hour credit.
+explore varied levels of literature and develop the student’s knowledge of performance technique. One semester hour credit.
 MUO 2121 — BAND IV — This course is designed to teach the principles of playing musical instruments,
-explore varied levels of literature and develop the student’s knowledge of performance technique. One
-semester hour credit.
+explore varied levels of literature and develop the student’s knowledge of performance technique. One semester hour credit.
 MUO 2131 — SMALL INSTRUMENT ENSEMBLE III (COLLEGIANS) — This course is designed to explore
 varied levels of literature and develop the student’s knowledge of performance technique in small ensembles
 and auxiliary groups. One semester hour credit.
@@ -847,8 +786,7 @@ performing from one or more genres of music. One semester hour credit.
 MUO 2251 — SELECT VOICE ENSEMBLE IV (VOCE) — This course is designed for select singers focused on
 performing from one or more genres of music. One semester hour credit.
 MUS 1113 — MUSIC APPRECIATION — This course is designed to give the student, through listening and
-written work, the ability to understand, appreciate, and evaluate music of Western Culture. Three semester
-hours credit.
+written work, the ability to understand, appreciate, and evaluate music of Western Culture. Three semester hours credit.
 MUS 1133 — FUNDAMENTALS OF MUSIC — This course is a study of basic knowledge of music fundamentals
 to prepare students for music theory. Concepts include: notation, scales, keys, rhythm, intervals, triads, and
 their inversions. Three semester hours credit.
@@ -865,8 +803,7 @@ MUS 1921 — RECITAL CLASS II — This course includes performances of solo and 
 students majoring in music. Attendance at a prescribed minimum number of departmentally approved
 musical performances per semester also required. One semester hour credit.
 MUS 2123 — MUSIC SURVEY (MAJORS) — This course is advanced listening course, designed to acquaint
-the music major with a broad overview of musical style and repertoire from antiquity to the present. Three
-semester hours credit.
+the music major with a broad overview of musical style and repertoire from antiquity to the present. Three semester hours credit.
 MUS 2214 — MUSIC THEORY III, LECTURE/LAB — This course is a continued study and review of functional
 harmony through analysis and part-writing. Lab instruction. Development of music sight-singing, ear
 training and dictation skills. Three lecture hours and two hours laboratory. Four semester hours credit.
@@ -891,13 +828,11 @@ as recorded in the four canonical gospels with specific consideration of the geo
 conditions of the 1st century and recognition of various early interpretations of the meaning of the life and
 person of Jesus. Three lecture hours. Three semester hours credit.
 PHI 2113 — INTRODUCTION TO PHILOSOPHY I — This course is an introduction to the major themes and
-history of the discipline of Philosophy with an emphasis on the development of critical thinking skills. Three
-semester hours credit.
+history of the discipline of Philosophy with an emphasis on the development of critical thinking skills. Three semester hours credit.
 PHI 2143 — ETHICS — This course is an introduction to moral philosophy with the investigation of selected
 moral problems. Three lecture hours. Three semester hours credit.
 PHI 2613 — WORLD RELIGIONS I — This course is an introduction to the beliefs and development of
-Buddhism, Christianity, Hinduism, Islam, Judaism, and other religious traditions. Three lecture hours. Three
-semester hours credit.
+Buddhism, Christianity, Hinduism, Islam, Judaism, and other religious traditions. Three lecture hours. Three semester hours credit.
 PHY 1111 — INTRODUCTION TO ASTRONOMY LAB — This course is a laboratory course that contains
 experiments and exercises that reinforce the principles introduced in PHY 1113 Introduction to Astronomy,
 Lecture. Co- Requisite PHY 1113. One semester hour credit.
@@ -906,8 +841,7 @@ solar system, our galaxy and the universe. Three semester hours credit.
 PHY 2241 — PHYSICAL SCIENCE SURVEY I LAB — This course is a laboratory course that contains experiments
 and exercises that reinforce the principles introduced in PHY 2243. One semester hour credit.
 PHY 2243 — PHYSICAL SCIENCE SURVEY I — This course is a lecture course that includes studies of
-measurements and units, electricity, mechanics, heat, sound, light, and astronomy. Three semester hours
-credit.
+measurements and units, electricity, mechanics, heat, sound, light, and astronomy. Three semester hours credit.
 PHY 2244 — PHYSICAL SCIENCE SURVEY I W/LAB — This course is a combined lecture and laboratory
 course that includes studies of measurements and units, electricity, mechanics, heat, sound, light, and
 astronomy. Labs associated with this course contain experiments and exercises that reinforce the principles
@@ -952,14 +886,12 @@ among states, national, and local governments. The organization, function, and o
 branches with emphasis on state and local government. Three lecture hours. Three semester hours credit.
 PSY 1513 — GENERAL PSYCHOLOGY — This course is an introduction to the scientific study of human
 behavior and mental processes. This includes history and theories of psychology, research methods, biological
-bases of behavior, the principles of learning, personality and abnormal behavior. Three lecture hours. Three
-semester hours credit.
+bases of behavior, the principles of learning, personality and abnormal behavior. Three lecture hours. Three semester hours credit.
 PSY/EPY 2513 — CHILD PSYCHOLOGY — This course is a study of the various aspects of human growth
 and development during childhood and emerging adolescence. Topics include biological, psychosocial and
 cognitive development. Three hours lecture. Three semester hours credit.
 PSY/EPY 2523 — ADOLESCENT PSYCHOLOGY — This course is a study of various aspects of human growth
-and development during adolescence. Topics include biological, psychosocial and cognitive development.
-Three semester hours credit.
+and development during adolescence. Topics include biological, psychosocial and cognitive development. Three semester hours credit.
 PSY/EPY 2533 — HUMAN GROWTH AND DEVELOPMENT — This course is a study of various aspects of
 human growth and development from conception through death. Topics include biological, psychosocial and
 cognitive development. Three hours lecture. Three semester hours credit.
@@ -967,21 +899,17 @@ PSY 2553 — PSYCHOLOGY OF PERSONAL ADJUSTMENT — This course aids in developin
 of personal adjustment with emphasis placed on personal issues through life, love and relationships, wellness,
 and career exploration. Prerequisite: PSY 1513. Three lecture hours. Three semester hours credit.
 SOC 2113 – INTRODUCTION TO SOCIOLOGY - This course introduces the scientific study of human society
-and social interaction and examines social forces on individuals and groups. Three lecture hours. Three
-semester hours credit.
+and social interaction and examines social forces on individuals and groups. Three lecture hours. Three semester hours credit.
 SOC 2133 – SOCIAL PROBLEMS - This course is a study of the theoretical analysis, nature, scope, and effects
-of contemporary social problems and policy measures used to address them. Three lecture hours. Three
-semester hours credit.
+of contemporary social problems and policy measures used to address them. Three lecture hours. Three semester hours credit.
 SOC 2143 – MARRIAGE AND FAMILY – This course is the study of the development of marriage and family
 as social institutions within society. Three lecture hours. Three semester hours credit.
 SOC/ANR 2213 – INTRODUCTION TO ANTHROPOLOGY – This course is a survey of the four fields and
 applied anthropology in the comparative study of humanity. Three lecture hours. Three semester hours credit.
 SOC/ANR 2243 – CULTURAL ANTHROPOLOGY – This course examines human culture and cultural
-diversity. The student will explore techniques employed by the anthropologist. Three lecture hours. Three
-semester hours credit.
+diversity. The student will explore techniques employed by the anthropologist. Three lecture hours. Three semester hours credit.
 SPT 1113 — PUBLIC SPEAKING I — This course is the study and practice in making speeches for a variety of
-public forums. Major emphasis is placed on effective speech preparation and delivery. Three lecture hours.
-Three hours credit.
+public forums. Major emphasis is placed on effective speech preparation and delivery. Three lecture hours. Three hours credit.
 SPT 2233 — THEATRE APPRECIATION — This course is an introduction of the cultural, historical and social
 aspects of drama. Class content provides an appreciation of theatre and performance art to develop audience
 standards through demonstration of the unique characteristics of theatre (a fine arts elective). Three lecture
@@ -989,8 +917,7 @@ hours. Three hours credit.
 NUR 1003 — EXTERNSHIP FOR AD NURSING — This course is designed to provide the nursing student the
 opportunity to practice basic nursing skills and apply cognitive knowledge in the practice of nursing under
 the supervision of a preceptor and indirect supervision of a nursing faculty member. The student completes
-a total of 320 hours. Prerequisites: NUR 1110, NUR 1219/NUR 1116, ENG 1113, ENG 1123, EPY 2533. Three
-semester credit hours.
+a total of 320 hours. Prerequisites: NUR 1110, NUR 1219/NUR 1116, ENG 1113, ENG 1123, EPY 2533. Three semester credit hours.
 NUR 1110 — FUNDAMENTALS OF NURSING PRACTICE — This course is designed to provide an introduction
 to nursing, nursing roles, professionalism, and patient care concepts. Emphasis is on registered nurse scope
 of practice, theory, and practice skills. An introduction to the nursing process, pharmacology, and Maslow’s
@@ -1023,8 +950,7 @@ NUR 2103- STUDENT NURSE ACADEMY II — This course is designed to allow the stud
 to practice learned nursing skills and apply cognitive knowledge of nursing practice in the clinical area.
 The student will use the nursing process in caring for patients of all ages under the direct supervision of an
 experienced registered nurse. Prerequisite: NUR 1110, NUR 1219/NUR 1116, NUR 2120, ENG 1113, ENG
-1123, EPY 2533. Co-requisite: NUR 2319, NUR 2120, PSY 1513. One hundred thirty-five clinical hours. Three
-semester credit hours.
+1123, EPY 2533. Co-requisite: NUR 2319, NUR 2120, PSY 1513. One hundred thirty-five clinical hours. Three semester credit hours.
 NUR 2120 — NURSE SEMINAR — This course is designed to promote active participation in national, state
 and local student nurse organizations and involvement in community activities. This course consists of
 meetings where group discussions will be held concerning today’s nursing trends. Goals and objectives set
@@ -1049,8 +975,7 @@ is placed on helping patients and their families cope with alterations in body f
 pharmacology, health promotion and education, evidence based practice, and interprofessional collaboration
 will be integrated throughout the course. Clinical/clinical simulation experiences provide the student an
 opportunity to apply theoretical concepts and implement safe care to patients and selected groups in a
-variety of settings. Co-requisite: NUR 2120. Six hours theory. Three hours clinical/clinical simulation/lab.
-Nine semester credit hours.
+variety of settings. Co-requisite: NUR 2120. Six hours theory. Three hours clinical/clinical simulation/lab. Nine semester credit hours.
 NUR 2410 — ADVANCED CONCEPTS OF NURSING PRACTICE — This course is designed to focus on
 advanced concepts of nursing care as they relate to patients across the lifespan with complex, multisystem
 alterations in health, as well as an integrative, family-centered approach to the care of mothers, newborns, and
@@ -1069,8 +994,7 @@ clinical simulation/lab. Ten semester credit hours.
 NUR 2941 — NCLEX REVIEW — This course is designed to provide a comprehensive, simulated review of the
 National Council Licensure Examination for Registered Nurses. This is a required course for students in the
 last semester of the nursing program. This course is intended to assist and prepare the student to sit for the
-NCLEX-RN® exam through use of testing strategies and practice testing. Co-requisite: NUR 2410, NUR 2121.
-One semester credit hour.
+NCLEX-RN® exam through use of testing strategies and practice testing. Co-requisite: NUR 2410, NUR 2121. One semester credit hour.
 PNV 1116 — PRACTICAL NURSING FOUNDATIONS — This course is designed to explain the structure and
 function of the body systems and its interrelationship to one another in the provision of safe, effective nursing
 care. In addition, this course will provide the student with the theory and skills of practical nursing through
@@ -1101,8 +1025,7 @@ SUT 1217 — PRINCIPLES OF SURGICAL TECHNIQUE — This course is a comprehensive
 technique, safe patient care, anesthesia, pharmacology, and surgical techniques. Three hours lecture. Eight
 hours lab. Seven semester credit hours.
 SUT 1223 — MEDICAL TERMINOLOGY FOR THE SURGICAL TECHNOLOGISTS — This course is a study
-of medical terminology as it relates to the practice of surgical technology. Three hours lecture. Three semester
-credit hours.
+of medical terminology as it relates to the practice of surgical technology. Three hours lecture. Three semester credit hours.
 SUT 1413 — SURGICAL MICROBIOLOGY — This is an introduction to pathogenic microorganisms related to
 surgery and their effect on wound healing and infection. It includes principles of sterilization and disinfection.
 Three hours lecture. Three semester credit hours.
@@ -1140,8 +1063,7 @@ ABT 1223 — NON-STRUCTURAL ANALYSIS AND DAMAGE REPAIR I — This course will pr
 in the procedures and practices for metal finishing and body filling. Includes: the repair of the sheet metal
 components of the vehicle body, practice in selecting and applying various methods and tools of the trade
 used in removing dents and other damage conditions from sheet metal panels. Also included are constructing
-and installing simple metal patch panels, and making basic repairs. One hour lecture, four hours lab. Three
-semester hours credit.
+and installing simple metal patch panels, and making basic repairs. One hour lecture, four hours lab. Three semester hours credit.
 ABT 1236 — NON-STRUCTURAL ANALYSIS AND DAMAGE REPAIR II — This course is a continuation of
 Non-Structural Analysis and Damage Repair I. This course provides instruction for preparation principles
 and practices. This course provides instruction for outer body panel repair, replacement, and adjustment
@@ -1172,8 +1094,7 @@ Three semester hours credit. Prerequisite: Structural Analysis and Damage Repair
 ABT 2243 — NON-STRUCTURAL ANALYSIS AND DAMAGE REPAIR III — This course is a ontinuation of
 Non-Structural Analysis and Damage Repair II. This course provides instruction for outer body panel repair
 replacement, and continues adjustment principles and practices. Provided also is the theory and practice
-in the repair of fiberglass, plastic, and sheet molded compounds. One hour lecture, four hours lab. Three
-semester hours credit. Co-requisite: Non-Structural Analysis and Damage Repair II (ABT-1233.)
+in the repair of fiberglass, plastic, and sheet molded compounds. One hour lecture, four hours lab. Three semester hours credit. Co-requisite: Non-Structural Analysis and Damage Repair II (ABT-1233.)
 ABT 2336 — REFINISHING III — This course is a continuation of Refinishing II with emphasis on advanced
 painting techniques including paint mixing, matching, and applying and detailing. Two hours lecture,
 eight hours lab. Six semester hours credit. Prerequisite: Refinishing II (ABT-1323). Co-requisite: ABT 2343
@@ -1190,16 +1111,14 @@ with industrial experience. Variable credit is awarded on the basis of one semes
 contact hours. Nine hours externship, 135 contact hours.
 ATT 1124 — BASIC ELECTRICAL/ELECTRONIC SYSTEMS — (Prerequisite: ATT 1124 Basic Electrical/
 Electronic Systems) This course is designed to provide advanced skills and knowledge related to all
-components of the vehicle electrical system including Two hours lecture. Four hours lab. Four semester hours
-credit.
+components of the vehicle electrical system including Two hours lecture. Four hours lab. Four semester hours credit.
 ATT 1134 — ADVANCED ELECTRICAL/ELECTRONIC SYSTEMS — This course is designed to provide
 advanced skills and knowledge related to all components of the vehicle electrical system including gauges,
 driver information systems, horn, wiper/wiper systems, and accessories. Two hours lecture. Four hours lab.
 Four semester hours credit.
 ATT 1214 — BRAKES — This course is designed to provide advanced skills and knowledge related to the
 repair and maintenance of brake systems on automobiles. It includes instruction and practice in diagnosis of
-braking system problems and the repair of brake systems. Two hours lecture. Four hours lab. Four semester
-hours credit.
+braking system problems and the repair of brake systems. Two hours lecture. Four hours lab. Four semester hours credit.
 ATT 1313 — MANUAL DRIVE TRAIN/TRANSAXLE — This course is designed to provide advanced skills
 and knowledge related to the maintenance and repair of manual transmissions, transaxles and drive train
 components. It includes instruction in the diagnosis of drive train problems and the repair and maintenance
@@ -1265,8 +1184,7 @@ Lean Manufacturing, Quick Changeover, SS, Teamwork and Problem-solving. Two hour
 lab. Three semester credit hours.
 IAT 1173 — CONTROL SYSTEMS I FOR AUTOMATION AND CONTROLS — This course is an introductory
 course to provide information on various instrumentation components and processes. Topics include
-analyzing pressure processes, temperatures, flow, and level. . Two hours lecture, two hours lab. Three
-semester credit hours.
+analyzing pressure processes, temperatures, flow, and level. . Two hours lecture, two hours lab. Three semester credit hours.
 IAT 2113 — PROGRAMMABLE LOGIC CONTROLLERS FOR AUTOMATION AND CONTROLS — This
 course provides instruction in the use of programmable logic controllers (PLCs) in modern industrial settings.
 The operating principles, installation and basic programming of PLCs will be covered. Two hours lecture,
@@ -1296,12 +1214,10 @@ introduction to basic word processing commands and essential skill development u
 the alphabetic keyboard. Course emphasis will be on speed and accuracy when keying documents and timed
 writings. Three hours lecture. Three semester hours credit.
 BOT 1233 — MICROSOFT® WORD® I — This course focuses on improving keyboarding techniques using the
-touch method and on production of documents using Microsoft® Word® functions. Three semester hours
-credit. Two hours lecture, two hours lab.
+touch method and on production of documents using Microsoft® Word® functions. Three semester hours credit. Two hours lecture, two hours lab.
 BOT 1243 — MICROSOFT® WORD® II — (Prerequisite: BOT 1233 Microsoft® Word® I) This course is a
 continuation of Microsoft® Word® I and focuses on production of documents using Microsoft® Word®.
-Production with accuracy is stressed and practice is given through a variety of documents for skillbuilding.
-Three semester hours credit. Two hours lecture, two hours lab.
+Production with accuracy is stressed and practice is given through a variety of documents for skillbuilding. Three semester hours credit. Two hours lecture, two hours lab.
 BOT 1273 — INTRODUCTION TO MICROSOFT® OFFICE® — This course will introduce an operating system
 and word processing, spreadsheet, database management, and presentation software applications using the
 Microsoft® Office® suite. Two hours lecture, two hours lab. Three semester hours credit.
@@ -1318,16 +1234,13 @@ on blogs, wikis, social networking sites, photo-sharing sites, instant messaging
 widgets, virtual worlds, and more. Two hours lecture, two hours lab. Three semester hours credit.
 BOT 1613 — MEDICAL TERMINOLOGY I — (Prerequisite: None) This course is a study of medical language
 relating to the various body systems including diseases, physical conditions, procedures, clinical specialties,
-and abbreviations. Emphasis is placed on correct spelling and pronunciation. Three hours lecture. Three
-semester hours credit.
+and abbreviations. Emphasis is placed on correct spelling and pronunciation. Three hours lecture. Three semester hours credit.
 BOT 1623 — MEDICAL TERMINOLOGY II — (Prerequisite: BOT 1613 Medical Terminology I) This course
 presents medical terminology pertaining to human anatomy in the context of body systems. The emphasis is
-directed toward medical terminology as it relates to medical office. Two hours lecture. Two hours lab. Three
-semester hours credit.
+directed toward medical terminology as it relates to medical office. Two hours lecture. Two hours lab. Three semester hours credit.
 BOT 1763 — COMMUNICATION ESSENTIALS — This course focuses on the basic English competencies
 and communication skills necessary to be successful and effective in the workplace in addition to effectively
-contributing to a team while working with a diverse population. Two hours lecture, two hours lab. Three
-semester hours credit.
+contributing to a team while working with a diverse population. Two hours lecture, two hours lab. Three semester hours credit.
 BOT 1823 — MICROSOFT® EXCEL® I — This course focuses on application Microsoft® Excel® as an aid to
 management decision making. Two hours lecture, two hours lab. Three semester hours credit.
 BOT 1853 — MICROSOFT® EXCEL® II — (Prerequisite: BOT 1823 Microsoft® Excel® I) This course is a
@@ -1347,12 +1260,10 @@ BOT 2433 — QUICKBOOKS® — This course applies basic accounting principles us
 hours lecture, two hours lab. Three semester hours credit.
 BOT 2523 — MEDICAL MACHINE TRANSCRIPTION I — (Prerequisites: BOT 1113-Document Formatting
 & Production and BOT 1613-Medical Terminology I and BOT 1623-Medical Terminology II ). This course
-is designed to teach transcription of various medical documents. One hour lecture. Four hours lab. Three
-semester hours credit.
+is designed to teach transcription of various medical documents. One hour lecture. Four hours lab. Three semester hours credit.
 BOT 2643 — CPT CODING — (Prerequisites: BOT 1613 Medical Terminology I and BOT 1623 Medical
 Terminology II) (Corequisite: BOT 2653 ICD Coding) This course is an introduction to the field of procedural
-coding and requirements for insurance reimbursement. Two hours lecture. Two hours lab. Three semester
-hours credit.
+coding and requirements for insurance reimbursement. Two hours lecture. Two hours lab. Three semester hours credit.
 BOT 2653 — ICD CODING — (Prerequisites: BOT 1613 Medical Terminology I, and BOT 1623 Medical
 Terminology II) (Corequisite: BOT 2643 CPT Coding) This course is an introduction to the field of diagnostic
 coding. Two hours lecture. Two hours lab. Three semester hours credit.
@@ -1391,8 +1302,7 @@ centers. Three hours credit, two hours lecture, two hours lab.
 CDT 1223 — PRESCHOOL AND PRIMARY DEVELOPMENT — This course provides knowledge concerning
 the care, development, and education of the preschool child in group settings and school age children in
 afterschool and summer programming. Practice is given in preschool children caregiving in group settings
-through classroom laboratory or collaborative centers. (ages 3–8) Three hours credit, two hours lecture, two
-hours lab.
+through classroom laboratory or collaborative centers. (ages 3–8) Three hours credit, two hours lecture, two hours lab.
 CDT 1313 — CREATIVE ARTS FOR YOUNG CHILDREN — This course is designed to plan and develop
 creative art activities with children birth to age eight. Activities will be implemented during Student Teaching
 I and II. Three hours lecture. Three semester hours credit.
@@ -1416,8 +1326,7 @@ I and II. Three hours lecture. Three semester hours credit.
 CDT 2413 — DEVELOPMENT OF THE EXCEPTIONAL CHILD — This course provides knowledge of
 atypically developing children, family, and classroom intervention strategies and available support services.
 Legal, ethical, legislative, and family issues will be explored. Resources include Infant Toddler Environmental
-Rating Scale Revised (ITERS-R), and Early Childhood Environmental Rating Scale Revised (ECERS-R). Three
-hours credit, two hours lecture, two hours lab.
+Rating Scale Revised (ITERS-R), and Early Childhood Environmental Rating Scale Revised (ECERS-R). Three hours credit, two hours lecture, two hours lab.
 CDT 2513 — FAMILY DYNAMICS AND COMMUNITY INVOLVEMENT — This course provides knowledge
 for establishing successful partnerships with children’s families and communities by creating respectful,
 reciprocal relationships that support and empower families while involving families in their children’s
@@ -1425,8 +1334,7 @@ development and learning (ages birth to 8 years). Three hours credit. Three hour
 CDT 2613 — METHODS AND MATERIALS — This course will introduce Mississippi Early Learning Guidelines,
 Infant Toddler Environmental Rating Scale Revised (ITERS-R), and Early Childhood Environmental Rating
 Scale Revised (ECERS-R) to develop classroom curricula in an indoor and outdoor learning environment.
-Lab activities with the children are implemented during Student Teaching I and II. Three hours lecture. Three
-semester hours credit.
+Lab activities with the children are implemented during Student Teaching I and II. Three hours lecture. Three semester hours credit.
 CDT 2713 — SOCIAL STUDIES, MATH, AND SCIENCE FOR YOUNG CHILDREN — This course provides
 instructional and hands-on techniques in planning developmentally appropriate activities in social studies,
 math and science for young children. Lab activities with the children are implemented during Student
@@ -1576,8 +1484,7 @@ police and community. The role and influence of officers in community relations;
 the problem areas of race and juveniles will be covered. Three Hours Lecture. Three Semester Hours Credit
 CJT/CRJ 1363 — INTRODUCTION TO CORRECTIONS — This course contains an overview of the correctional
 field; its origins, historical and philosophical background development, current status; and relationship with
-other facets of the criminal justice system and future prospects. Three Hours Lecture. Three Semester Hours
-Credit
+other facets of the criminal justice system and future prospects. Three Hours Lecture. Three Semester Hours Credit
 CJT/CRJ 1383 – CRIMINOLOGY — This course includes the study and practice the nature and significance of
 criminal behavior. It also explores the theories, statistics, trends, and programs concerning criminal behavior.
 Three Hours Lecture. Three Semester Hours Credit
@@ -1591,8 +1498,7 @@ CJT/CRJ 2313 — POLICE OPERATIONS AND ETHICS — This course is a study of the 
 administration of law enforcement agencies. Particular emphasis is placed on the functions of the patrol
 division. Three Hours Lecture. Three Semester Hours Credit
 CJT/CRJ 2323 — CRIMINAL LAW — This couse presents basic elements of criminal law under the Constitution
-of the United States, state Constitutions, and federal and state statutes. Three Hours Lecture. Three Semester
-Hours Credit
+of the United States, state Constitutions, and federal and state statutes. Three Hours Lecture. Three Semester Hours Credit
 CJT/CRJ 2333 — CRIMINAL INVESTIGATION I — This course includes fundamentals, search and recording,
 collection and preservation of evidence, finger printing, photography, sources of information, interviews and
 interrogation. Three Hours Lecture. Three Semester Hours Credit
@@ -1664,8 +1570,7 @@ yeast goods, pies, cakes, cookies, and quick breads; and use and care for equipm
 Principles I (HRT 1213/CUT 1114). Two hours lecture, two hours lab. Three semester credit hours.
 CUT 1513 — GARDE MANGER — This course provides orientation to garnishing, preparation of charcuterie
 items, cold foods, and buffet presentation. It also explores the various duties of the modern garde manger.
-Prerequisites: Culinary Principles I (HRT 1213/CUT 1114). One hour lecture, four hour lab. Three semester
-credit hours.
+Prerequisites: Culinary Principles I (HRT 1213/CUT 1114). One hour lecture, four hour lab. Three semeste credit hours.
 CUT 2223 — MENU PLANNING AND FACILITIES DESIGN — This course introduces the principles and
 concepts of menu planning, menu formats, and layout with regard to a wide variety of eating habits and
 taste of the dining public. Emphasis will be on pricing, menu design, merchandising, tools, nutritional
@@ -1700,8 +1605,7 @@ student with the physical properties of the materials generally used in the erec
 description of their manufacturer. Three hours lecture, two hours laboratory. Three semester hours credit.
 DDT 1313 — COMPUTER-AIDED DESIGN I — This course will use the CAD system to design and draw
 various problems in the architectural, mechanical and civil drafting areas. Emphasis will be placed on the
-operations of the CAD system to solve these problems. Two hours lecture, two hours laboratory. Three
-semester hours credit.
+operations of the CAD system to solve these problems. Two hours lecture, two hours laboratory. Three semester hours credit.
 DDT 1323 — COMPUTER-AIDED DESIGN II — (Prerequisite: DDT 1313 Computer-Aided Design I or GRA
 1143 Graphic Communication I). This course is designed as a continuation of Computer-Aided Design I.
 Subject areas will include dimensions, sectional views, and symbols. Two hours lecture, two hours laboratory.
@@ -1723,8 +1627,7 @@ fabricators and erectors. Knowledge is gained in the use of A.I.S.C. Handbook. P
 involve structural designing and drawing of beams, columns, connections, trusses and bracing. One hour
 lecture, four hours laboratory. Three semester hours credit.
 DDT 2243 — COST ESTIMATING — This course includes preparation of material lists and quantity surveys
-from actual working drawings and specifications. Two hours lecture and two hours laboratory. Three semester
-hours credit.
+from actual working drawings and specifications. Two hours lecture and two hours laboratory. Three semester hours credit.
 DDT 2373 — 3D MODELING — (Prerequisite: DDT 1323 Computer-Aided Design II). This course is an
 advanced course in the use of CAD software with emphasis on the user coordinate system and 3-D modeling.
 Two hours lecture, two hours laboratory. Three semester hours credit.
@@ -1735,8 +1638,7 @@ drawings using maps, field survey data, aerial photographs and related reference
 symbols, notations, and other applicable standardized materials. Two hours lecture, two hours laboratory.
 Three semester hours credit.
 DDT 2433 — LEGAL PRINCIPLES OF SURVEYING — This course is a study of the legal aspects of boundary
-controls for the survey and resurvey of real property. Two hours lecture, two hours lab. Three semester hours
-credit.
+controls for the survey and resurvey of real property. Two hours lecture, two hours lab. Three semester hours credit.
 DDT 2443 — BOUNDARY SURVEYING — Practical applications of boundary surveying as per State of
 Mississippi regulations. Course includes methods of determining boundary location and legal descriptions,
 research record survey/description information, data collection, and boundary stake-out. One hour lecture,
@@ -1744,17 +1646,14 @@ four hours lab.
 DDT 2623 — ARCHITECTURAL DESIGN II — (Prerequisite: DDT 1613 Architectural Design I and DDT 1323
 Computer-Aided Design II). This course emphasizes standard procedures and working drawings. Details
 involving architectural, mechanical, electrical, and structural drawings are covered, along with presentation
-of drawings and computer aided design assignments. Two hours lecture, two hours laboratory. Three
-semester hours credit.
+of drawings and computer aided design assignments. Two hours lecture, two hours laboratory. Three semester hours credit.
 DDT 2633 — PRE-ENGINEERED METAL STEEL BUILDING DRAFTING — (Prerequisite: Architectural Design
 I) This course provides a basic understanding of a metal building system design and its incorporation into
-architectural engineering documents. Two hours lecture and two hours laboratory. Three semester hours
-credit.
+architectural engineering documents. Two hours lecture and two hours laboratory. Three semester hours credit.
 DDT 2123 — FUNDAMENTALS OF GIS (Geographical Information Systems) — This course includes the use
 of mapping and databases in multiple applications. Included are incorporation of imagery and data into a
 graphical oriented database system. Also included are the fundamentals of geographical information system
-techniques, approaches and applications. Two hours lecture, two hours laboratory. Three semester hours
-credit.
+techniques, approaches and applications. Two hours lecture, two hours laboratory. Three semester hours credit.
 DDT 2813 — INVENTOR 3D MODEL AND ANIMATION — (Prerequisite: DDT 2373 3D Modeling and
 DDT 1173 Mechanical Design I) This course will provide instruction on the 3D applications of lnventor. It
 emphasizes the development of 3D parametric models and the ability to generate 2D drawings, details and
@@ -1792,8 +1691,7 @@ manual transmissions, drive shafts, and drive axles. Three semester hours. Two h
 DET 1813 — AIR CONDITIONING AND HEATING SYSTEMS — This course is designed to provide skills and
 knowledge related to the operation, maintenance, and repair of air conditioning and heating systems used
 in commercial equipment, includes instruction in theories and operating principles, A/C system diagnosis
-and repair, clutch and compressor repair, evaporator and condenser repair, and heating system repair. Three
-semester hours. One hour lecture, four hours lab.
+and repair, clutch and compressor repair, evaporator and condenser repair, and heating system repair. Three semester hours. One hour lecture, four hours lab.
 DET 2253 — STEERING AND SUSPENSION SYSTEMS — This course is designed to provide advanced skills
 and knowledge related to the operation, maintenance, and repair of heavy duty steering and suspension
 systems, Includes instruction in steering column and steering gear, power steering unit, steering linkage,
@@ -1818,8 +1716,7 @@ lecture, two hours lab.
 ELT 1123 — COMMERCIAL WIRING — (Prerequisite: ELT 1113 Residential/Light Commercial Wiring and
 ELT 1193 Fundamentals of Electricity, or equivalent). This course will provide instruction and practice in the
 installation of commercial electrical service including the types and uses of conduits and other raceways.
-NEC code requirements, and three phase distribution networks. Two hours lecture. Two hours lab. Three
-semester hours credit.
+NEC code requirements, and three phase distribution networks. Two hours lecture. Two hours lab. Three semester hours credit.
 ELT 1143 — AC AND DC CIRCUITS FOR ELECTRICAL TECHNOLOGY — (Co-requisite: Fundamentals of
 Electricity, ELT 1193 or ACT 1713 Electricity for Heating, Ventilation, Air Conditioning and Refrigeration).
 This course will provide principles and theories associated with AC and DC circuits used in the electrical
@@ -1843,8 +1740,7 @@ and practice in the disassembly/assembly and preventive maintenance of common el
 hours lecture. Two hours lab. Three semester hours credit.
 ELT 1253 — BRANCH CIRCUIT AND SERVICE ENTRANCE CALCULATION — (Prerequisite: ELT 1113
 Residential/Light Commercial Wiring). This course will teach calculating circuit sizes for all branch circuits
-and service entrances in residential installation. Two hours lecture. Two hours lab. Three semester hours
-credit
+and service entrances in residential installation. Two hours lecture. Two hours lab. Three semester hours credit
 ELT 1263 — ELECTRICAL DRAWING AND SCHEMETICS — (Co-requisite: Fundamentals of Electricity,
 ELT 1193 or ACT 1713 Electricity for Heating, Ventilation, Air Conditioning and Refrigeration). This course
 provides knowledge of architectural symbols and electric symbols needed to read blueprints. All elevations
@@ -1872,20 +1768,17 @@ principles of solid state motor control. Includes instruction and practice in th
 different solid state devices for motor control. Two hours lecture. Four hours lab. Four semester hours credit.
 ELT 2614 — PROGRAMMABLE LOGIC CONTROLLERS — (Prerequisite: ELT 1413 Motor Control Systems).
 This course will provide instruction and practice in the use of programmable logic controllers (PLC’s) in
-modern industrial settings. Includes instruction in the operating principles of PLC’s and practice in the programming, installation, and maintenance of PLC’s. One hour lecture. Four hours lab. Four semester hours
-credit.
+modern industrial settings. Includes instruction in the operating principles of PLC’s and practice in the programming, installation, and maintenance of PLC’s. One hour lecture. Four hours lab. Four semester hours credit.
 ELT 2913 — SPECIAL PROJECT I — (Prerequisite: Consent of Instructor). This course will cover practical
 application of skills and knowledge gained in other electronics or electronics-related technical courses. The
 instructor works closely with the student to insure that the selection of a project will enhance the student’s
 learning experience. Six hours lab. Three semester hours credit.
 ELT 2933 — SPECIAL PROJECTS II — This course provides practical application of skills and knowledge
 gained in other electrical or electrical-related technical courses. The instructor works closely with the student
-to ensure that the selection of a project will enhance the student’s learning experience. Six hours lab. Three
-semester hours credit
+to ensure that the selection of a project will enhance the student’s learning experience. Six hours lab. Three semester hours credit
 MMT 2513 — ENTREPRENEURSHIP — This course provides an overview of activities that are involved in
 planning, establishing, and managing a small business enterprise. Topics to be covered include planning,
-location, analysis, financing, and development of a business plan. Three lecture hours. Three semester hours
-credit.
+location, analysis, financing, and development of a business plan. Three lecture hours. Three semester hours credit.
 ACT 1003 — INTRODUCTION TO HEATING AND AIR CONDITIONING TECHNOLOGY — This course
 is designed to introduce students to the fundamental skills associated with all HVAC courses. Safety, basic
 tools, special tools, and equipment, communication skills, employability skills, and materials handling topics
@@ -1905,14 +1798,11 @@ ACT 1713 — ELECTRICITY FOR HEATING, VENTILATION, AIR CONDITIONING AND REFRIGER
 — This course introduces basic knowledge of electricity power distribution, components, solid state devices
 and electrical circuits. Two hours lecture. Two hours lab. Three semester hours credit.
 ACT 2323 — COMMERCIAL REFRIGERATION — This course is a study of various commercial refrigeration
-systems. It includes installation, servicing and maintaining systems. Two hours lecture. Four hours lab. Four
-semester hours credit.
+systems. It includes installation, servicing and maintaining systems. Two hours lecture. Four hours lab. Four semester hours credit.
 ACT 2413 — AIR CONDITIONING I — This course introduces various types of residential and commercial air
-conditioning, including hydronic, absorption and desiccant systems. Two hours lecture. Four Hours lab. Four
-semester hours credit.
+conditioning, including hydronic, absorption and desiccant systems. Two hours lecture. Four Hours lab. Four semester hours credit.
 ACT 2423 — AIR CONDITIONING II — An in-depth course in the installation, start-up, maintenance and air
-quality of complete heating and air conditioning systems. Two hours lecture. Four hours lab. Four semester
-hours credit.
+quality of complete heating and air conditioning systems. Two hours lecture. Four hours lab. Four semester hours credit.
 ACT 2433 — REFRIGERANT, RETROFIT AND REGULATIONS — This course details the regulations and
 standards for new retrofit and government regulations. Includes OSHA regulations, EPA regulations, local
 and state codes. Two hours lecture. Two hours lab. Three semester hours credit.
@@ -1946,8 +1836,7 @@ HRT 1413 — ROOMS DIVISION MANAGEMENT — This course introduces an operational
 division management in the hospitality industry including front office management and housekeeping
 operations. Two hours lecture. Two hours lab. Three semester hours credit.
 HRT 1511 — HOSPITALITY SEMINAR — This course will introduce leadership and management skills
-necessary for success in hospitality and tourism management to the student. One hour lecture. One semester
-hour credit.
+necessary for success in hospitality and tourism management to the student. One hour lecture. One semester hour credit.
 HRT 1813 — TOURISM SPECIALIST — This course covers activities associated with organizing, booking, and
 conducting tours. Three hours lecture. Three semester hours credit.
 HRT 2233 — HOSPITALITY COST CONTROL — This course focuses on the principles and procedures
@@ -1966,8 +1855,7 @@ HRT 2623 — HOSPITALITY HUMAN RESOURCE MANAGEMENT — This course introduces th
 of hospitality human resource management with an emphasis placed on the study of human behavior and
 human relations in the hospitality industry. Three hours lecture. Three semester hours credit.
 HRT 2853 — CONVENTION AND MEETING PLANNING — This course will focus on planning, promotion,
-and management of meetings, conventions, expositions, and events. Three hours lecture. Three semester
-hours credit.
+and management of meetings, conventions, expositions, and events. Three hours lecture. Three semester hours credit.
 MST 1115 — POWER MACHINERY I — This course provides instruction of general shop safety as well as the
 operation of power machinery which includes instruction and practice in the safe operation of lathes, power
 saws, drill presses, and vertical mills. Two hour lecture, six hour lab. Five semester credit hours.
@@ -1985,15 +1873,13 @@ is a continuation of Blueprint Reading with emphasis on advanced feature of plan
 instruction on the identification of various projections and views and on different assembly components. Two
 hours lecture. Two hours lab. Three semester hours credit.
 MST 1613 — PRECISION LAYOUT — This course details precision layout for machining operations which
-includes instruction and practice in the use of layout instruments. Two hours lecture. Two hours lab. Three
-semester hours credit.
+includes instruction and practice in the use of layout instruments. Two hours lecture. Two hours lab. Three semester hours credit.
 MST 2134 — POWER MACHINERY III — (Prerequisite: Power Machinery II, MST 1124). This course is a
 continuation of the Power Machinery II with emphasis on safety and advanced applications of the engine
 lathe, milling machine, and grinding machine. Two hours lecture. Four hours lab. Five semester hours credit.
 MST 2144 — POWER MACHINERY IV — (Prerequisites: Power Machinery III, MST 2134). This course is a
 continuation of Power Machinery III with emphasis on highly advanced safety operations of the radial arm
-drill, milling machine, engine lathe, and precision grinder. Two hour lecture. Four hours lab. Three semester
-hours credit.
+drill, milling machine, engine lathe, and precision grinder. Two hour lecture. Four hours lab. Three semester hours credit.
 MST 2715 — COMPUTER NUMERICAL CONTROL OPERATIONS I — This course is an introduction of
 computer numerical control (CNC) and computer assisted manufacturing (CAM) techniques and practices.
 Includes the use of the Cartesian coordinate system, programming codes and commands and tooling
@@ -2001,12 +1887,10 @@ requirements for CNC/CAM machines. Two hours lecture. Six hours lab. Four semest
 MST 2724 — COMPUTER NUMERICAL CONTROL OPERATIONS II — (Prerequisites: Computer Numerical
 Control Operations I, MST 2714). This course is a continuation of Computer Numerical Control Operations
 I. Includes instruction in writing and editing CNC programs, machine setup and operation, and use of CAM
-equipment to program and operate CNC machines. Two hour lecture. Four hours lab. Three semester hours
-credit.
+equipment to program and operate CNC machines. Two hour lecture. Four hours lab. Three semester hours credit.
 MST 2733 — FUNDAMENTALS OF CAD/CAM — This course is designed to provide the students with the
 fundamental knowledge and skills of Computer Aided Design Manufacturing using various CAD/CAM
-software packages as they relate to Machine Tool Technology. Three hours lecture. Three semester hours
-credit.
+software packages as they relate to Machine Tool Technology. Three hours lecture. Three semester hours credit.
 WORK-BASED LEARNING
 WBL 191(1-3), 192(1-3), 291(1-3) & 292(1-3) — WORK-BASED LEARNING — This Work-Based Learning
 course is designed for students enrolled in career-technical programs and employed in parallel workplace
@@ -2026,8 +1910,7 @@ CCT 1213 — CONSTRUCTION MATERIALS — This course examines the physical proper
 generally used in the erection of a structure, with a brief description of their manufacture. Three semester
 hours, two hours lecture, two hours lab.
 CCT 1236 — FLOOR & WALL FRAMING — This course provides theory and practical work experience in
-estimating, cutting, and installing floor and wall framing members. Two hours lecture. Eight hour lab. Six
-semester hours.
+estimating, cutting, and installing floor and wall framing members. Two hours lecture. Eight hour lab. Six semester hours.
 CCT 1244 — CEILING & ROOF FRAMING — (Prerequisites: CCT 1116, CCT 1236, and CCT 1163) This course
 provides theory and practical work experience in estimating materials for ceiling and roof framing members.
 Hands-on experience in measuring, cutting, and the installation of different types of ceiling and roof framing
@@ -2057,14 +1940,12 @@ COV 1426 — HAIR CARE I — This course consists of the study of properties of 
 hair design; shampooing, rinsing, and conditioning; haircutting; hairstyling; braiding and braid extensions;
 wigs and hair enhancements; chemical texture services, and hair coloring. Included are classroom theory and
 lab practice as governed by Mississippi cosmetology laws, rules, and regulations involved in cosmetology
-practices and safety precautions associated with each. Two hours lecture. Twelve hours lab. Six semester
-hours credit.
+practices and safety precautions associated with each. Two hours lecture. Twelve hours lab. Six semester hours credit.
 COV 1436 — HAIR CARE II — This course consists of the advanced study of properties of the hair and scalp;
 principles of hair design; shampooing, rinsing, and conditioning; haircutting; hairstyling; braiding and braid
 extensions; wigs and hair enhancements; chemical texture services, and hair coloring. Included are classroom
 theory and lab practice as governed by Mississippi cosmetology laws, rules, and regulations involved in
-cosmetology practices and safety precautions associated with each. Two hours lecture. Twelve hours lab. Six
-semester hours credit.
+cosmetology practices and safety precautions associated with each. Two hours lecture. Twelve hours lab. Six semester hours credit.
 COV 1443 — HAIR CARE III — This course consists of the practical applications of the study of properties of
 the hair and scalp; principles of hair design; shampooing, rinsing, and conditioning; haircutting; hairstyling;
 braiding and braid extensions; hair enhancements; chemical texture services, and hair coloring. Included
@@ -2078,8 +1959,7 @@ safety precautions associated with each. One hour lecture. Three hours lab. Two 
 COV 1532 — NAIL CARE II — This course consists of basic nail care services including nail structure and
 growth, manicuring and pedicuring, and advanced nail techniques. Included are classroom theory and
 lab practice as governed by Mississippi cosmetology laws, rules, and regulations involved in cosmetology
-practices and safety precautions associated with each. One hour lecture. Three hours lab. Two semester hours
-credit.
+practices and safety precautions associated with each. One hour lecture. Three hours lab. Two semester hours credit.
 COV 1542 — NAIL CARE III — This course consists of basic nail care services including nail structure and
 growth, manicuring and pedicuring, and advanced nail techniques. Included are classroom theory and
 lab practice as governed by Mississippi cosmetology laws, rules, and regulations involved in cosmetology
@@ -2087,8 +1967,7 @@ practices and safety precautions associated with each. Six hours lab. Two semest
 COV 1622 — SKIN CARE I — This course consists of the introduction to basic skin care services including
 anatomy of skin, disorders of skin, hair removal, facials, and facial makeup. Included are classroom theory
 and lab practice as governed by Mississippi cosmetology laws, rules, and regulations involved in cosmetology
-practices and safety precautions associated with each. One hour lecture. Three hours lab. Two semester hours
-credit.
+practices and safety precautions associated with each. One hour lecture. Three hours lab. Two semester hours credit.
 COV 1632 — SKIN CARE II — This course consists of basic skin care services including anatomy of skin,
 disorders of skin, hair removal, facials, and facial makeup. Included are classroom theory and lab practice
 as governed by Mississippi cosmetology laws, rules, and regulations involved in cosmetology practices and
@@ -2131,8 +2010,7 @@ WLT 1135 — (Prerequisite: WLT 1172, WLT 1313) GAS TUNGSTEN ARC WELDING (GTAW) 
 designed to give the student experience in various welding applications using the GTAW process. One hour
 lecture, eight hours lab. Six semester hours credit.
 WLT 1143 — (Prerequisite: WLT 1172, WLT 1313) FLUX CORED ARC WELDING (FCAW) — This course is
-designed to give the student experience using the FCAW process. One hour lecture, four hours lab. Three
-semester hours credit.
+designed to give the student experience using the FCAW process. One hour lecture, four hours lab. Three semester hours credit.
 WLT 1172 — INTRODUCTION TO WELDING AND SAFETY — This course is designed to give students an
 introduction to the welding profession and experience in safety procedures related to welding. One hour
 lecture, two-hour lab. Two semester hour credit.
