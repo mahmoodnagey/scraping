@@ -2691,7 +2691,6 @@ Total Hours 75
 Pre/Corequisites
 Prerequisite CCP 115 Roof Framing
 CCP 124 Exterior Envelope
-222
 Course Standard
 Course Information
 Description This course is the curriculum for Exterior Envelopes under the National Center for
@@ -4097,7 +4096,6 @@ Corequisite DAS 122 Chairside Assisting I
 Prerequisite DAS 149 Infection Control for Dental Practice
 Prerequisite DAS 116 Introduction to General Anatomy and Physiology
 DAS 116 Introduction to General Anatomy and Physiology
-269
 Course Standard
 Course Information
 Description This course provides the future dental professional an introduction to anatomy and
@@ -6780,7 +6778,6 @@ Total Hours 45
 Pre/Corequisites
 Prerequisite LEN100 Lean for Operations
 LEN 106 Value Stream Alignment
-360
 Course Standard
 Course Information
 Description This course is designed to familiarize the students with the process of Value Stream
