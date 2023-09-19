@@ -25,7 +25,7 @@ class WorWicCommunityCollege(scrapy.Spider):
                                                                                           '').strip()
         title_and_credit = response.xpath("//h1[@id='course_preview_title']/text()").re_first(r'(?:.*\d{3,6}.*?)(?:-)(.*)',
                                                                                            '').strip()
-        match = re.search(r'(.*?)\s*\(\s*(\d+)\s*Credits\s*\)', title_and_credit)
+        match = re.search(r'(.*?)\s*\(\s*([\d.]+)\s*Credit(?:s)?\s*\)', title_and_credit)
 
         if match:
             item['title'] = match.group(1).strip()
@@ -34,6 +34,8 @@ class WorWicCommunityCollege(scrapy.Spider):
         # Extracting description
         text_items = response.css("td[class='block_content']::text")
 
+        text_items2 = response.css("td[class='block_content'] p::text")
+
         possible_desc = []
         for text_item in text_items:
             if len(text_item.get()) >= 100:
@@ -41,9 +43,19 @@ class WorWicCommunityCollege(scrapy.Spider):
                 length = len(text_item.get())
                 possible_desc.append((length, desc))
 
+        possible_desc2 = []
+        for text_item in text_items2:
+            if len(text_item.get()) >= 100:
+                desc2 = self.normalize_spaces_and_line_breaks(text_item.get().strip())
+                length = len(text_item.get())
+                possible_desc2.append((length, desc2))
+
         possible_desc.sort()
+        possible_desc2.sort()
         if len(possible_desc) >= 1:
             item['description'] = possible_desc[-1][1]
+        elif len(possible_desc2) >= 1:
+            item['description'] = possible_desc2[-1][1]
         else:
             item['description'] = ''
 
