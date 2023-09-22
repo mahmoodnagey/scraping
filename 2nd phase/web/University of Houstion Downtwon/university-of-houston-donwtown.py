@@ -28,8 +28,9 @@ class HoustonUniversityScraper(scrapy.Spider):
 
         
 
-        # Extracting credit hours
-        item['credits'] = item['code'][6]
+        # Extracting credit hours # check the course code letter
+        item['credits'] = int(item['code'][len(item['code']) - 3])
+
         # Extracting description
         text_items = response.css("td[class='block_content']::text")
 
