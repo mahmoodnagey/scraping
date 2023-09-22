@@ -1,0 +1,3429 @@
+
+ACCT 2301 Principles of Financial Accounting (52.0301.51 04) 
+ 3.3.1
+This course is an introduction to the fundamental concepts of financial account-
+ing as prescribed by U.S. generally accepted accounting principles (GAAP) as 
+applied to transactions and events that affect business organizations. Students 
+will examine the procedures and systems to accumulate, analyze, measure, and 
+record financial transactions. Students will use recorded financial information 
+to prepare a balance sheet, income statement, statement of cash flows, and 
+statement of shareholders’ equity to communicate the business entity’s results 
+of operations and financial position to users of financial information who are 
+external to the company. Students will study the nature of assets, liabilities, 
+and owners’ equity while learning to use reported financial information for 
+purposes of making decisions about the company. Students will be exposed to 
+International Financial Reporting Standards (IFRS). Recommended co-requi-
+site: MATH 1324 Mathematics for Business & Social Sciences. Fee charged.
+ACCT 2302 Principles of Managerial Accounting (52.0301.51 04) 
+ 3.3.1
+This course is an introduction to the fundamental concepts of managerial ac-
+counting appropriate for all organizations. Students will study information 
+from the entity’s accounting system relevant to decisions made by internal 
+managers, as distinguished from information relevant to users who are external 
+to the company. The emphasis is on the identification and assignment of prod-
+uct costs, operational budgeting and planning, cost control, and management 
+decision making. Topics include product costing methodologies, cost behavior, 
+operational and capital budgeting, and performance evaluation. Fee charged. 
+Prerequisite: ACCT 2301.
+ACNT 1303 Introduction to Accounting I 
+3.2.4
+A study of analyzing, classifying, and recording business transactions in a man-
+ual and computerized environment. Emphasis on understanding the complete 
+accounting cycle and preparing financial statements, bank reconciliations, and 
+payroll. Fee Charged.
+ACNT 1311 Introduction to Computerized Accounting 
+3.2.4
+Introduction to utilizing the computer in maintaining accounting records with 
+primary emphasis on a general ledger package. The student will utilize an ap-
+plication software to perform accounting tasks; maintain records; prepare re-
+ports; analyze reports for a business entity; complete a comprehensive project; 
+and explain the components of general ledger software. 
+ACNT 1331 Federal Income Tax: Individual 
+3.2.4
+A study of the federal tax law for preparation of individual income tax returns.
+AGRI 1131 
+The Agricultural Industry (01.0103.52 01) 
+1.1.0
+Overview of agriculture and the American agricultural system, including an 
+examination of career opportunities and requirements.
+AGRI 1309 
+Computers in Agriculture (01.0101.51 01) 
+3.2.2
+Use of computers in agricultural applications. Introduction to programming 
+languages, word processing, electronic spreadsheets and agricultural software.
+AGRI 1311 
+Dairy Science (01.0905.51 01) 
+3.2.3
+Survey of the dairy industry including dairy breeds, standards for selection 
+and culling, herd replacements, feeding, management, physiology, and health 
+maintenance. Food value for milk, tests for composition and quality, and use 
+and processing of market milk and dairy products. Fee charged.
+AGRI 1325 
+Marketing of Agricultural Products (01.0102.51 01) 
+3.3.0
+Essential marketing functions in the movement of agricultural commodities 
+and products from producer to consumer.
+AGRI 1329 
+Principles of Food Science (01.1001.51 01) 
+3.3.1
+Biological and scientific aspects of modern industrial food supply systems. 
+Food classification, modern processing, and quality control.
+AGRI 1407 
+Agronomy (01.1102.51 01) 
+4.3.3
+Principles and practices in development, production and management of field 
+crops; plant breeding; plant diseases; soils; and insect and weed control. Labo-
+ratory activities will reinforce the fundamental principles and practices in the 
+development, production, and management of field crops including growth 
+and development, climate, plant requirements, pest management, and produc-
+tion methods.
+AGRI 1415 
+Horticulture (01.0601.51 01) 
+4.3.3
+Structure, growth, and development of horticultural plants. Examination of 
+environmental effects, basic principles of reproduction, production methods 
+ranging from outdoor to controlled climates, nutrition, and pest management. 
+Laboratory activities will reinforce the structure, growth, and development of 
+horticultural plants. Examination of environmental effects, basic principles of 
+reproduction, production methods ranging from outdoor to controlled cli-
+mates, nutrition, and pest management. Fee charged.
+AGRI 1419 
+Introductory Animal Science (01.0901.51 01) 
+4.3.3
+Scientific animal production and the importance of livestock and meat in-
+dustries. Selection, reproduction, nutrition, management, and marketing of 
+livestock. Laboratory activities will reinforce scientific animal production and 
+the importance of livestock and meat industries. Selection, reproduction, nu-
+trition, management, and marketing of livestock. Fee charged.
+AGRI 2317 
+Introduction to Agricultural Economics (01.0103.51 01) 
+3.3.0
+Fundamental economic principles and their application in the agricultural in-
+dustry.
+AGRI 2321 
+Livestock Evaluation (01.0901.52 01) 
+3.2.4
+Evaluation and grading of market cattle, swine, sheep, and goats and their 
+carcasses and wholesale cuts. Emphasis will be placed on value determination. 
+Selection and evaluation of breeding cattle, sheep, swine, and goats with em-
+phasis on economically important traits. Fee charged.
+AGRI 2330 
+Wildlife Conservation & Management (03.0601.51 01) 
+3.2.2
+Principles and practices used in the production and improvement of wildlife re-
+sources. Aesthetic, ecological and recreational uses of public and private lands.
+ARTS 1301 
+Art Appreciation (50.0703.51 26) 
+3.3.0
+A general introduction to the visual arts designed to create an appreciation of 
+the vocabulary, media, techniques, and purposes of the creative process. Stu-
+dents will critically interpret and evaluate works of art within formal, cultural, 
+and historical contexts.
+ARTS 1303 
+Art History I (50.0703.52 26) 
+3.3.0
+A chronological analysis of the historical and cultural contexts of the visual arts 
+from prehistoric times to the 14th century.
+ARTS 1304 
+Art History II (50.0703.52 26) 
+3.3.0
+A chronological analysis of the historical and cultural contexts of the visual arts 
+from the 14th century to the present day.
+ARTS 1311 
+Design I (50.0401.53 26) 
+3.2.4
+An introduction to the fundamental terminology, concepts, theory, and ap-
+plication of two dimensional design. Fee charged.
+ARTS 1312 
+Design II (50.0401.53 26) 
+3.2.4
+An introduction to the fundamental terminology, concepts, theory, and ap-
+plication of three dimensional design. Fee charged.
+ARTS 1316 
+Drawing I (50.0705.52 26) 
+3.2.4
+A foundation studio course exploring drawing with emphasis on descriptive, 
+expressive and conceptual approaches. Students will learn to see and interpret 
+a variety of subjects while using diverse materials and techniques. Course work 
+will facilitate a dialogue in which students will engage in critical analysis and 
+being to develop their understanding of drawing as a discipline. Fee charged.
+ARTS 1317 
+Drawing II (50.0705.52 26) 
+3.2.4
+A studio course exploring drawing with continued emphasis on descriptive, 
+expressive and conceptual approaches. Students will further develop the ability 
+to see and interpret a variety of subjects while using diverse materials and tech-
+niques. Course work will facilitate a dialogue in which students will employ 
+critical analysis to broaden their understanding of drawing as a discipline. Fee 
+charged. Prerequisite: ARTS 1316 or consent of instructor.
+ARTS 2289 
+Academic Cooperative (2 SCH version) (24.0103.52 12) 
+2.0.4
+An instructional program designed to integrate on-campus study with practical 
+hands-on work experience. In conjunction with class seminars, the individual 
+student will set specific goals and objectives in the study of studio art and/or 
+art history.
+ARTS 2311 
+Design III (Color Theory) (50.0401.53 26) 
+3.2.4
+Studio art course that is a theoretical and practical study of color and composi-
+tion in art and design. The course consists of studio-based projects using the 
+formal and conceptual aspects of color. The course also examines the functions 
+of color in art from different historical and cultural perspectives.
+ARTS 2316 
+Painting I (50.0708.52 26) 
+3.2.4
+Exploration of ideas using painting media and techniques. Fee charged. Pre-
+requisites: ARTS 1317, 2317 or consent of instructor.
+ARTS 2317 
+Painting II (50.0708.52 26) 
+3.2.4
+Exploration of ideas using painting media and techniques. Fee charged. Pre-
+requisite: ARTS 2316 or consent of instructor.
+ARTS 2323 
+Life Drawing I (50.0705.53 26) 
+3.2.4
+Basic study of the human form. Fee charged. Prerequisite: ARTS 1316.
+ARTS 2326 
+Sculpture I (50.0709.51 26) 
+3.2.4
+Exploration of ideas using sculpture media and techniques. Fee charged. Pre-
+requisite: ARTS 1312 or consent of instructor.
+ARTS 2341 
+Arts Metals I (50.0713.51 26) 
+3.2.4
+Exploration of ideas using basic techniques in jewelry and metal construction. 
+Fee charged. Prerequisite: ARTS 1311 or consent of instructor.
+ARTS 2346 
+Ceramics I (50.0711.51 26) 
+3.2.4
+Exploration of ideas using basic ceramic processes. Fee charged.
+ARTS 2347 
+Ceramics II (50.0711.51 26) 
+3.2.4
+Exploration of ideas using basic ceramic processes. Fee charged. Prerequisite: 
+ARTS 2346 or consent of instructor.
+ARTS 2348 
+Digital Media (50.0402.52  26) 
+3.2.4
+Studio art course that introduces the potential of basic digital media manipu-
+lation and graphic creation. The course emphasizes still and time-based me-
+dia. Prerequisite: ARTS 1316, ARTS 1311 or consent of the instructor. Fee 
+charged.
+ARTS 2356 
+Photography I (50.0605.51 26) 
+3.2.4
+Introduction to the basics of photography. Includes camera operation, tech-
+niques, knowledge of chemistry, and presentation skills. Emphasis on design, 
+history, and contemporary trends as a means of developing an understanding 
+of photographic aesthetics. Fee charged.
+ARTS 2357 
+Photography II (50.0605.52 26) 
+3.2.4
+Extends the students’ knowledge of technique and guides them in develop-
+ing personal outlooks toward specific applications. Fee charged. Prerequisite: 
+ARTS 2356 or its equivalent.
+ARTS 2389 
+Academic Cooperative (3 SCH version) (24.0103.52 12) 
+3.2.4
+An instructional program designed to integrate on-campus study with practical 
+hands-on work experience. In conjunction with class seminars, the individual 
+student will set specific goals and objectives in the study of studio art and/or 
+history.
+BCIS 1305 
+Business Computer Applications (11.0202.54  04) 
+3.2.4
+Introduces and develops foundational skills in applying essential and emerging 
+business productivity information technology tools. The focus of this course 
+is on business productivity software applications, including word processing, 
+spreadsheets, databases, presentation graphics, data analytics, and business-
+oriented utilization of the internet. (BCIS 1305 is included in the Business 
+Field of Study.) . 
+BIOL 1322 
+Nutrition & Diet Therapy (19.0501.51 09) 
+3.3.0
+This course introduces general nutritional concepts in health and disease and 
+includes practical applications of that knowledge. Special emphasis is given to 
+nutrients and nutritional processes including functions, food sources, diges-
+tion, absorption, and metabolism. Food safety, availability, and nutritional in-
+formation including food labels, advertising, and nationally established guide-
+lines are addressed.
+BIOL 1406 
+Biology for Science Majors I (26.0101.51  03) 
+4.3.3
+Fundamental principles of living organisms will be studied, including physical 
+and chemical properties of life, organization, function, evolutionary adapta-
+tion, and classification. Concepts of cytology, reproduction, genetics, and sci-
+entific reasoning are included. Laboratory activities will reinforce these funda-
+mental principles of living organisms. 
+BIOL 1407 
+Biology for Science Majors II (26.0101.51 03) 
+4.3.3
+The diversity and classification of life will be studied, including animals, plants, 
+protists, fungi, and prokaryotes. Special emphasis will be given to anatomy, 
+physiology, ecology, and evolution of plants and animals. Prerequisite: BIOL 
+1406. 
+BIOL 1408 
+Biology for Non-Science Majors I (26.0101.51 03) 
+4.3.3
+Provides a survey of biological principles with an emphasis on humans, includ-
+ing chemistry of life, cells, structure, function, and reproduction. Laboratory 
+activities will reinforce a survey of biological principles with an emphasis on 
+humans, including chemistry of life, cells, structure, function, and reproduc-
+tion. Fee charged. 
+BIOL 1409 
+Biology for Non-Science Majors II (26.0101.51 03) 
+4.3.3
+This course will provide a survey of biological principles with an emphasis on 
+humans, including evolution, ecology, plant and animal diversity, and physiol-
+ogy. Laboratory activities will reinforce a survey of biological principles with an 
+emphasis on humans, including evolution, ecology, plant and animal diversity, 
+and physiology. Fee charged.
+BIOL 2306 
+Environmental Biology (26.1305.51.  03) 
+3.3.1
+Principles of environmental systems and ecology, including biogeochemical 
+cycles, energy transformations, abiotic interactions, symbiotic relationships, 
+natural resources and their management, lifestyle analysis, evolutionary trends, 
+hazards and risks, and approaches to ecological research. Fee charged. Prereq-
+uisite: two semesters of Biology or consent of instructor. 
+BIOL 2316 
+Genetics (26.0801.51  03) 
+3.3.0
+Study of the principles of molecular and classical genetics and the function 
+and transmission of hereditary material. May include population genetics 
+and genetic engineering. Fee charged. Prerequisite: one year of Biology or the 
+equivalent.
+BIOL 2401 
+Anatomy & Physiology I (26.0707.51 03) 
+4.3.3
+Anatomy and Physiology I is the first part of a two course sequence. It is a 
+study of the structure and function of the human body including cells, tis-
+sues and organs of the following systems: integumentary, skeletal, muscular, 
+nervous and special senses. Emphasis is on interrelationships among systems 
+and regulation of physiological functions involved in maintaining homeostasis. 
+The lab provides a hands-on learning experience for exploration of human 
+system components and basic physiology. Systems to be studied include in-
+tegumentary, skeletal, muscular, nervous, and special senses. Fee charged.
+BIOL 2402 
+Anatomy and Physiology II (26.0704.51 03) 
+4.3.3
+Anatomy and Physiology II is the second part of a two-course sequence. It is a 
+study of the structure and function of the human body including the following 
+systems: endocrine, cardiovascular, immune, lymphatic, respiratory, digestive 
+(including nutrition), urinary (including fluid and electrolyte balance), and 
+reproductive (including human development and genetics). Emphasis is on 
+interrelationships among systems and regulation of physiological functions 
+involved in maintaining homeostasis. The lab provides a hands-on learning 
+experience for exploration of human system components and basic physiology. 
+Fee charged.
+BIOL 2420 
+Microbiology for Non-Science Majors (26.0503.51 03) 
+4.3.4
+This course covers basic microbiology and immunology and is primarily di-
+rected at pre-nursing, pre-allied health, and non-science majors. It provides an 
+introduction to historical concepts of the nature of microorganisms, microbial 
+diversity, the importance of microorganisms and acellular agents in the bio-
+sphere, and their roles in human and animal diseases. Major topics include 
+bacterial structure as well as growth, physiology, genetics, and biochemistry 
+of microorganisms. Emphasis is on medical microbiology, infectious diseases, 
+and public health. Lab activities cover basics of culture and identification of 
+bacteria and microbial ecology. Fee charged. 
+BMGT 1327 Principles of Management 
+3.3.1
+Concepts, terminology, principles, theories, and issues in the field of manage-
+ment. The course will have students to explain and apply the various theories, 
+processes, and functions of management; identify roles of leadership in organi-
+zations; and recognize elements of the communication process. 
+BMGT 1331 Production and Operations Management 
+3.2.2
+Fundamentals of techniques used in the practice of production and operations 
+management. Includes location, design, and resource allocation. Students will 
+identify factors of plant location and design, resource allocation, and equip-
+ment selection and utilization; and demonstrate the ability to use planning, 
+scheduling, inventory management, and quality control techniques.
+BMGT 1341 Business Ethics 
+3.3.1
+Discussion of ethical issues, the development of a moral frame of reference, 
+and the need for an awareness of social responsibility in management practices 
+and business activities. Includes ethical corporate responsibility. The student 
+will define business ethics; identify and discuss the consequences of unethical 
+business practices; describe reasoning for analyzing ethical dilemmas; describe 
+different ethical views; explain how business, government, and society func-
+tion interactively; explain corporate social responsibility; and discuss social and 
+ethical threats emerging from rapid technological change.
+BMGT 1368 Practicum - Business Administration & Management, General 
+3.0.21
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+BMGT 2310 Financial Management 
+3.3.1
+Examination of accounting information to support managerial decision-mak-
+ing processes. Topics include managerial concepts and systems, various analy-
+ses for decision making, and planning and control. The student will examine 
+how internal controls affect cost and budgeting; analyze profit and loss state-
+ments; solve financial problems; and utilize formulas to determine an organiza-
+tion’s financial condition.
+BUSG 1301 Introduction to Business 
+3.3.0
+Fundamental business principles including structure, functions, resources, and 
+operational processes. The student will identify business functions of accounting, 
+management, marketing, and economics; and describe the relationships of social 
+responsibility, ethics, and law; and describe the scope of global business enterprise.
+BUSG 1304  Financial Literacy 
+3.3.0
+A study of the financial principles when managing financial affairs. Includes 
+topics such as budgeting, retirement, property ownership, savings, and invest-
+ment planning. The student will identify the concepts associated with the time 
+value of money; identify the differences among various savings and investment 
+programs and classes of securities; identify the options for insurance; describe 
+retirement and estate planning techniques; explain owning versus renting real 
+property; and describe consumer protection legislation. 
+BUSG 2309 Small Business Management/Entrepreneurship 
+3.3.0
+Starting, operating, and growing a small business. Includes essential manage-
+ment skills, how to prepare a business plan, accounting, financial needs, staff-
+ing, marketing strategies, and legal issues. The student will identify manage-
+ment skills for a small business; outline issues related to choosing a business, 
+obtaining a return on investment; and create a business plan.
+BUSI 2301 
+Business Law (52.0101.51 24) 
+3.3.0
+The course provides the student with foundational information about the U.S. 
+legal system and dispute resolution, and their impact on business. The major 
+content areas will include general principles of law, the relationship of business 
+and the U.S. Constitution, state and federal legal systems, the relationship 
+between law and ethics, contracts, sales, torts, agency law, intellectual property, 
+and business law in the global context. Prerequisite: High school coursework 
+in U.S. history and government, or equivalent.
+CETT 1349 
+Digital Systems 
+3.2.4
+A course in electronics covering digital systems. Emphasis on application and 
+troubleshooting digital systems. Prerequisite: Instructor approval. Fee charged.
+CETT 1409 
+DC-AC Circuits 
+4.3.4
+Fundamentals of DC circuits and AC circuits operation including Ohm’s law, 
+Kirchoff’s laws, networks, transformers, resonance, phasors, capacitive and in-
+ductive and circuit analysis techniques. Prerequisite: Instructor approval. Fee 
+charged.
+CHEM 1405 Introductory Chemistry I (40.0501.51 03) 
+4.3.3
+Survey course introducing chemistry. Topics may include inorganic, organic, 
+biochemistry, food/physiological chemistry, and environmental/consumer 
+chemistry. Designed for non-science and allied health students. Fee charged.
+CHEM 1406 Introductory Chemistry I (allied health emphasis) (40.0501.51 03) 4.3.3
+Survey course introducing chemistry. Topics may include inorganic, organic, 
+biochemistry, food/physiological chemistry, and environmental/consumer 
+chemistry. Designed for non-science and allied health students. Fee charged.
+CHEM 1407 Introductory Chemistry II (40.0501.51 03) 
+4.3.3
+Survey course introducing chemistry. Topics may include inorganic, organic, 
+biochemistry, food/physiological chemistry, and environmental/consumer 
+chemistry. Designed for non-science and allied health students. Fee charged.
+CHEM 1411 General Chemistry I (40.0501.54 03) 
+4.3.3
+Fundamental principles of chemistry for majors in the sciences, health sciences, 
+and engineering; topics include measurements, fundamental properties of mat-
+ter, states of matter, chemical reactions, chemical stoichiometry, periodicity of 
+elemental properties, atomic structure, chemical bonding, molecular structure, 
+solutions, properties of gases, and an introduction to thermodynamics and de-
+scriptive chemistry. Basic laboratory experiments supporting theoretical princi-
+ples presented in the course; introduction of the scientific method, experimental 
+design, data collection and analysis, and preparation of laboratory reports. Fee 
+charged. Prerequisite: MATH 1314 or equivalent academic preparation. 
+CHEM 1412 General Chemistry II (40.0501.57 03) 
+4.3.3
+Chemical equilibrium; phase diagrams and spectrometry; acid-base concepts; 
+thermodynamics; kinetics; electrochemistry; nuclear chemistry; an introduc-
+tion to organic chemistry and descriptive inorganic chemistry. Basic labora-
+tory experiments supporting theoretical principles presented in the course, in-
+cluding introduction of the scientific method, experimental design, chemical 
+instrumentation, data collection and analysis, and preparation of laboratory 
+reports. Fee charged. Prerequisite: CHEM 1411. 
+CHEM 2423 Organic Chemistry I (40.0504.52 03) 
+4.3.4
+Fundamental principles of organic chemistry will be studied, including the 
+structure, bonding, properties, and reactivity of organic molecules; and prop-
+erties and behavior of organic compounds and their derivatives. Emphasis 
+is placed on organic synthesis and mechanisms. Includes study of covalent 
+and ionic bonding, nomenclature, stereochemistry, structure and reactivity, 
+reaction mechanisms, functional groups, and synthesis of simple molecules. 
+Laboratory activities will reinforce fundamental principles of organic chem-
+istry, as previously listed. Methods for the purification and identification of 
+organic compounds will be examined.  THIS COURSE IS INTENDED FOR 
+STUDENTS IN SCIENCE OR PRE-PROFESSIONAL PROGRAMS. Fee 
+charged. Prerequisite: CHEM 1412 or 1407 with consent of instructor. 
+CHEM 2425 Organic Chemistry II (40.0504.52 03) 
+4.3.4
+Advanced principles of organic chemistry will be studied, including the struc-
+ture, properties, and reactivity of aliphatic and aromatic organic molecules; and 
+properties and behavior of organic compounds and their derivatives. Emphasis 
+is placed on organic synthesis and mechanisms. Includes study of covalent and 
+ionic bonding, nomenclature, stereochemistry, structure and reactivity, reaction 
+mechanisms, functional groups, and synthesis of simple molecules. Laboratory 
+activities reinforce advanced principles of organic chemistry, as previously listed. 
+THIS COURSE IS INTENDED FOR STUDENTS IN SCIENCE OR PRE-
+PROFESSIONAL PROGRAMS. Fee charged. Prerequisite: CHEM 2423. 
+CJSA 1393 
+Special Topics in Criminal Justice Studies 
+3.2.4
+Topics address recently identified current events, skills, knowledge and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency.
+CJSA 2364 
+Practicum - Criminal Justice/Safety Studies 
+3.0.21
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student. Prerequisite: Consent 
+of Instructor.
+CNBT 1309 Basic Construction Management 
+3.2.4
+Provides an integrated look at the practice of construction management on 
+the job site.
+CNBT 2310 Commercial/Industrial Blueprint Reading 
+3.2.4
+Blueprint reading for commercial/industrial construction.
+COMM 1307 Introduction to Mass Communications (09.0102.51 06) 
+3.3.0
+Survey of basic content and structural elements of mass media and their func-
+tions and influences on society. For journalism majors and non-majors. 
+COMM 2305 Editing and Layout (09.0401.51 06) 
+3.2.4
+Editing and layout processes, with emphasis on accuracy and fairness, includ-
+ing the principles and techniques of design.  
+COMM 2311 Media Writing (09.0401.57 06) 
+3.2.4
+Fundamentals of writing for the mass media. Includes instruction in profes-
+sional methods and techniques for gathering, processing, and delivering con-
+tent. 
+COMM 2315 News Reporting (09.0401.58 06) 
+3.2.4
+This course focuses on advanced news-gathering and writing skills. It con-
+centrates on the three-part process of producing news stories: discovering the 
+news, reporting the news, and writing the news in different formats. Prerequi-
+site: COMM 2311.
+COMM 2327 Introduction to Advertising (09.0903.51 06) 
+3.3.0
+Fundamentals of advertising including marketing theory and strategy, copy 
+writing, design, and selection of media.
+COMM 2332 Radio/Television News (09.0402.52 06) 
+3.2.4
+Preparation and analysis of news styles for the electronic media.
+COSC 1301 Introduction to Computing (11.0101.51 07) 
+3.2.2
+Overview of computer systems-hardware, operating systems, and microcom-
+puter application software, including the Internet, word processing, spread-
+sheets, presentation graphics, and databases. Current topics such as the effect 
+of computers on society, and the history and use of computers in business, 
+educational, and other modern settings are also studied. This course is not 
+intended to count toward a student’s major field of study in business or com-
+puter science. 
+COSC 1336  Programming Fundamentals I (11.0201.55 07) 
+3.2.4
+Introduces the fundamental concepts of structured programming and provides 
+a comprehensive introduction to programming for computer science and tech-
+nology majors. Topics include software development methodology, data types, 
+control structures, functions, arrays, and the mechanics of running, testing, 
+and debugging. This course assumes computer literacy. This course is included 
+in the Field of Study Curriculum for Computer Science.
+COSC 1337  Programming Fundamentals II (11.0201.56 07) 
+3.2.4
+This course focuses on the object-oriented programming paradigm, emphasiz-
+ing the definition and use of classes along with fundamentals of object-oriented 
+design. The course includes basic analysis of algorithms, searching and sorting 
+techniques, and an introduction to software engineering processes. Students will 
+apply techniques for testing and debugging software. (This course is included 
+in the Field of Study Curriculum for Computer Science.) Prerequisite: COSC 
+1336.
+CRIJ 1301 
+Introduction to Criminal Justice (43.0104.51 24) 
+3.3.0
+This course provides a historical and philosophical overview of the American 
+criminal justice system, including the nature, extent, and impact of crime; 
+criminal law; and justice agencies and processes. (This course is included in the 
+Field of Study Curriculum for Criminal Justice.) 
+CRIJ 1306 
+Court Systems & Practices (43.0104.54 24) 
+3.3.0
+This course is a study of the court system as it applies to the structures, proce-
+dures, practices and sources of law in American courts, using federal and Texas 
+statutes and case law. (This course is included in the Field of Study Curriculum 
+for Criminal Justice.)
+CRIJ 1307 
+Crime in America (45.0401.52 25) 
+3.3.0
+American crime problems in historical perspective, social and public policy 
+factors affecting crime, impact and crime trends, social characteristics of spe-
+cific crimes, and prevention of crime. 
+CRIJ 1310 
+Fundamentals of Criminal Law (43.0104.54 24) 
+3.3.0
+This course is the study of criminal law including application of definitions, 
+statutory elements, defenses and penalties using Texas statutes, the Model Pe-
+nal Code, and case law. The course also analyzes the philosophical and his-
+torical development of criminal law and criminal culpability. (This course is 
+included in the Field of Study Curriculum for Criminal Justice.)
+CRIJ 1313 
+Juvenile Justice System (43.0104.52 24) 
+3.3.0
+A study of the juvenile justice process to include specialized juvenile law, role 
+of the juvenile law, role of the juvenile courts, role of police agencies, role of 
+correctional agencies, and theories concerning delinquency.
+CRIJ 2301 
+Community Resources in Corrections (43.0104.53 24) 
+3.3.0
+An introductory study of the role of the community in corrections; communi-
+ty programs for adults and juveniles; administration of community programs; 
+legal issues; future trends in community treatment.
+CRIJ 2313 
+Correctional Systems & Practices (43.0104.54 24) 
+3.3.0
+This course is a survey of institutional and non-institutional corrections. Em-
+phasis will be placed on the organization and operation of correctional systems; 
+treatment and rehabilitation; populations served; Constitutional issues; and 
+current and future issues. (This course is included in the Field of Study Cur-
+riculum for Criminal Justice.)
+CRIJ 2314 
+Criminal Investigation (43.0104.55 24) 
+3.2.3
+Investigative theory; collection and preservation of evidence; sources of infor-
+mation; interview and interrogation; uses of forensic sciences; case and trial 
+preparation.
+CRIJ 2323 
+Legal Aspects of Law Enforcement (43.0104.56 24) 
+3.3.0
+Police authority; responsibilities; constitutional constraints; laws of arrest, 
+search, and seizure; police liability.
+CRIJ 2328 
+Police Systems & Practices (43.0104.57 24) 
+3.3.0
+This course examines the establishment, role and function of police in a democratic 
+society.  It will focus on types of police agencies and their organizational structure, 
+police-community interaction, police ethics, and use of authority. (This course is 
+included in the Field of Study Curriculum for Criminal Justice.)
+CSME 1291 Special Topics in Cosmetology 
+2.1.4
+Topics address recently identified current events, skills, knowledge and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency.
+CSME 1410 Introduction to Haircutting & Related Theory 
+4.2.8
+Introduction to the theory and practice of haircutting. Topics include termi-
+nology, implements, sectioning and finishing techniques.
+CSME 1330 Orientation to Nail Technology 
+3.1.8
+An overview of the fundamental skills and knowledge necessary for the field 
+of cosmetology.
+CSME 1401 Orientation to Cosmetology 
+4.2.8
+An overview of the skills and knowledge necessary for the field of cosmetology. 
+Kit fee. Insurance fee.
+CSME 1405 Fundamentals of Cosmetology 
+4.2.8
+A course in the basic fundamentals of cosmetology. Topics include safety and 
+sanitation, service preparation, manicure, facial, chemical services, shampoo, 
+haircut, wet styling, and comb out.
+CSME 1434 Cosmetology Instructor I 
+4.2.8
+The fundamentals of instruction of cosmetology students.
+CSME 1435 Orientation to the Instruction of Cosmetology 
+4.2.8
+An overview of the skills and knowledge necessary for the instruction of cos-
+metology students.
+CSME 1443 Manicuring and Related Theory 
+4.2.8
+Presentation of the theory and practice of nail services. Topics include termi-
+nology, application and workplace competencies related to nail services.
+CSME 1447 Principles of Skin Care/Facials and Related Theory 
+4.2.8
+In-depth coverage of the theory and practice of skin care, facials, and cosmetics. 
+End-of-Course Outcomes: Define terminology related to the skin, products, 
+and treatments; demonstrate applications related to skin care and cosmetics; 
+practice safety and sanitation according to the laws and rules of the state licens-
+ing agency; and exhibit workplace competencies in skin care and cosmetics.
+CSME 1531 Principles of Nail Technology I 
+5.3.8
+A course in the principles of nail technology. Topics include anatomy, physi-
+ology, theory, and skills related to nail technology. End-of-Course Outcomes: 
+Explain the basic anatomy and physiology of the hands, arms, and feet. Practice 
+the related skills of manicuring and pedicuring; and identify nail enhancement.
+CSME 1541 Principles of Nail Technology II 
+5.3.8
+A continuation of the concepts and principles of nail technology. Topics in-
+clude professional ethics, salon management, client relations, and related skills 
+of nail technology. End-of-Course Outcomes: Perform nail enhancements; 
+practice professional ethics; and demonstrate safety and sanitation practices 
+according to state licensing agency.
+CSME 2401 The Principles of Hair Coloring and Related Theory 
+4.2.8
+Presentation of the theory, practice, and chemistry of hair color. Topics include 
+terminology, application, and workplace competencies related to hair color.
+CSME 2410 Advanced Haircutting and Related Theory  
+4.2.8
+Advanced concepts and practice of haircutting. Topics include utilizing scis-
+sors, razors and/or clippers.
+CSME 2401 The Principles of Hair Coloring and Related Theory 
+4.2.8
+Presentation of the theory, practice, and chemistry of hair color. Topics include 
+terminology, application, and workplace competencies related to hair color.
+CSME 2414 Cosmetology Instructor II 
+4.2.8
+A continuation of the fundamentals of instructing cosmetology students.
+CSME 2430 Nail Enhancement 
+4.2.8
+A course in the theory, application, and related technology of nail enhancements.
+CSME 2439 Advanced Hair Design 
+4.2.8
+Advanced concepts in the theory and practice of hair design.
+CSME 2445 Instructional Theory and Clinic Operation 
+4.2.8
+An overview of the objectives required by the Texas Department of Licensing 
+and Regulation Instructor Examination.
+DFTG 1305 Technical Drafting 
+3.2.4
+Introduction to the principles of drafting to include terminology and funda-
+mentals, including size and shape descriptions, projection methods, geometric 
+construction, sections, and auxiliary views. Fee Charged.
+DFTG 1309 Basic Computer-Aided Drafting 
+3.2.4
+An introduction to computer-aided drafting. Emphasis is placed on setup; 
+creating and modifying geometry; storing and retrieving predefined shapes; 
+placing, rotating, and scaling objects, adding text and dimensions, using layers, 
+coordinate systems, and plot/print to scale. Fee Charged.
+DFTG 1317 Architectural Drafting - Residential 
+3.2.4
+Architectural drafting procedures, practices, terms, and symbols. Preparation 
+of detailed working drawings for residential structures. Emphasis on light 
+frame construction methods. Fee Charged. 
+DFTG 1325 Blueprint Reading and Sketching 
+3.2.4
+An introduction to reading and interpreting working drawings for fabrication 
+processes and associated trades. Use of sketching techniques to create pictorial 
+and multiple-view drawings. Fee Charged. Prerequisite: Instructor approval.
+DFTG 1345 Parametric Modeling and Design 
+3.2.4
+Parametric-based design software for 3D design and drafting. Fee Charged. 
+Prerequisite: Instructor approval.
+DFTG 1358 Electrical/Electronics/Drawing 
+3.2.4
+Electrical and electronic drawings stressing modern representation used for 
+block diagrams, schematic diagrams, logic diagrams, wiring/assembly draw-
+ings, printed circuit board layouts, motor control diagrams, power distribution 
+diagrams, and electrical one-line diagrams. Fee charged. 
+DFTG 1381 Cooperative Education - Drafting & Design Technology/ 
+3.1.20
+Technician, General
+Career-related activities encountered in the student’s area of specialization 
+offered through an individual agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. Prerequisite: Instructor approval. Fee Charged.
+DFTG 1391 Special Topics In Drafting and Design Technology/ 
+3.2.4
+Technician, General
+Topics address recently identified current events, skills, knowledge, and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency. Fee Charged.
+DFTG 2302 Machine Drafting 
+3.2.4
+Production of detail and assembly drawings of machines, threads, gears, utiliz-
+ing tolerances, limit dimensioning, and surface finishes. Fee Charged. 
+DFTG 2312 Technical Illustration and Presentation 
+3.2.4
+Study of pictorial drawings including isometrics, obliques, perspectives, charts, 
+and graphs. Emphasis on rendering and using different media. Fee Charged. 
+DFTG 2317 Descriptive Geometry 
+3.2.4
+Graphical solutions to problems involving points, lines, and planes in space. 
+Fee Charged. 
+DFTG 2319 Intermediate Computer-Aided Drafting 
+3.2.4
+A continuation of practices and techniques used in basic computer-aided draft-
+ing including the development and use of prototype drawings, construction of 
+pictorial drawings, extracting data, and basics of 3D. Fee Charged. .
+DFTG 2321 Topographical Drafting 
+3.2.4
+Plotting of surveyor’s field notes. Includes drawing elevations, contour lines, 
+plan and profiles, and laying out traverses. Fee Charged.
+DFTG 2323 Pipe Drafting 
+3.2.4
+A study of pipe fittings, symbols, specifications and their applications to a 
+piping process system. Creation of symbols and their usage in flow diagrams, 
+plans, elevations, and isometrics. Fee Charged.
+DFTG 2328 Architectural Drafting - Commercial 
+3.2.4
+Architectural drafting procedures, practices, governing codes, terms and sym-
+bols, including the preparation of detailed working drawings for a commercial 
+building, with emphasis on commercial construction methods. Fee Charged. 
+Prerequisite: Instructor approval.
+DFTG 2331 Advanced Technologies in Architectural Design and Drafting 
+3.2.4
+Use of architectural specific software to execute the elements required in de-
+signing standard architectural exhibits utilizing custom features to create walls, 
+windows and specific design requirements for construction in residential/com-
+mercial and industrial architecture. Fee Charged.
+DFTG 2332 Advanced Computer-Aided Drafting 
+3.2.4
+Application of advanced CAD techniques. Use a customized CAD system to 
+create documents and/or solid models; and use OLE with external software. 
+Fee Charged. Prerequisite: Instructor approval.
+DFTG 2338 Final Project - Advanced Drafting 
+3.2.4
+A drafting course in which students participate in a comprehensive project 
+from conception to conclusion. Fee Charged. Prerequisite: Instructor approval.
+DFTG 2340 Solid Modeling/Design 
+3.2.4
+A computer-aided modeling course. Development of three-dimensional draw-
+ings and models from engineering sketches and orthographic drawings and 
+utilization of three-dimensional models in design work. Fee Charged. Prereq-
+uisite: Instructor approval.
+DRAM 1120 Theater Practicum I (50.0506.53 26) 
+1.0.4
+Practicum in theater open to all students with emphasis on technique and 
+procedures with experience gained in play productions. First semester of four-
+semester sequence.
+DRAM 1121 Theater Practicum II (50.0506.53 26) 
+1.0.4
+Practicum in theater open to all students with emphasis on technique and pro-
+cedures with experience gained in play productions. Second of a four-semester 
+sequence.
+DRAM 1310 Theater Appreciation (50.0501.51 26) 
+3.2.4
+Survey of theater including its history, dramatic works, stage techniques, pro-
+duction procedures, and relation to other art forms. Participation in produc-
+tions may be required. 
+DRAM 1322 Stage Movement (50.0506.54 26) 
+3.2.4
+Principles, practices and exercises in body techniques and stage movement; 
+emphasis on character movement and body control.
+DRAM 1330 Stagecraft I (50.0502.51 26) 
+3.2.4
+Study and application of the methods and components of theatrical produc-
+tion which may include one or more of the following: theater facilities, scenery 
+construction and painting, properties, lighting, costume, makeup, sound, and 
+theatrical management. Fee charged.
+DRAM 1341 Stage Make-Up (50.0502.52 26) 
+3.2.4
+Design and execution of makeup for the purpose of developing believable 
+characters. Includes discussion of basic makeup principles and practical experi-
+ence of makeup application. Fee charged.
+DRAM 1342 Costume Technology (50.0502.53 26) 
+3.2.4
+Principles and techniques of costume design and construction for theatrical 
+productions. Fee charged.
+DRAM 1351 Acting I (50.0506.51 26) 
+3.2.4
+An introduction to the fundamental principles and tools of acting as used in 
+auditions, rehearsals, and performances. This may include ensemble perform-
+ing, character and script analysis, and basic theater terminology. This explora-
+tion will emphasize the development of the actor’s instrument: voice, body and 
+imagination.
+DRAM 1352 Acting II (50.0506.51 26) 
+3.2.4
+Exploration and further training within the basic principles and tools of act-
+ing, including an emphasis on critical analysis of oneself and others. The tools 
+include ensemble performing, character and script analysis, and basic theater 
+terminology. This will continue the exploration of the development of the ac-
+tor’s instrument: voice, body and imagination.
+DRAM 2120 Theater Practicum III (50.0506.53 26) 
+1.0.4
+Practicum in theater open to all students with emphasis on technique and 
+procedures with experience gained in play productions. Third semester of a 
+four-semester sequence.
+DRAM 2121 Theater Practicum IV (50.0506.53 26) 
+1.0.4
+Practicum in theater open to all students with emphasis on technique and 
+procedures with experience gained in play productions. Fourth semester of a 
+four-semester sequence.
+DRAM 2331 Stagecraft II (50.0502.51 26) 
+3.2.4
+Continued study and application of the methods and components of theatrical 
+production which may include one or more of the following: theater facili-
+ties, scenery construction and painting, properties, lighting, costume, makeup, 
+sound and theatrical management. Fee charged. Prerequisite: DRAM 1330.
+DRAM 2336 Voice for the Actor (50.0506.52 26) 
+3.3.0
+Principles, practices, and exercises in awareness, relaxation, freedom, flexibility, 
+and expressiveness in the actor’s vocal instrument.
+DRAM 2366 Film Appreciation (50.0602.51 26) 
+3.2.2
+Survey and analyze cinema including history, film techniques, production pro-
+cedures, selected motion pictures, and cinema’s impact on and reflection of 
+society. Fee charged.
+DRAM 2389 Academic Cooperative (24.0103.52 12) 
+3.2.4
+An instructional program designed to integrate on-campus study with practical 
+hands-on work experience. In conjunction with class seminars, the individual 
+student will set specific goals and objectives in the study of drama.
+ECON 2301 Principles of Macroeconomics (45.0601.51 25) 
+3.3.0
+An analysis of the economy as a whole including measurement and determi-
+nation of Aggregate Demand and Aggregate Supply, national income, infla-
+tion, and unemployment. Other topics include international trade, economic 
+growth, business cycles, and fiscal policy and monetary policy.
+ECON 2302 Principles of Microeconomics (45.0601.51 25) 
+3.3.0
+Analysis of the behavior of individual economic agents, including consumer behavior 
+and demand, producer behavior and supply, price and output decisions by firms un-
+der various market structures, factor markets, market failures, and international trade.
+EDUC 1100 Learning Framework (42.2701.51 25) 
+1.1.0
+A study of the research and theory in the psychology of learning, cognition, 
+and motivation; factors that impact learning, and application of learning strat-
+egies. Theoretical models of strategic learning, cognition, and motivation serve 
+as the conceptual basis for the introduction of college-level student academic 
+strategies. Students use assessment instruments (e.g., learning inventories) to 
+help them identify their own strengths and weaknesses as strategic learners. 
+Students are ultimately expected to integrate and apply the learning skills dis-
+cussed across their own academic programs and become effective and efficient 
+learners. Students developing these skills should be able to continually draw 
+from the theoretical models they have learned. (Cross-listed as PSYC 1100)
+EDUC 1300 Learning Framework (42.2701.51 25) 
+3.3.0
+A study of the research and theory in the psychology of learning, cognition, 
+and motivation; factors that impact learning, and application of learning strat-
+egies. Theoretical models of strategic learning, cognition, and motivation serve 
+as the conceptual basis for the introduction of college-level student academic 
+strategies. Students use assessment instruments (e.g., learning inventories) to 
+help them identify their own strengths and weaknesses as strategic learners. 
+Students are ultimately expected to integrate and apply the learning skills dis-
+cussed across their own academic programs and become effective and efficient 
+learners. Students developing these skills should be able to continually draw 
+from the theoretical models they have learned. (Cross-listed as PSYC 1300)
+EDUC 1301 Introduction to the Teaching Profession (13.0101.51 09) 
+3.3.1
+An enriched, integrated pre-service course and content experience that pro-
+vides active recruitment and institutional support of students interested in a 
+teaching career, especially in high need fields. The course provides students 
+with opportunities to participate in early field observations at all levels of P-12 
+schools with varied and diverse student populations and provides students with 
+support from college and school faculty, preferably in small cohort groups, for 
+the purpose of introduction to and analysis of the culture of schooling and 
+classrooms. Course content should be aligned as applicable with State Board 
+for Educator Certification Pedagogy and Professional Responsibilities stan-
+dards. Course must include a minimum of 16 contact hours of field experience 
+in P-12 classrooms.
+EDUC 2301 Introduction to Special Populations (13.1001.51 09) 
+3.3.1
+An enriched, integrated pre-service course and content experience that pro-
+vides an overview of schooling and classrooms from the perspectives of lan-
+guage, gender, socioeconomic status, ethnic and academic diversity, and eq-
+uity with an emphasis on factors that facilitate learning. The course provides 
+students with opportunities to participate in early field observations of P-12 
+special populations and should be aligned as applicable with State Board for 
+Educator Certification Pedagogy and Professional Responsibilities standards. 
+Must include a minimum of 16 contact hours of field experience in P-12 class-
+rooms with special populations. Prerequisite: EDUC 1301.
+ELMT 1380 Cooperative Education - Electromechanical Technology/ 
+3.1.19
+ 
+Electromechanical Engineering Technology
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. Note: Qualified employment is not provided by Paris Junior College and 
+is the responsibility of the student.
+ELMT 1391 Special Topics in Electromechanical Technology/Technician 
+3.2.4
+Topics address recently identified current events, skills, knowledge, and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency.
+ELMT 2333 Industrial Electronics 
+3.2.4
+Devices, circuits, and systems primarily used in automated manufacturing 
+and/or process control including computer controls and interfacing between 
+mechanical, electrical, electronic, and computer equipment. Includes presenta-
+tion of programming schemes.
+ELMT 2337 Electronic Troubleshooting, Service and Repair 
+3.2.4
+In-depth coverage of electronic systems, maintenance, troubleshooting, and 
+repair. Topics include symptom identification, proper repair procedures, repair 
+checkout, preventive maintenance. Emphasis on safety and use of test equip-
+ment. May be offered as a capstone course. 
+ELMT 2380 Cooperative Education - Electromechanical Technology/ 
+3.1.19
+ 
+Electromechanical Engineering Technology
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. A continuation of ELMT 1380.
+ELMT 2381 Cooperative Education - Electromechanical Technology/ 
+3.1.19
+ 
+Electromechanical Engineering Technology
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. A continuation of ELMT 2380.
+ELPT 1221 
+Introduction to Electrical Safety and Tools 
+2.1.3
+Safety rules and regulations. Includes the selection, inspection, use, and main-
+tenance of common tools for electricians. Prerequisite: Instructor approval. 
+Fee charged.
+ELPT 1325 
+National Electrical Code I 
+3.3.1
+An introductory study of the National Electric Code (NEC) for those em-
+ployed in fields requiring knowledge of the Code. Emphasis on wiring design, 
+protection, methods, and materials; equipment for general use; and basic cal-
+culations.
+ELPT 1311 
+Basic Electrical Theory 
+3.2.4
+Basic theory and practice of electrical circuits. Includes calculations as applied 
+to alternating and direct current.
+ELPT 1329 
+Residential Wiring 
+3.2.4
+Wiring methods for single family and multi-family dwellings. Includes load 
+calculations, service entrance sizing, proper grounding techniques, and associ-
+ated safety procedures.
+ELPT 1345 
+Commercial Wiring 
+3.2.4
+Commercial wiring methods. Includes overcurrent protection, raceway panel 
+board installation, proper grounding techniques, and associated safety procedures.
+ELPT 1351 
+Electrical Machines 
+3.2.4
+Direct current (DC) motors, single-phase and polyphase alternating current 
+(AC) motors, generators, and alternators. Emphasis on construction, charac-
+teristics, efficiencies, starting, and speed control.
+ELPT 1357 
+Industrial Wiring 
+3.2.4
+Wiring methods used for industrial installations. Includes motor circuits, race-
+way and bus way installations, proper grounding techniques, and associated 
+safety procedures.
+ELPT 2305 
+Motors and Transformers 
+3.2.4
+Operation of single- and three-phase motors and transformers. Includes trans-
+former banking, power factor correction, and protective devices.
+ELPT 2319 
+Programmable Logic Controllers I 
+3.2.4
+Fundamental concepts of programmable logic controllers, principles of opera-
+tion, and numbering systems as applied to electronic controls.
+ELPT 2355 
+Programmable Logic Controllers II 
+3.2.4
+Advanced concepts in programmable logic controllers and their applications 
+and interfacing to industrial controls.
+EMSP 1160 Clinical - Emergency Medical Technology/Technician 
+1.0.6
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+EMSP 1161 
+Clinical - Emergency Medical Technology/Technician (EMT Paramedic)  1.0.5
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. 
+EMSP 1162 
+Clinical - Emergency Medical Technology/Technician (EMT Paramedic) 1.0.6
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+EMSP 1305 Emergency Care Attendant  
+3.2.4
+Preparation for certification as an Emergency Care Attendant (ECA) / Medical 
+Responder (EMR).
+EMSP 1355 Trauma Management 
+3.2.3
+Knowledge and skills in the assessment and management of patients with trau-
+matic injuries.
+EMSP 1356 Patient Assessment and Airway Management 
+3.2.2
+Knowledge and skills required to perform patient assessment, airway manage-
+ment, and artificial ventilation.
+EMSP 1438 Introduction to Advanced Practice 
+4.3.2
+Fundamental elements associated with emergency medical services to include 
+preparatory practices, pathophysiology, medication administration, and re-
+lated topics.
+EMSP 1501 Emergency Medical Technician (EMT) 
+5.4.4
+Preparation for certification as an Emergency Medical Technician (EMT).
+EMSP 2143 Assessment Based Management 
+1.0.3
+A summarative experience covering comprehensive, assessment-based patient 
+care management for the paramedic level.
+EMSP 2160 
+Clinical - Emergency Medical Technology/Technician (EMT Paramedic) 1.0.6
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+EMSP 2266 
+Practicum - Emergency Medical Technology/Technician (EMT Paramedic) 2.0.14
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student. 
+EMSP 2305 EMS Operations 
+3.3.0
+Knowledge and skills to safely manage multi-casualty incidents and rescue 
+situations; utilize air medical resources; identify hazardous materials and other 
+specialized incidents.
+EMSP 2306 Emergency Pharmacology 
+3.2.3
+A study of drug classifications, actions, therapeutic uses, adverse effects, routes 
+of administration, and calculation of dosages.
+EMSP 2330 Special Populations 
+3.3.1
+Knowledge and skills necessary to assess and manage ill or injured patients in 
+diverse populations to include neonatology, pediatrics, geriatrics, and other 
+related topics.
+EMSP 2434 Medical Emergencies 
+4.3.4
+Knowledge and skills in the assessment and management of patients with 
+medical emergencies, including medical overview, neurology, gastroenterology, 
+immunology, pulmonology, urology, hematology, endocrinology, toxicology, 
+and other related topics.
+EMSP 2444 Cardiology 
+4.3.4
+Assessment and management of patients with cardiac emergencies. Includes 
+single and multi-lead ECG interpretation.
+ENGL 1301 Composition I (23.1301.51 12) 
+3.3.1
+Intensive study of and practice in writing processes, from invention and researching 
+to drafting, revising, and editing, both individually and collaboratively. Empha-
+sis on effective rhetorical choices, including audience, purpose, arrangement, and 
+style. Focus on writing the academic essay as a vehicle for learning, communicating, 
+and critical analysis. 
+ENGL 1302 Composition II (23.1301.51 12) 
+3.3.1
+Intensive study of and practice in the strategies and techniques for develop-
+ing research-based expository and persuasive texts. Emphasis on effective and 
+ethical rhetorical inquiry, including primary and secondary research methods; 
+critical reading of verbal, visual, and multimedia texts; systematic evaluation, 
+synthesis, and documentation of information sources; and critical thinking 
+about evidence and conclusions. Prerequisite: ENGL 1301. 
+ENGL 2311 Technical and Business Writing (23.1303.51 12) 
+3.3.0
+Intensive study of and practice in professional settings. Focus on the types of 
+documents necessary to make decisions and take action on the job, such as pro-
+posals, reports, instructions, policies and procedures, email messages, letters, 
+and descriptions of products and services. Practice individual and collaborative 
+processes involved in the creation of ethical and efficient documents.
+ENGL 2322 British Literature I (23.1404.51 12) 
+3.3.0
+A survey of the development of British literature from the Anglo-Saxon period 
+to the Eighteenth Century. Students will study works of prose, poetry, drama, 
+and fiction in relation to their historical linguistic, and cultural contexts. Texts 
+will be selected from a diverse group of authors and traditions. Prerequisite: 
+ENGL 1301.
+ENGL 2323 British Literature II (23.1404.51 12) 
+3.3.0
+A survey of the development of British literature from the Romantic period to 
+the present. Students will study work of prose, poetry, drama, and fiction in 
+relation to their historical and cultural contexts. Texts will be selected from a 
+diverse group of authors and traditions. Prerequisite: ENGL 1301. 
+ENGL 2327 American Literature I (23.1402.51 12) 
+3.3.0
+A survey of American literature from the period of exploration and settlement 
+through the Civil War. Students will study works of prose, poetry, drama, and 
+fiction in relation to their historical and cultural contexts. Texts will be selected 
+from among a diverse group of authors for what they reflect and reveal about 
+the evolving American experience and character. Prerequisite: ENGL 1301. 
+ENGL 2328 American Literature II (23.1402.51 12) 
+3.3.0
+A survey of American literature from the Civil War to the present. Students 
+will study works of prose, poetry, drama, and fiction in relation to their histori-
+cal and cultural contexts. Texts will be selected from among a diverse group of 
+authors for what they reflect and reveal about the evolving American experi-
+ence and character. Prerequisite: ENGL 1301. 
+ENGL 2331 World Literature (16.0104.52 13) 
+3.3.0
+A survey of world literature from the ancient world to the present. Students 
+will study works of prose, poetry, drama, and fiction in relation to their histori-
+cal and cultural contexts. Texts will be selected from a diverse group of authors 
+and traditions. Prerequisite: ENGL 1301. 
+ENGR 2301 Engineering Mechanics - Statics  (14.1101.52 10) 
+3.3.0
+Basic theory of engineering mechanics, using calculus, involving the descrip-
+tion of forces, moments, and couples acting on stationary engineering struc-
+tures; equilibrium in two and three dimensions; free-body diagrams; friction; 
+centroids; centers of gravity; and moments of inertia. Prerequisite: PHYS 2425.
+ENGR 2302 Engineering Mechanics - Dynamics (14.1102.53 10) 
+3.3.0
+Basic theory of engineering mechanics, using calculus, involving the motion 
+of particles, rigid bodies, and systems of particles; Newton’s Laws; work and 
+energy relationships; principles of impulse and momentum; application of ki-
+netics and kinematics to the solution of engineering problems. Prerequisite: 
+ENGR 2301. Co-requisite: MATH 2415.
+ENTC 1349 Reliability and Maintainability 
+3.2.4
+Equipment reliability and maintainability. Includes development and assess-
+ment of maintenance programs.
+GAME 1301  Computer Ethics 
+3.3.1
+A study of ethical issues that apply to computer related professions, intellec-
+tual property and privacy issues, professional responsibility, and the effects of 
+globalization. Emphasizes the practical application of computer ethics through 
+case studies and current events in the game and simulation industry.
+GEOG 1303 World Regional Geography  (45.0701.53 25) 
+3.3.0
+This course is an introduction to the world’s major regions seen through their 
+defining physical, social, cultural, political, and economic features. These re-
+gions are examined in terms of their physical and human characteristics and 
+their interactions. The course emphasizes relations among regions on issues 
+such as trade, economic development, conflict, and the role of regions in the 
+globalization process. 
+GEOL 1401 Earth Sciences for Non-Science Majors I (40.0601.51 03) 
+4.3.3
+Survey of geology, meteorology, oceanography, and astronomy. Laboratory ac-
+tivities will cover methods used to collect and analyze data in geology, meteo-
+rology, oceanography, and astronomy. Fee charged.
+GEOL 1402 Earth Sciences for Non-Science Majors II (40.0601.51 03) 
+4.3.3
+Extension of the study of geology, astronomy, meteorology and oceanography, 
+focusing on natural resources, hazards and climate variability. Laboratory ac-
+tivities will focus on methods used to collect and analyze data related to natural 
+resources, hazards and climate variability. Prerequisite: GEOL 1401 or GEOL 
+1403. Fee charged.
+GEOL 1403 Physical Geology (40.0601.54 03) 
+4.3.3
+Introduction to the study of the materials and processes that have modified 
+and shaped the surface and interior of Earth over time. These processes are 
+described by theories based on experimental data and geologic data gathered 
+from field observations. Laboratory activities will cover methods used to collect 
+and analyze earth science data. Fee charged.
+GEOL 1404 Historical Geology (40.0601.54 03) 
+4.3.3
+A comprehensive survey of the history of life and major events in the physical 
+development of Earth as interpreted from rocks and fossils. Laboratory activi-
+ties will introduce methods used by scientists to interpret the history of life and 
+major events in the physical development of Earth from rocks and fossils. Fee 
+charged. Prerequisite: GEOL 1403. 
+GERS 1301 
+Introduction to Gerontology 
+3.3.0
+Overview of the social, psychological, and biological changes that accompany 
+aging. Focuses on the implications of these changes for the individual, as well 
+as for the larger society. 
+GOVT 2305 Federal Government (Federal constitution & topics) (45.1002.51 25) 
+3.3.0
+Origin and development of the U.S. Constitution, structure and powers of the 
+national government including the legislative, executive, and judicial branches, 
+federalism, political participation, the national election process, public policy, 
+civil liberties and civil rights. Note: It is recommended that students take both 
+semesters of government at the same institution. 
+GOVT 2306 Texas Government (Texas constitution & topics) (45.1002.51 25) 
+3.3.0
+Origin and development of the Texas constitution, structure and powers of 
+state and local government, federalism and inter-governmental relations, po-
+litical participation, the election process, public policy, and the political culture 
+of Texas. Note: It is recommended that students take both semesters of govern-
+ment at the same institution. 
+HAMG 1313 Front Office Management  
+3.3.1
+Functions of front office operations as they relate to customer service. Includes 
+a study of front office interactions with other departments in the lodging oper-
+ation. The student will identify the various service levels and market segments 
+in the lodging industry as they pertain to the front office area of the hospital-
+ity operation; and identify front office responsibilities, accounting procedures, 
+revenue management, checkout and settlement procedures, and night audit 
+functions and verification. 
+HAMG 1321 Introduction to Hospitality Industry 
+3.3.1
+An exploration of the elements and career opportunities within the multiple 
+segments of the hospitality industry. The student will identify the segments 
+and career opportunities in the hospitality industry; describe the current issues 
+facing the hospitality industry; and explain the impact of the history, growth 
+and trends in the hospitality industry.
+HAMG 1366 Practicum - Hospitality Administration/Management, General 
+3.0.21
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student. 
+HAMG 2332 Hospitality Financial Management 
+3.3.0
+Methods and application of financial management within the hospitality in-
+dustry. Primary emphasis on sales accountability, internal controls, and report 
+analysis. The student will calculate cost percentages and ratios; interpret mana-
+gerial reports; and assess internal controls as they relate to cost and budgeting. 
+HART 1301 Basic Electricity for HVAC 
+3.2.4
+Principles of electricity as required by HVAC, including proper use of test 
+equipment, electrical circuits, and component theory and operation. Fee 
+charged. Prerequisite: instructor approval.
+HART 1303 Air Conditioning Control Principles 
+3.2.4
+A basic study of HVAC and refrigeration controls; troubleshooting of control 
+components; emphasis on use of wiring diagrams to analyze high and low volt-
+age circuits; a review of Ohm’s law as applied to air conditioning controls and 
+circuits. Fee charged. 
+HART 1307 Refrigeration Principles 
+3.2.4
+An introduction to the refrigeration cycle, heat transfer theory, temperature/
+pressure relationship, refrigerant handling, refrigeration components, and 
+safety. Fee charged.
+HART 1310 HVAC Shop Practices and Tools 
+3.2.4
+Tools and instruments used in the HVAC industry. Includes proper applica-
+tion, use and care of these tools, and tubing and piping practices. Fee charged. 
+HART 1341 Residential Air Conditioning & Refrigeration 
+3.2.4
+A study of components, applications and installation of mechanical air con-
+ditioning systems including operating conditions, troubleshooting, repair and 
+charging of air conditioning systems. Fee charged. 
+HART 1345 Gas and Electric Heating 
+3.2.4
+Study of the procedures and principles used in servicing heating systems in-
+cluding gas fired furnaces and electric heating systems. Fee charged.
+HART 1351 Energy Management 
+3.2.4
+Study of basic heat transfer theory; sensible and latent heat loads; building en-
+velope construction; insulation, lighting, and fenestration types; and conduct 
+energy audit procedures. The course also develops energy audit recommenda-
+tions based on local utility rates, building use, and construction. Laboratory 
+activities include developing energy audit reports, installing energy saving de-
+vices, and measuring energy consumption. Fee charged. 
+HART 1356 EPA Recovery Certification Preparation 
+3.2.4
+Certification training for HVAC refrigerant recovery, recycle, and reclaim. In-
+struction will provide a review of EPA guidelines for refrigerant recovery and 
+recycling during the installation, service, and repair of all HVAC and refrigera-
+tion systems. Fee charged.
+HART 1391 Special Topics in Heating, Air Conditioning & Refrigeration 
+3.2.4
+Topics address recently identified current events, skills, knowledge, and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency. Fee charged. 
+HART 2331 Advanced Electricity for HVAC 
+3.2.4
+Advanced electrical instruction and skill building in installation and servicing 
+of air conditioning and refrigeration equipment including detailed instruction 
+in motors and power distribution motors, motor controls, and application of 
+solid state devices. Fee charged. 
+HART 2334 Advanced Air Conditioning Controls 
+3.2.4
+Theory and application of electrical control devices, electromechanical controls 
+and/or pneumatic controls.
+HART 2336 Air Conditioning Troubleshooting 
+3.2.4
+An advanced course in application of troubleshooting principles and use of test 
+instruments to diagnose air conditioning and refrigeration components and 
+system problems including conducting performance tests. Fee charged. 
+HART 2338 Air Conditioning Installation & Service 
+3.2.4
+A study of air conditioning system installation, refrigerant piping, condensate 
+disposal, and air cleaning equipment with emphasis on startup and perfor-
+mance testing. Fee charged.
+HART 2341 Commercial Air Conditioning 
+3.2.4
+A study of components, applications, and installation of air conditioning sys-
+tems with capacities of 25 tons or less. Fee charged.
+HART 2342 Commercial Refrigeration 
+3.2.4
+Theory and practical application in the maintenance of commercial refrig-
+eration; medium, and low temperature applications and ice machines. Fee 
+charged.
+HART 2343 Industrial Air Conditioning 
+3.2.4
+A study of components, accessories, applications, and installation of air condi-
+tioning systems above 25 tons capacity.
+HART 2345 Residential Air Conditioning Systems Design 
+3.2.4
+Study of the properties of air and results of cooling, heating, humidifying or 
+dehumidifying; heat gain and heat loss calculations including equipment selec-
+tion and balancing the air system. Fee charged.
+HART 2349 Heat Pumps 
+3.2.4
+A study of heat pumps, heat pump control circuits, defrost controls, auxiliary 
+heat, air flow and other topics related to heat pump systems. Fee charged. 
+HART 2350 HVAC Zone Controls 
+3.3.4
+Theory and application of HVAC residential Zone control devices, electrome-
+chanical controls, and/or pneumatic controls. Fee charged.
+HART 2380 Cooperative Education - Heating, Air Conditioning and  
+3.1.19
+ 
+Refrigeration Technology/Technician
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture com-
+ponent.
+HART 2381 Cooperative Education - Heating, Air Conditioning and  
+3.1.19
+ 
+Refrigeration Technology/Technician
+Career-related activities encountered in the student’s area of specialization offered 
+through an individualized agreement among the college, employer, and student. 
+Under the supervision of the college and the employer, the student combines 
+classroom learning with work experience. Includes a lecture component.
+HIST 1301 
+United States History I (54.0102.51 25) 
+3.3.0
+A survey of the social, political, economic, cultural, and intellectual history 
+of the United States from the pre-Columbian era to the Civil War/Recon-
+struction period. United States History I includes the study of pre-Columbian, 
+colonial, revolutionary, early national, slavery and sectionalism, and the Civil 
+War/Reconstruction eras. Themes that may be addressed in United States His-
+tory I include: American settlement and diversity, American culture, religion, 
+civil and human rights, technological change, economic change, immigration 
+and migration, and creation of the federal government. 
+HIST 1302 
+United States History II (54.0102.51 25) 
+3.3.0
+A survey of the social, political, economic, cultural, and intellectual history 
+of the United States from the Civil War/Reconstruction era to the present. 
+United States History II examines industrialization, immigration, world wars, 
+the Great Depression, Cold War and post-Cold War eras. Themes that may 
+be addressed in United States History II include: American culture, religion, 
+civil and human rights, technological change, economic change, immigration 
+and migration, urbanization and suburbanization, the expansion of the federal 
+government, and the study of U.S. foreign policy. 
+HIST 2301 
+Texas History (54.0102.52 25) 
+3.3.0
+A survey of the political, social, economic, cultural, and intellectual history 
+of Texas from the pre-Columbian era to the present. Themes that may be ad-
+dressed in Texas History include: Spanish colonization and Spanish Texas; 
+Mexican Texas; the Republic of Texas; statehood and secession; oil, industrial-
+ization, and urbanization; civil rights; and modern Texas. 
+HIST 2311 
+Western Civilization I (54.0101.54 25) 
+3.3.0
+A survey of the social, political, economic, cultural, religious, and intellectual 
+history of Europe and the Mediterranean world from human origins to the 
+17th century. Themes that should be addressed in Western Civilization I in-
+clude the cultural legacies of Mesopotamia, Egypt, Greece, Rome, Byzantium, 
+Islamic civilizations, and Europe through the Middle Ages, Renaissance, and 
+Reformations. 
+HIST 2312 
+Western Civilization II (54.0101.54 25) 
+3.3.0
+A survey of the social, political, economic, cultural, religious, and intellectual 
+history of Europe and the Mediterranean world from the 17th century to the 
+modern era. Themes that should be addressed in Western Civilization II in-
+clude absolutism and constitutionalism, growth of nation states, the Enlight-
+enment, revolutions, classical liberalism, industrialization, imperialism, global 
+conflict, the Cold War, and globalism.
+HIST 2321 
+World Civilizations I (54.0101.53 25) 
+3.3.0
+A survey of the social, political, economic, cultural, religious, and intellectual 
+history of the world from the emergence of human cultures through the 15th 
+century. The course examines major cultural regions of the world in Africa, the 
+Americas, Asia, Europe, and Oceania and their global interactions over time. 
+Themes include the emergence of early societies, the rise of civilizations, the 
+development of political and legal systems, religion and philosophy, economic 
+systems and trans-regional networks of exchange. The course emphasizes the 
+development, interaction and impact of global exchange.
+HIST 2322 
+World Civilizations II (54.0101.53 25) 
+3.3.0
+A survey of the social, political, economic, cultural, religious, and intellectual 
+history of the world from the 15th century to the present. The course exam-
+ines major cultural regions of the world in Africa, the Americas, Asia, Europe, 
+and Oceania and their global interactions over time. Themes include maritime 
+exploration and transoceanic empires, nation/state formation and industri-
+alization, imperialism, global conflicts and resolutions, and global economic 
+integration. The course emphasizes the development, interaction and impact 
+of global exchange.
+HITT 1266 
+Practicum - Health Information/Medical Records Technology/Technician 2.0.14
+Practical, general workplace training supported by an individualized learn-
+ing plan developed by the employer, college, and the student. Pre-requisite: 
+Completion of all previous course work listed on the Medical Records Coding 
+degree plan with a grade of “C” or better. This course requires concurrent en-
+rollment or completion of HITT 2335.
+HITT 1301 
+Health Data Content and Structure 
+3.3.1
+Introduction to systems and processes for collecting, maintaining, and dissemi-
+nating primary and secondary health related information including content of 
+health record, documentation requirements, registries, indices, licensing, regu-
+latory agencies, forms, and screens. This course requires completion of HITT 
+1305, ITSC 1309, MDCA 1309, HPRS 2301, HPRS 2300. Prerequisite: Ac-
+ceptance into the Medical Records Coding Program.
+HITT 1305 
+Medical Terminology I 
+3.3.1
+Study of medical terms through word origin and structure. Introduction to 
+abbreviations and symbols, surgical and diagnostic procedures, and medical 
+specialties. Fee charged.
+HITT 1345 
+Health Care Delivery Systems 
+3.3.0
+Examination of delivery systems including organization, financing, accredita-
+tion, licensure, and regulatory agencies. Prerequisite: Completion of all previ-
+ous course work listed on the Medical Records Coding degree plan with a 
+grade of “C” or better.
+HITT 1441 
+Coding and Classification Systems 
+4.3.3
+Fundamentals of coding rules, conventions, and guidelines using clinical clas-
+sification systems. Pre-requisite: Completion of all previous course work listed 
+on the Medical Records Coding degree plan with a grade of “C” or better. This 
+course requires concurrent enrollment in HITT 1442.
+HITT 1442 
+Ambulatory Coding 
+4.3.3
+Fundamentals of ambulatory coding rules, conventions, and guidelines. Pre-
+requisite: Completion of all previous course work listed on the Medical Re-
+cords Coding degree plan with a grade of “C” or better. This course requires 
+concurrent enrollment in HITT 1441.
+HITT 2335 
+Coding and Reimbursement Methodologies 
+3.3.0
+Advanced coding techniques with emphasis on case studies, health records, 
+and federal regulations regarding prospective payment systems and methods of 
+reimbursement. Prerequisite: Completion of all previous course work listed on 
+the Medical Records Coding degree plan with a grade of “C” or better.
+HITT 2340 
+Advanced Medical Billing and Reimbursement 
+3.2.3
+Skill development in coding to prepare reimbursement forms in various health 
+care settings for submission to payors. The student will perform coding of health 
+records using various classification systems; execute reimbursement forms; and 
+apply revenue cycle management procedures. Fee charged.
+HPRS 1102 
+Wellness and Health Promotion 
+1.1.0
+An overview of wellness theory and its application throughout the life span. 
+Focus is on attitude development, impact of cultural beliefs, and communica-
+tion of wellness.
+HPRS 1201 
+Introduction to Health Professions  
+2.2.0
+An overview of roles of various members of the health care system, educational 
+requirements, and issues affecting the delivery of health care.
+HPRS 1202 
+Wellness and Health Promotion 
+2.2.0
+An overview of wellness theory and its application throughout the life span. 
+Focus is on attitude development, impact of cultural beliefs, and communica-
+tion of wellness.
+HPRS 1204 
+Basic Health Profession Skills  
+2.1.2
+A study of the concepts that serve as the foundation for health profession 
+courses, including client care and safety issues, basic client monitoring and 
+health documentation methods.
+HPRS 2300 
+Pharmacology for Health Professions 
+3.3.0
+A study of drug classifications, actions, therapeutic uses, adverse effects, routes 
+of administration, and calculation of dosages.
+HPRS 2301 
+Pathophysiology 
+3.3.0
+Study of the pathology and general health management of diseases and injuries 
+across the life span. Topics include etiology, symptoms, and the physical and 
+psychological reactions to diseases and injuries.
+HRGY 1301 Jewelry Techniques I 
+3.1.8
+Introduction to the basic techniques of jewelry repair including layout, sawing, 
+filing and emery. Emphasis on industry standards. Fee charged.
+HRGY 1302 Jewelry Techniques II 
+3.1.8
+Continuation of Jewelry Techniques I with emphasis on polishing. Fee charged.
+HRGY 1303 Jewelry Techniques III 
+3.1.8
+Continuation of Jewelry Techniques II including advanced skills in layout, 
+sawing, filing, emery, polishing, and soldering with limited fabrication. Fee 
+charged.
+HRGY 1304 Jewelry Techniques IV 
+3.1.8
+Continuation of Jewelry Techniques III including advanced skills in layout, 
+sawing, filing, emery, polishing, and soldering with limited fabrication. Fee 
+charged.
+HRGY 1309 Casting I 
+3.1.8
+Emphasis on lost wax casting, both centrifugal and vacuum processes. Includes 
+introduction to wax carving. Fee charged 
+HRGY 1313 Fundamentals of Gemology I (Diamonds) 
+3.1.8
+Development of skills in gem stone identification. Emphasis on diamonds in-
+cluding diamond simulants, diamond grading, and the proper use and care of 
+laboratory instruments. Fee charged.
+HRGY 1314 Fundamentals of Gemology II (Colored Stones) 
+3.1.8
+Development of skills in gem stone identification. Emphasis on colored stones 
+including synthetics, enhancement and treatments, and the proper use and 
+care of laboratory instruments. Fee charged.
+HRGY 1319 Basic Horology I 
+3.1.8
+Introduction to disassembly, cleaning, and reassembly of the basic watch using 
+time proven methods. Emphasis on nomenclature. 
+ Prerequisite: None. Fee charged.
+HRGY 1320 Basic Horology II 
+3.1.8
+Continuations of Basic Horology I with emphasis on identification and func-
+tions of parts common to all mechanical watches. Fee charged.
+HRGY 1321 Basic Horology III 
+3.1.8
+Continuation of Basic Horology II. Emphasis on replacement of case parts as 
+well as hairspring manipulation. Fee charged.
+HRGY 1322 Basic Horology IV 
+3.1.8
+A continuation of Basic Horology III. Emphasis on replacement and repair of 
+damaged parts in mechanical watches. Fee charged.
+HRGY 1341 Stone Setting I 
+3.1.8
+Focus on bead setting and bright cutting techniques. Fee charged.
+HRGY 1342 Stone Setting II 
+3.1.8
+Continuation of Stone Setting I. Focus on prong setting, repronging, retip-
+ping, and reheading. Fee charged.
+HRGY 1343 Stone Setting III 
+3.1.8
+A continuation of Stone Setting II including fancy bright cuts, bezel sets, and 
+gypsy sets. Fee charged.
+HRGY 1344 Stone Setting IV 
+3.1.8
+A continuation of Stone Setting III including fancy bright cuts, bezel sets, and 
+gypsy sets, and the setting of multiple stones such as channel-setting, cluster-
+setting, and fishtail-setting. Fee charged.
+HRGY 1348 Jewelry Repair/Fabrication I 
+3.1.8
+Emphasis on techniques, fabrication, and repair of jewelry. Introduction to 
+equipment and techniques of jewelry manufacturing including assembly of 
+findings. Fee charged.
+HRGY 1349 Jewelry Repair/Fabrication II 
+3.1.8
+Continuation of Jewelry Repair/Fabrication I with emphasis on techniques, 
+fabrication, and repair of jewelry. Introduction to equipment and techniques of 
+jewelry manufacturing including chain repair and electroplating. Fee charged.
+HRGY 1350 Intermediate Gemology 
+3.1.8
+Study of the formation, recovery, lore/superstition, merchandising, advertis-
+ing, display, and buying and selling of precious gems. Fee charged.
+HRGY 1371 Introduction to Computer Aided Jewelry Design 
+3.1.8
+Study of the programs, operations, characteristics, modeling, and machining 
+techniques of Computer Aided Design (CAD), Computer Aided Manufactur-
+ing (CAM) are explored in this course. Applications in visualization, render-
+ing, animation, 2D design, 2 ½ D design and solid modeling, 3D design and 
+solid modeling. Prerequisite: Basic computer skills and applications or consent 
+of instructor. Fee charged
+HRGY 1372 Technical Illustration for Jewelry Design 
+3.1.8
+Topics include pictorial drawing including isometrics, obliques, perspectives, 
+charts, and graphs; shading and transfer lettering; and use of different media. 
+Fee charged.
+HRGY 1373 Basic Computer Aided Drafting for Jewelry Design 
+3.1.8
+An introduction to computer-aided drafting. Emphasis is placed on drawing 
+setup; creating and modifying geometry; storing and retrieving predefined 
+shapes; placing, rotating, and scaling objects, adding text and dimensions, using 
+layers, coordinating systems; as well as input and output devices. Fee charged.
+HRGY 1374 Solid Modeling Design for Jewelry 
+3.1.8
+A computer-aided modeling course, contents covers the development of three-
+dimensional drawings and models from sketches and orthographic drawings 
+and utilization of three-dimensional models in design work. Fee charged.
+HRGY 1375 Computer Integrated Manufacturing for Jewelry 
+3.1.8
+Concepts of CIM are introduced. Emphasis is placed on using computers to 
+automate a total manufacturing system. Hands-on experiences integrating 
+CAD/CAM, robotics, fluid power, CNC machines, vision systems, and recog-
+nition equipment. Fee charged.
+HRGY 1380 Cooperative Education - Jewelrymaking 
+3.1.19
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. Students will apply the theory, concepts, and skills involving specialized 
+materials, tools, equipment, procedures, regulations, laws, and interactions 
+within and among political, economic, environmental, social, and legal sys-
+tems associated with the occupation and the business/industry; and will dem-
+onstrate legal and ethical behavior, safety practices, interpersonal and team-
+work skills, and appropriate written and verbal communication skills using the 
+terminology of the occupation and the business/industry. 
+HRGY 1381 Cooperative Education - Watchmaking 
+3.1.19
+Career-related activities encountered in the student’s area of specialization of-
+fered through an individualized agreement among the college, employer, and 
+student. Under the supervision of the college and the employer, the student 
+combines classroom learning with work experience. Includes a lecture compo-
+nent. Students will apply the theory, concepts, and skills involving specialized 
+materials, tools, equipment, procedures, regulations, laws, and interactions 
+within and among political, economic, environmental, social, and legal sys-
+tems associated with the occupation and the business/industry; and will dem-
+onstrate legal and ethical behavior, safety practices, interpersonal and team-
+work skills, and appropriate written and verbal communication skills using the 
+terminology of the occupation and the business/industry.  
+HRGY 1391 Special Topics in Watchmaking and Jewelry 
+3.2.4
+Topics address recently identified current events, skills, knowledge, and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student efficiency. Fee charged. 
+HRGY 2301 Intermediate Horology I 
+3.1.8
+Introduction to the theory and repair of watch escapements. End-of-Course 
+Outcomes: Demonstrate repair and replacement of roller jewels, guard fingers, 
+pallet jewels, pallet arbors; and perform escapement adjustment on basic me-
+chanical watches. Fee charged.
+HRGY 2302 Intermediate Horology II 
+3.1.8
+Continuation of Intermediate Horology I with emphasis on advanced hair-
+spring manipulation and friction jewelling. Fee charged.
+HRGY 2303 Intermediate Horology III 
+3.1.8
+Continuation of Intermediate Horology II with emphasis on complicated 
+watch movements. Fee charged.
+HRGY 2304 Intermediate Horology IV 
+3.1.8
+A continuation of Intermediate Horology III with emphasis on complicated 
+watch movements including disassembly, cleaning, and repair. Fee charged.
+HRGY 2305 Intermediate Horology V 
+3.1.8
+A continuation of Intermediate Horology IV with emphasis on speed. Focus 
+on adjustment of escapements and hairsprings, precision timing, regulation of 
+mechanical movements, and disassembly, cleaning, and repair of both calendar 
+and self-winding watches. Fee charged.
+HRGY 2306 Intermediate Horology VI 
+3.1.8
+Continuation of Intermediate Horology V with further emphasis on speed to 
+meet industry standards. Focus on adjustment of escapements and hairsprings, 
+precision timing, regulation of mechanical movements, and disassembly, clean-
+ing, and repair of both calendar and self-winding watches. Fee charged.
+HRGY 2307 Intermediate Horology VII 
+3.1.8
+Continuation of Intermediate Horology VI with emphasis on speed. Focus on 
+disassembly, cleaning, and repair of automatic winding watches; and on preci-
+sion timing including nomenclature, parts interchangeability, proper lubrica-
+tion, and casing. Fee charged.
+HRGY 2308 Intermediate Horology VIII 
+3.1.8
+A continuation of Intermediate Horology VII with emphasis on speed. Focus 
+on disassembly, cleaning, and repair of calendar watches; and on precision tim-
+ing including nomenclature, parts interchangeability, proper lubrication, and 
+casing. Fee charged.
+HRGY 2331 Advanced Gemological Practice 
+3.1.8
+Study of the use and care of lab equipment and selection of and familiarity 
+with vendors. Fee charged.
+HRGY 2333 Casting II 
+3.1.8
+Continuation of Casting I. Includes instruction in mold making and vibratory 
+finishing. Fee charged.
+HRGY 2335 Precious Metals I 
+3.1.8
+Emphasis on layout, bright cuts, baguettes, marquise, pear, cushion, and emer-
+ald cut stones. Focus on utilization of commercial shop guidelines. Fee charged.
+HRGY 2336 Precious Metals II 
+3.1.8
+A continuation of Precious Metals I. Focus on layout, bright cuts, baguettes, 
+marquise, pear, cushion, and emerald cut stones as well as pave in precious 
+metals. Includes utilization of commercial shop guidelines. Emphasis on speed. 
+Fee charged.
+HRGY 2337 Precious Metals III 
+3.1.8
+Continuation of Precious Metals II with emphasis on techniques and refine-
+ment of commercial shop practices including lost wax process of casting in 
+precious metals and assembly of die- struck and cast findings. General review 
+of bench techniques. Fee charged.
+HRGY 2338 Precious Metals IV 
+3.1.8
+Continuation of Precious Metals III with emphasis on techniques and refine-
+ment of commercial shop practices including lost wax process of casting in 
+precious metals and assembly of die- struck and cast findings. General review 
+of bench techniques from fabrication of a platinum pendant to soldering die 
+struck heads on mountings. Emphasis on speed. Students take the “Jewelers of 
+America” certification exam for bench jewelers. Fee charged. 
+HRGY 2341 Advanced Horology Systems I 
+3.1.8
+A practical hands on training of disassembly, cleaning, repair and adjustment 
+of timers and simple chronographs. Fee charged.
+HRGY 2342 Advanced Horology Systems II 
+3.1.8
+A continuation of Advanced Horology I with emphasis on speed. Includes the 
+study of disassembly, cleaning, repair, and adjustment of timers, alarms, and 
+other more complicated mechanical movements. Fee charged. 
+HRGY 2343 Advanced Horology Systems III 
+3.1.8
+A continuation of Advanced Horology Systems II with emphasis on electronic 
+theory related to quartz analog watches. Fee charged.
+HRGY 2344 Advanced Horology Systems IV 
+3.1.8
+Continuation of Advanced Horology Systems III including the repair of quartz 
+analog and quartz digital timepieces. Fee charged.
+HRPO 2301 Human Resources Management 
+3.3.0
+Behavioral and legal approaches to the management of human resources in 
+organizations. The student will explain the development of human resources 
+management; explain current methods of job analysis, recruitment, selection, 
+training/development, performance management, promotion, and separation; 
+describe management’s ethical, social, and legal responsibilities; explain meth-
+ods of compensation and benefits planning; and describe the role of strategic 
+human resources planning. 
+HYDR 1345 Hydraulics and Pneumatics 
+3.2.4
+Discussion of the fundamentals of hydraulics and pneumatics, components 
+of each system, and the operations, maintenance, and analysis of each system. 
+Fee charged.
+IMED 1316 Web Design I  
+3.2.4
+Instruction in web design and related graphic design including mark-up lan-
+guages, and browser issues. The student will identify how the Internet func-
+tions with specific attention to the file transfer; apply design techniques in the 
+creation and optimization of graphics and other embedded elements; demon-
+strate the use of World Wide Web Consortium (W3C) formatting and layout 
+standards; design, create, test, and maintain a web site. 
+INMT 2345 Industrial Troubleshooting 
+3.2.4
+An advanced study of the techniques used in troubleshooting various types of 
+industrial equipment to include mechanical, hydraulic, and pneumatic systems 
+and their control devices. Emphasis will be placed on the use of schematics and 
+diagrams in conjunction with proper troubleshooting procedures.
+INTC 1341 
+Principles of Automatic Control 
+3.2.4
+Basic measurements, automatic control systems and design, closed loop sys-
+tems, controllers, feedback, control modes, and control configurations. Prereq-
+uisite: Instructor approval. Fee charged.
+IRWS 0302 
+Integrated Reading and Writing (IRW) (32.0108.59 12) 
+3.3.1
+Integration of critical reading and academic writing skills. Successful comple-
+tion of this intervention fulfills TSI requirements for reading and/or writing. 
+Students are placed into the course by test scores. The course may not be used 
+to fulfill degree requirements.
+ITCC 1314 
+CCNA 1: Introduction to Networks 
+3.2.4
+This course covers networking architecture, structure, and functions; intro-
+duces the principles and structure of IP addressing and the fundamentals of 
+Ethernet concepts, media, and operations to provide a foundation for the cur-
+riculum. The student will build simple LANs; perform basic configuration on 
+routers and switches; and implement IP addressing schemes.
+ITCC 1344 
+CCNA 2: Switching, Routing, and Wireless Essentials 
+3.2.4
+Describes the architecture, components, and operations of routers and switch-
+es in small networks and introduces wireless local area networks (WLAN) and 
+security concepts; provides an in-depth understanding of how routers and 
+switches operate and are implemented in the LAN environment. The student 
+will configure, secure, and maintain routers and switches; resolve common is-
+sues with routing protocols, virtual LANs, and inter-VLAN routing in both 
+IPv4 and IPv6 networks; configure WLANs.
+ITCC 2320 
+CCNA 3: Enterprise Networking, Security, and Automation 
+3.2.4
+Describes the architecture, components, operations, and security to scale for 
+large, complex networks, including wide area network (WAN) technologies. 
+Emphasizes network security concepts and introduces network virtualization 
+and automation. The student will configure advanced routing and switching 
+protocols; resolve common issues with routing and switching protocols; iden-
+tify threats and enhance network security; implement IPv4 Access Control 
+Lists (ACLs); configure Network Address Translation (NAT) services; explain 
+virtualization, software defined networking, and automation.
+ITNW 1325 Fundamentals of Networking Technologies 
+3.2.4
+Instruction in networking technologies and their implementation. Topics in-
+clude the OSI reference model, network protocols, transmission media, and 
+networking hardware and software. End-of-Course Outcomes: Identify and 
+use network transmission media; explain the OSI model; Identify the charac-
+teristics of network topologies and protocols; identify the functions of a net-
+work operating system and distinguish between centralized, client/server, and 
+peer-to-peer systems; and distinguish between Local Area Networks (LANs) 
+and Wide Area Networks (WANs) and identify the components used to ex-
+pand a LAN into a WAN.
+ITNW 1337 Introduction to the Internet 
+3.2.4
+Introduction to the Internet with emphasis on using the World Wide Web to 
+locate, transfer, and publish information. Survey of emerging technologies on 
+the Internet. Fee charged.
+ITNW 1351 Fundamentals of Wireless LANs 
+3.2.4
+Design, plan, implement, operate, and troubleshoot Wireless Local Area Net-
+works (WLANs). Includes WLAN design, installation, and configuration; and 
+WLAN security issues and vendor interoperability strategies. The student will 
+explain wireless technologies, topographies, and standards; design, install, con-
+figure, monitor, maintain, and troubleshoot wireless networks; and implement 
+wireless security using encryption, MAC filtering, Authentication, Authoriza-
+tion, and 802.1x technologies.
+ITNW 1354 Implementing and Supporting Servers 
+3.2.4
+Implement, administer, and troubleshoot information systems that incorpo-
+rate servers in a networked computing environment. The student will con-
+figure peripherals and devices; set up servers; configure directory replication; 
+manage licensing; create and manage system policies and profiles; administer 
+remote servers and disk resources; create and share resources; implement fault-
+tolerance; configure servers for interoperability; install and configure Remote 
+Access Service (RAS); and identify and monitor performance bottlenecks and 
+resolve configuration problems.
+ITNW 2305 Network Administration 
+3.2.4
+Topics include network components, user accounts and groups, network file 
+systems, file system security, and network printing. The student will describe the 
+components of a local area network and their relationship; create and administer 
+user accounts and groups; plan and set up network file systems; create effective 
+file system security; and implement and administer network printing.
+ITNW 2313 Networking Hardware 
+3.2.4
+Exploration of hardware devices including cables, servers, and workstations, 
+network connectivity devices and uninterruptible power supplies. The student 
+will build network cables; identify and implement connectivity devices; select 
+appropriate network power management devices; and determine the necessary 
+computer hardware requirements for workstations and servers. 
+ITSC 1301 
+Introduction to Computers 
+3.3.0
+Overview of computer information systems. Introduces computer hardware, 
+software, procedures, and human resources. The student will identify the com-
+ponents of a computer system; use common applications; explain the impact 
+of computers on society; identify computer careers; identify fundamental pro-
+gramming structures; identify ethical use of computers; and use basic operat-
+ing system functions. Suggested Prerequisite: Keyboarding proficiency.
+ITSC 1305 
+Introduction to PC Operating Systems 
+3.2.4
+Introduction to personal computer operating systems including installation, 
+configuration, file management, memory and storage management, control 
+of peripheral devices, and use of utilities. The student will install, configure, 
+and maintain the operating system; perform basic file management operations; 
+organize and allocate primary and secondary storage; access and control pe-
+ripheral devices; and run utilities.
+ITSC 1309 
+Integrated Software Applications I 
+3.2.4
+Introduction to business productivity software suites using word processing, 
+spreadsheets, databases, and/or presentation software. The student will use 
+word processing, spreadsheet, database, and/or presentation software; and in-
+tegrate applications to produce documents. Prerequisite: Keyboarding profi-
+ciency.
+ITSC 1321 
+Intermediate PC Operating Systems 
+3.2.4 
+Custom operating system installation, configuration and troubleshooting, 
+management of file systems, memory, storage, and peripheral devices.
+ITSC 1325 
+Personal Computer Hardware 
+3.2.4 
+Current personal computer hardware including assembly, upgrading, setup, 
+configuration, and troubleshooting. End-of-Course Outcomes: Assemble/
+setup and upgrade personal computer systems; diagnose and isolate faulty 
+components; optimize system performance; and install/connect peripherals. 
+ITSC 1364 
+Practicum - Computer and Information Sciences, General 
+3.0.21
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student. The student will, as 
+outlined in the learning plan, apply the theory, concepts, and skills involv-
+ing specialized materials, tools, equipment, procedures, regulations, laws, and 
+interactions within and among political, economic, environmental, social, and 
+legal systems associated with the occupation and the business/industry and 
+will demonstrate legal and ethical behavior, safety practices, interpersonal and 
+teamwork skills, and appropriate written and verbal communication skills us-
+ing the terminology of the occupation and the business/industry. Instructor 
+permission required.
+ITSC 2321 
+Integrated Software Applications II 
+3.2.4
+Intermediate study of computer applications from business productivity soft-
+ware suites. Instruction in embedding data and linking and combining docu-
+ments using word processing, spreadsheets, databases, and/or presentation 
+media software. The student will use intermediate word processing, spread-
+sheet, database, and/or presentation software techniques; and apply integration 
+techniques to produce documents. Prerequisite: ITSC 1309 or COSC 1301.
+ITSC 2335 
+Application Software Problem Solving 
+3.2.4
+Utilization of appropriate application software to solve advanced problems and 
+generate customized solutions.
+ITSC 2339 
+Personal Computer Help Desk Support 
+3.2.4
+Diagnosis and solution of user hardware and software related problems with 
+on-the-job and/or simulated projects. The student will demonstrate rapport 
+with users in problem-solving situations; analyze user problems and lead them 
+through solutions; maintain problem logs; and formulate problem-solving 
+methodologies. 
+ITSW 1304 
+Introduction to Spreadsheets 
+3.2.4
+Instruction in the concepts, procedures, and application of electronic spread-
+sheets. The student will define spreadsheet terminology and concepts; create 
+formulas and functions; use formatting features; and generate charts, graphs, 
+and reports. 
+ITSW 1307 
+Introduction to Database 
+3.2.4
+Introduction to database theory and the practical applications of a database. 
+The student will identify database terminology and concepts; plan, define, and 
+design a database; design and generate tables, forms, and reports; and devise 
+and process queries. 
+ITSW 1310 
+Introduction to Presentation Graphics Software 
+3.2.4
+Instruction in the utilization of presentation software to produce multimedia 
+presentations. Graphics, text, sound, animation and/or video may be used in 
+presentation development. The student will identify presentation media termi-
+nology and concepts; create presentations using text, visual and/or sound ele-
+ments; use effective compositions and style; prepare presentations for distribu-
+tion on computers or other media; and modify sequence and slide master.
+ITSW 2334 
+Advanced Spreadsheets 
+3.2.4
+Advanced techniques for developing and modifying spreadsheets. Includes 
+macros and data analysis functions.
+ITSY 1300 
+Fundamentals of Information Security 
+3.2.4
+An introduction to information security including vocabulary and terminolo-
+gy, ethics, the legal environment, and risk management. Identification of expo-
+sures and vulnerabilities and appropriate countermeasures are addressed. The 
+importance of appropriate planning, policies and controls is also discussed.
+ITSY 1342 
+Information Technology Security 
+3.2.4
+Instruction in security for network hardware, software, and data, including 
+physical security; backup procedures; relevant tools; encryption; and protec-
+tion from viruses. 
+ITSY 2300 
+Operating System Security 
+3.2.4
+Safeguard computer operating systems by demonstrating server support skills 
+and designing and implementing a security system. Identify security threats 
+and monitor network security implementations. Use best practices to config-
+ure operating systems to industry security standards. Prerequisite: ITSY 1342.
+ITSY 2301 
+Firewalls and Network Security 
+3.2.4
+Identify elements of firewall design, types of security threats and responses 
+to security attacks. Use Best Practices to design, implement, and monitor a 
+network security plan. Examine security incident postmortem reporting and 
+ongoing network security activities. Prerequisite: ITSY 1342.
+ITSY 2330 
+Intrusion Detection 
+3.2.4
+Computer information systems security monitoring, intrusion detection, and 
+crisis management. Includes alarm management, signature configuration, sen-
+sor configuration, and troubleshooting components. Emphasizes identifying, 
+resolving, and documenting network crises and activating the response team. 
+Corequisite: ITSY 2300 and ITSY 2301.
+ITSY 2342 
+Incident Response & Handling 
+3.2.4
+In-depth coverage of incident response and incident handling, including iden-
+tifying sources of attacks and security breaches; analyzing security logs; recover-
+ing the system to normal; performing postmortem analysis; and implementing 
+and modifying security measures. Prerequisite: ITSY 2300 and ITSY 2301.
+ITSY 2343 
+Computer System Forensics 
+3.2.4
+In-depth study of system forensics including methodologies used for analysis 
+of computer security breaches. Collect document and evaluate evidence to per-
+form postmortem analysis of a security breach. Corequisite: ITSY 2342
+ITSY 2345 
+Network Defense and Countermeasures 
+3.2.4
+This is a practical application and comprehensive course that includes the 
+planning, design, and construction of defenses fora complex network that will 
+sustain an attack, document events, and mitigate the effects of the attack. Pre-
+requisite: ITSY 2300 and ITSY 2330; Corequisite: ITSY 2342.
+LTCA 1312 
+Resident Care in the Long Term Facility  
+3.3.0
+A study of the delivery of services to residents of long term care facilities in-
+cluding ethical considerations and quality of life issues.
+MATH 0300 Elementary Algebra (32.0104.51 19) 
+3.3.0
+Topics covered normally include real numbers, linear equations and inequali-
+ties, application of linear equations, ratio and proportion, multiplication and 
+division of polynomials, and factoring. This course is not for college-level cred-
+it and may not be used to satisfy degree requirements. 
+MATH 0400 Foundations of Mathematical Reasoning (32.0104.51 19) 
+4.3.2
+This course surveys a variety of mathematical topics needed to prepare students for 
+college level statistics or quantitative reasoning. Topics include: numeracy with an 
+emphasis on estimation and fluency with large numbers; evaluating expressions 
+and formulas; rates, ratios, and proportions; percentages; solving equations; linear 
+models; data interpretations including graphs and tables; verbal, algebraic and 
+graphical representations of functions; exponential models. This course is not for 
+college-level credit and may not be used to satisfy degree requirements. 
+MATH 0401 Foundations of Algebraic Reasoning (32.0104.51 19) 
+4.3.2
+Topics in mathematics including study of relations and functions, inequalities, 
+algebraic expressions and equations (absolute value, polynomial, radical, ra-
+tional), with a special emphasis on linear and quadratic expressions and equa-
+tions. Recommended for STEM-majors who are not college ready in math-
+ematics. Prerequisite: Satisfactory placement test score. This course is not for 
+college-level credit and may not be used to satisfy degree requirements.  
+MATH 1314 College Algebra (27.0101.54 19) 
+3.3.0
+In-depth study and applications of polynomial, rational, radical, exponential 
+and logarithmic functions, and systems of equations using matrices. Additional 
+topics such as sequences, series, probability, and conics may be included. 
+MATH 1316 Plane Trigonometry (27.0101.53 19) 
+3.3.0
+In-depth study and applications of trigonometry including definitions, identi-
+ties, inverse functions, solutions of equations, graphing, and solving triangles. 
+Additional topics such as vectors, polar coordinates and parametric equations 
+may be included. Prerequisite: MATH 1314 or concurrent enrollment in 
+MATH 1314.
+MATH 1324 Mathematics for Business & Social Sciences (27.0301.52 19) 
+3.3.0
+The application of common algebraic functions, including polynomial, expo-
+nential, logarithmic, and rational, to problems in business, economics, and the 
+social sciences are addressed. The applications include mathematics of finance, 
+including simple and compound interest and annuities; systems of linear 
+equations; matrices; linear programming; and probability, including expected 
+value. Prerequisite: meet TSI college-readiness standard for Mathematics; or 
+equivalent.
+MATH 1325 Calculus for Business & Social Sciences (27.0301.53 19) 
+3.3.0
+This course is the basic study of limits and continuity, differentiation, optimi-
+zation and graphing, and integration of elementary functions, with emphasis 
+on applications in business, economics, and social sciences. This course is not 
+a substitute for MATH 2413, Calculus I. Prerequisite: MATH 1314 or 1324. 
+MATH 1332 Contemporary Mathematics (Quantitative Reasoning) (27.0101.51 19) 3.3.0
+Intended for Non STEM (Science, Technology, Engineering, and Mathemat-
+ics) majors. Topics include introductory treatments of sets and logic, financial 
+mathematics, probability and statistics with appropriate applications. Number 
+sense, proportional reasoning, estimation, technology, and communication 
+should be embedded throughout the course. Additional topics may be covered.
+MATH 1342 Elementary Statistical Methods (27.0501.51 19) 
+3.3.0
+Collection, analysis, presentation and interpretation of data, and probability. 
+Analysis includes descriptive statistics, correlation and regression, confidence 
+intervals and hypothesis testing. Use of appropriate technology is recommended.
+MATH 1350 
+Mathematics for Teachers I (Fundamentals of Mathematics I)  (27.0101.56 19) 
+3.3.0
+This course is intended to build or reinforce a foundation in fundamental 
+mathematics concepts and skills. It includes the conceptual development of 
+the following: sets, functions, numeration systems, number theory, and prop-
+erties of the various number systems with an emphasis on problem solving and 
+critical thinking. Prerequisite: MATH 1314 or the equivalent.
+MATH 1351 Mathematics for Teachers II (Fundamentals of Mathematics II)  (27.0101.57 19)  3.3.0
+This course is intended to build or reinforce a foundation in fundamental 
+mathematics concepts and skills. It includes the concepts of geometry, mea-
+surement, probability, and statistics with an emphasis on problem solving and 
+critical thinking. Prerequisite: MATH 1314 or the equivalent.
+MATH 2312 Pre-Calculus Math (27.0101.58 19) 
+3.3.0
+In-depth combined study of algebra, trigonometry, and other topics for calcu-
+lus readiness. Prerequisite: MATH 1314 or the equivalent preparation.
+MATH 2320 Differential Equations (27.0101.64 19) 
+3.3.0
+Ordinary differential equations, including linear equations, systems of equa-
+tions, equations with variable coefficients, existence and uniqueness of solu-
+tions, series solutions, singular points, transform methods, and boundary value 
+problems; application of differential equations to real-world problems. Prereq-
+uisite: MATH 2414.
+MATH 2413 Calculus I (27.0101.59 19) 
+4.3.3
+Limits and continuity; the Fundamental Theorem of Calculus; definition of 
+the derivative of a function and techniques of differentiation; applications of 
+the derivative to maximizing or minimizing a function; the chain rule, mean 
+value theorem, and rate of change problems; curve sketching; definite and in-
+definite integration of algebraic, trigonometric, and transcendental functions, 
+with an application to calculation of areas. Prerequisite: MATH 1314 and 
+1316 or 2312 or by placement test scores.
+MATH 2414 Calculus II (27.0101.60 19) 
+4.3.3
+Differentiation and integration of transcendental functions; parametric equa-
+tions and polar coordinates; techniques of integration; sequences and series; 
+improper integrals. Prerequisite: MATH 2413.
+MATH 2415 Calculus III (27.0101.61 19) 
+4.3.3
+Advanced topics in calculus, including vectors and vector-valued functions, 
+partial differentiation, Lagrange multipliers, multiple integrals, and Jacobians; 
+application of the line integral, including Green’s Theorem, the Divergence 
+Theorem, and Stokes’ Theorem. Prerequisite: MATH 2414.
+MDCA 1210 Medical Assistant Interpersonal and Communications Skills 
+2.2.1
+Emphasis on the application of basic psychological principles and the study 
+of behavior as they apply to special populations. Topics include procedures 
+for self-understanding and social adaptability in interpersonal communi-
+cation with patients and co-workers in an ambulatory care setting.
+MDCA 1309 Anatomy and Physiology for Medical Assistants 
+3.3.0
+Emphasis on structure and function of human cells, tissues, organs, and 
+systems with overview of common pathophysiology. The student will iden-
+tify and correlate cells, tissues, organs, and systems of the human body; dif-
+ferentiate normal from abnormal structure and function; and differentiate 
+all body systems, their organs, and relevant pathophysiology.
+MDCA 1343 Medical Insurance 
+3.2.4
+Emphasizes medical office coding for payment and reimbursement by pa-
+tient or third party payers for ambulatory care settings. Prerequisite: HITT 
+1305.
+MRKG 1311 Principles of Marketing 
+3.3.0
+Introduction to the marketing mix functions and process. Includes identi-
+fication of consumer and organizational needs and explanation of environ-
+mental issues. The student will identify the marketing mix components in 
+relation to market segmentation; explain the environmental factors which 
+influence consumer and organizational decision-making processes; and 
+outline a marketing plan. 
+MRMT 1307 Medical Transcription I 
+3.2.3
+Fundamentals of medical transcription with hands-on experience in transcrib-
+ing actual physician dictation including basic reports such as history and physi-
+cals, discharge summaries, consultations, operative reports, and other medical 
+reports. Utilizes technology compatible with industry standards. Designed to 
+develop speed and accuracy. Fee charged. Prerequisites: HITT 1305 and typ-
+ing skills of 40 wpm.
+MRMT 2333 Medical Transcription II 
+3.2.3
+Transcription of medical reports with increasing speed and accuracy including 
+history and physicals, consultations, discharge summaries, operative reports, 
+and other medical reports. Fee charged. Prerequisites: 
+HITT 1305 and MRMT 1307 and typing skills of 50 wpm.
+MUAP 1101 Strings (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1117 Woodwind (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1137  Brass (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1157 Percussion (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1161 Guitar (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1169 Keyboard (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1181 Voice (50.0903.54 26) 
+1.0.2
+Individual Instruction. One lesson of thirty minutes per week. Intended for 
+music majors and approved non-music majors. May be repeated for credit. 
+Fee charged.
+MUAP 1202 Strings (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUAP 1217 Woodwind (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for music ma-
+jors and approved non-music majors. May be repeated for credit. Fee charged.
+MUAP 1237 Brass (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUAP 1257 Percussion (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUAP 1261 Guitar (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUAP 1269 Keyboard (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUAP 1281 Voice (50.0903.54 26) 
+2.0.2
+Individual Instruction. One lesson of one hour per week. Intended for mu-
+sic majors and approved non-music majors. May be repeated for credit. Fee 
+charged.
+MUEN 1141 Chorale (50.0903.57 26) 
+1.1.5
+Rehearsal of choral literature with one major performance each semester. Ad-
+ditional performances upon consent of director. Open to all students. May be 
+repeated for credit.
+MUEN 1142 Show Choir (50.0903.57 26) 
+1.1.5
+Ensemble rehearsal and performance of light classics, popular songs, and music 
+of the Broadway stage. Extensive performance opportunities include song and 
+dance combinations. Enrollment upon consent of instructor.
+MUEN 1154 Chamber Singers (50.0903.58 26) 
+1.1.3
+Small ensemble rehearsal and performance, including Renaissance and Baroque 
+through contemporary musical styles. Enrollment upon consent of instructor.
+MUEN 1227 Instrumental Ensemble (50.0903.55 26) 
+2.1.3
+Study of instrumental music through rehearsal and performance of brass, 
+woodwind, jazz/rock, and wind ensembles. Open to all students upon consent 
+of instructor.
+MUEN 1237 Jazz Workshop (50.0903.56 26) 
+2.0.4
+Study of jazz improvisation with emphasis on “blues” style. Rehearsal and per-
+formance of small combos, including styles in Dixieland, bop, rock, and avant-
+garde. Enrollment upon consent of instructor.
+MUEN 1255 Vocal Ensemble (Minor) (50.0903.58 26) 
+2.0.4
+Study of gospel music through rehearsal, study of technique and performance. 
+Open to all students, this course may be repeated for credit.
+MUSI 1116 
+Sightsinging/Ear Training I (50.0904.56 26) 
+1.1.5
+Singing tonal music in treble, bass, alto, and tenor clefs. Aural study, including 
+dictation, of rhythm, melody, and diatonic harmony. Must enroll concurrently 
+in MUSI 1311. Prerequisite: MUSI 1303 with a minimum grade of “C” or 
+recommendation of music faculty as determined by placement test.
+MUSI 1117 
+Sightsinging/Ear Training II (50.0904.56 26) 
+1.1.5
+Continuation of MUSI 1116. Singing tonal music in treble, bass, alto, and 
+tenor clefs. Aural study, including dictation, of rhythm, melody, and diatonic 
+harmony. Must enroll concurrently in MUSI 1312. Prerequisite: MUSI 1116 
+with a minimum grade of “C.”
+MUSI 1157 
+Opera Workshop I (50.0908.52 26) 
+1.0.3
+Performance of portions of or complete operas and the study of the integration 
+of music, acting, and staging of an opera.
+MUSI 1160 
+Italian Diction (50.0908.53 26) 
+1.1.1
+A study of the International Phonetic Alphabet (IPA) and its application to 
+singing in Italian.
+MUSI 1161 
+International Phonetic Alphabet (IPA) for Singers (50.0908.53 26) 1.1.1
+A study of the International Phonetic Alphabet (IPA) and its application to 
+singing in English, Italian, German, and French.
+MUSI 1181 
+Piano Class I (50.0907.51 26) 
+1.1.2
+Class instruction in the fundamentals of keyboard technique for beginning 
+piano students. Fee charged.
+MUSI 1182 
+Piano Class II (50.0907.51 26) 
+1.1.2
+Advanced beginning class instruction in the fundamentals of keyboard tech-
+nique. Fee charged.
+MUSI 1183 
+Voice Class  (50.0908.51 26) 
+1.1.2
+Class instruction in the fundamentals of singing including breathing, tone pro-
+duction, and diction. Designed for students with little or no previous voice 
+training. Does not apply to a music major degree. Fee charged.
+MUSI 1303 
+Fundamentals of Music (50.0904.55 26) 
+3.3.2
+Introduction to the basic elements of music theory, including scales, intervals, 
+keys, triads, elementary ear training, notation, meter, and rhythm. 
+MUSI 1306 
+Music Appreciation (50.0902.51 26) 
+3.3.0
+Understanding music through the study of cultural periods, major composers, 
+and musical elements. Illustrated with audio recordings and live performances. 
+MUSI 1311 
+Music Theory I (50.0904.51 26) 
+3.3.0
+Analysis and writing of tonal melody and diatonic harmony up to and includ-
+ing the chords. Analysis and writing of small compositional forms. Correlated 
+study at the keyboard. Fee charged. 
+MUSI 2116 
+Sight Singing & Ear Training III (50.0904.57 26) 
+1.0.4
+Singing more difficult tonal music including modal, ethnic, and 20th century 
+materials. Aural study, including dictation, of more complex rhythm, melody, 
+chromatic harmony, and extended tertian structures.
+MUSI 2117 
+Sight Singing & Ear Training IV (50.0904.57 26) 
+1.0.4
+Singing advanced tonal music and introduction of modal and post-tonal melo-
+dies. Aural study including dictation of advanced rhythm, melody, and har-
+mony.
+MUSI 2311 
+Music Theory III (50.0904.52 26) 
+3.3.0
+Advanced harmony part writing and keyboard analysis and writing of more 
+advanced tonal harmony including chromaticism and extended tertian struc-
+tures. Introduction to 20th century compositional procedures and survey of 
+the traditional large forms of composition. Correlated study at the keyboard. 
+Fee charged.
+MUSI 2312 
+Music Theory IV (50.0904.51 26) 
+3.3.0
+Continuation of advanced chromaticism and survey of analytical and com-
+positional procedures in post-tonal music. Optional correlated study at the 
+keyboard. Fee charged.
+NCBI 0004 
+Integrated Reading/Writing I (32.0108.60 12)
+Integration of critical reading and academic writing skills. Successful comple-
+tion of this intervention if taught at the upper (exit) level fulfills TSI require-
+ments for reading and/or writing and is for students who are near the successful 
+TSIA2 scores for reading and/or writing. Graded Pass/Fail. May not be used to 
+fulfill degree requirements. (4 contact hour intervention)
+NCBI 0016 
+Integrated Reading/Writing II (32.0108.60 12)
+Integration of critical reading and academic writing skills. Successful comple-
+tion of this intervention if taught at the upper (exit) level fulfills TSI require-
+ments for reading and/or writing and is for students who are near the successful  
+TSIA2 scores for reading and/or writing - Grade Pass/Fail. May not be used to 
+fulfill degree requirements. (16 contact hour intervention)
+NCBM 0004 Developmental Mathematics I (32.0104.54 19)
+Topics in mathematics may include arithmetic operations, basic algebraic con-
+cepts and notation, geometry, real and complex number systems, study of rela-
+tions and functions, inequalities, algebraic expressions and equations (absolute 
+value, polynomial, radical, rational), with a special emphasis on linear and 
+quadratic expressions and equations. May be taken by students who are near 
+the successful TSIA2 scores for math. Graded Pass/Fail. May not be used to 
+fulfill degree requirements. (4 contact hour intervention)
+NCBM 0116 Developmental Mathematics II (32.0104.54 19)
+Topics in mathematics may include arithmetic operations, basic algebraic con-
+cepts and notation, geometry, real and complex number systems, study of rela-
+tions and functions, inequalities, algebraic expressions and equations (absolute 
+value, polynomial, radical, rational), with a special emphasis on linear and 
+quadratic expressions and equations. May be taken by students who are near 
+the successful TSIA2 scores for math. Graded Pass/Fail. May not be used to 
+fulfill degree requirements. (16 contact hour intervention)
+NURA 1260 Clinical - Nursing Assistant/Aide & Patient Care Assistant/Aide 
+2.0.8
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+NURA 1261 Clinical - Nursing Assistant/Aide and Patient Care Assistant/Aide 
+2.0.8
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+NURA 1301 Nurse Aide for Health Care  
+3.3.0
+Knowledge, skills, and abilities essential to provide basic care to residents of 
+long-term care facilities. Topics include resident’s rights, communication, safe-
+ty, observation, reporting and assisting residents in maintaining basic comfort 
+and safety. Emphasis on effective interaction with members of the health care 
+team, restorative services, mental health, and social services needs.
+NURA 1391 Special Topics in Nursing Assistant/Aide  
+3.3.0
+Topics address recently identified current events, skills, knowledge’s, and/or 
+attitudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency. 
+OSHT 1305 OSHA Regulations – Construction Industry 
+3.3.1
+A study of Occupational Safety and Health Administration (OSHA) regula-
+tions pertinent to the construction industry.
+PFPB 1247 
+Backflow Prevention 
+2.1.4
+Principles, practices, and regulations of backflow. Includes backpressure, pub-
+lic health, laws and responsibilities, mechanics and use of backflow devices, 
+and equipment testing used in backflow devices.
+PFPB 1321 
+Plumbing Maintenance and Repair 
+3.2.4
+Instruction in the practices and procedures employed by a plumber including 
+public relations.
+PFPB 1323 
+Plumbing Codes I 
+3.2.4
+State and local plumbing codes and the application of potable water, waste 
+water, and gas systems relating to residential and light commercial settings.
+PFPB 2308 
+Piping Standards and Materials 
+3.2.4
+Identification, description, and application of piping standards and specifica-
+tions. Includes identification and use of various metallic and non-metallic pip-
+ing materials, identification and installation of valves, and material take-offs.
+PFPB 2309 
+Residential Construction Plumbing I 
+3.2.4
+Skill development in the procedures and techniques employed by a plumber in 
+the rough-in and top-out stages of a new home or the remodeling of an older 
+home.
+PFPB 2336 
+Commercial Construction and Fixture Setting 
+3.2.4
+Practices and procedures employed by a plumber in the common construc-
+tion in a commercial building including drain, waste, and vent systems, water 
+systems, and fixture installations.
+PFPB 2343 
+Advanced Pipe Practices 
+3.2.4
+Identification, installation, and testing of steam traps and steam trap station 
+components; valve identification, application, and maintenance; identifica-
+tion, storage, and handling of in-line specialties; hydrostatic testing of process 
+piping.
+PFPB 2349 
+Field Measuring, Sketching, and Layout 
+3.2.4
+Field dimensioning, measuring, sketching, and layout of future process piping 
+and the use, care, and setup of transit and level.
+PHED 1101 Aerobics I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1102 Aerobics II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1107 Backpacking I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1108 Backpacking II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1113 Basketball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1114 Basketball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1115 Bowling I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1116 Bowling II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1117 Camping I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1118 Camping II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1121 Cheerleading I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1122 Cheerleading II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1125 Dance I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1126 Dance II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1127 Dance III (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1129 Golf I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1130 Golf II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1132 Swimming I (36.0108.51 23) 
+1.0.3
+The student is instructed in the basic swimming strokes including freestyle, 
+breaststroke and backstroke. An emphasis is placed on safety and learning to 
+be comfortable in the water.
+PHED 1133 Swimming II (36.0108.51 23) 
+1.0.3
+Builds on skills taught in beginning swimming. A higher level of technical 
+instruction. 
+PHED 1134 Introduction to Wellness (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1137 Swim Conditioning (36.0108.51 23) 
+1.0.3
+The course emphasizes the use of swimming for physical fitness enhancement 
+and enjoyment. Each student needs a working knowledge of freestyle and 
+backstroke and the endurance to swim 200 yards of each continuously. 
+PHED 1138 Maintenance of Wellness (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1139 Aqua Aerobics I (36.0108.51 23) 
+1.0.3
+Water aerobics fitness, a program of water exercise designed to develop cardio-
+vascular fitness. A variety of water exercises for all ages and swimming levels. 
+Non-swimmers can participate. 
+PHED 1140 Aqua Aerobics II (36.0108.51 23) 
+1.0.3
+Water aerobics fitness, a program of water exercise designed to develop cardio-
+vascular fitness, increases stamina and endurance. A variety of water exercises 
+for all ages and swimming levels. Non-swimmers can participate.
+PHED 1142 Varsity Baseball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1143 Varsity Men’s Basketball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1144 Varsity Softball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1145 Varsity Women’s Basketball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1147 Varsity Men’s Soccer I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1148 Varsity Women’s Soccer I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1151 Tennis I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1152 Tennis II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1153 Varsity Volleyball I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1154 Varsity Volleyball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1156 Weight Training I (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1157 Weight Training II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1170 Varsity Baseball I (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1171 Varsity Baseball II (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1172 Varsity (Men) Basketball I (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1173 Varsity (Men) Basketball II (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1174 Varsity (Women) Basketball I (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1175 Varsity (Women) Basketball II (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1176 Varsity Golf I (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 1177 Varsity Golf II (36.0108.51 23) 
+1.0.3
+Activity class. 
+PHED 2142 Varsity Baseball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 2143 Varsity Men’s Basketball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 2144 Varsity Softball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 2145 Varsity Women’s Basketball II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 2147 Varsity Men’s Soccer II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 2148 Varsity Women’s Soccer II (36.0108.51 23) 
+1.0.3
+Activity class.
+PHED 1301 Foundations of Kinesiology (31.0501.52 23) 
+3.3.0
+The purpose of this course is to provide students with an introduction to hu-
+man movement that includes the historical development of physical education, 
+exercise science, and sport. This course offers the student both an introduction 
+to the knowledge base, as well as, information on expanding career opportuni-
+ties.
+PHED 1304 Personal/Community Health (51.1504.51 16) 
+3.3.0
+This course provides an introduction to the fundamentals, concepts, strategies, 
+applications, and contemporary trends related to understanding personal and/
+or community health issues. This course also focuses on empowering various 
+populations with the ability to practice healthy living, promote healthy life-
+styles, and enhance individual well-being.
+PHED 1306 First Aid (51.1504.53 16) 
+3.3.0
+Instruction and practice for emergency care. Designed to enable students to 
+recognize and avoid hazards within their environment, to render intelligent 
+assistance in case of accident or sudden illness, and to develop skills necessary 
+for the immediate and temporary care of the victim. Successful completion 
+of the course may enable the student to receive a certificate from a nationally 
+recognized agency.
+PHED 1308 Sports Officiating (31.0101.51 23) 
+3.3.1
+The purpose of the course is to study officiating requirements for sports and 
+games with an emphasis on mechanics, rule interpretation, and enforcement.
+PHED 1338 Concepts of Physical Fitness (31.0501.51 23) 
+3.3.0
+This course is designed to familiarize students with knowledge, understanding 
+and values of health related fitness and its influence on the quality of life em-
+phasizing the development and implementation of fitness programs.
+PHED 1346 Drug Use and Abuse (51.1504.52  16) 
+3.3.0
+Study of the use, misuse and abuse of drugs and other harmful substances in 
+today’s society. Physiological, sociological, pharmacological and psychological 
+factors will be emphasized.
+PHED 2142 Varsity Baseball II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2143 Varsity Men’s Basketball II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2144 Varsity Softball II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2145 Varsity Women’s Basketball II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2147 Varsity Men’s Soccer II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2148 Varsity Women’s Soccer II (36.0108.51 23) 
+1.0.3
+Activity Class.
+PHED 2356 Care and Prevention of Athletic Injuries (51.0913.52 16) 
+3.3.0
+Prevention and care of athletic injuries with emphasis on qualities of a good 
+athletic trainer, avoiding accidents and injuries, recognizing signs and symp-
+toms of specific sports injuries and conditions, immediate and long-term care 
+of injuries, and administration procedures in athletic training.
+PHYS 1303 
+Stars and Galaxies (40.0201.51 03) 
+3.3.1
+Study of stars, galaxies, and the universe outside our solar system. Fee charged. 
+No Prerequisite.
+PHYS 1304 
+Solar System (40.0201.52 03) 
+3.3.1
+Study of the sun and its solar system, including its origin. Fee charged. No 
+Prerequisite; may be taken prior to PHYS 1303.
+PHYS 1401 
+College Physics I (40.0801.53 03) 
+4.3.3
+Fundamental principles of physics, using algebra and trigonometry; the prin-
+ciples and applications of classical mechanics and thermodynamics, including 
+harmonic motion, mechanical waves and sound, physical systems, Newton’s 
+Laws of Motion, and gravitation and other fundamental forces; with emphasis 
+on problem solving. Laboratory activities will reinforce  fundamental prin-
+ciples of physics, as listed previously. Prerequisite: MATH 1314 and 1316 or 
+MATH 2312.
+PHYS 1402 
+College Physics II (40.0801.53 03) 
+4.3.3
+Fundamental principles of physics, using algebra and trigonometry; the prin-
+ciples and applications of electricity and magnetism, including circuits, elec-
+trostatics, electromagnetism, waves, sound, light, optics, and modern physics 
+topics; with emphasis on problem solving. Laboratory activities will reinforce 
+fundamental principles of physics, as listed previously. Prerequisite: PHYS 1401.
+PHYS 2425 
+University Physics I (40.0801.54  03) 
+4.3.4
+Fundamental principles of physics, using calculus, for science, computer sci-
+ence, and engineering majors; the principles and applications of classical me-
+chanics, including harmonic motion, physical systems and thermodynamics; 
+and emphasis on problem solving. Basic laboratory experiments supporting 
+theoretical principles involving the principles and applications of classical me-
+chanics, including harmonic motion and physical systems; experimental de-
+sign, data collection and analysis, and preparation of laboratory reports. Fee 
+charged. Prerequisite: MATH 2413.
+PHYS 2426 
+University Physics II (40.0801.57 03) 
+4.3.4
+Principles of physics for science, computer science, and engineering majors, 
+using calculus, involving the principles of electricity and magnetism, including 
+circuits, electromagnetism, waves, sound, light, and optics. Laboratory experi-
+ments supporting theoretical principles involving the principles of electricity 
+and magnetism, including circuits, electromagnetism, waves, sound, light, and 
+optics; experimental design, data collection and analysis, and preparation of 
+laboratory reports. Fee charged. Prerequisite: MATH 2414, PHYS 2425. 
+PLAB 1223 
+Phlebotomy  
+2.2.1
+Skill development in the performance of a variety of blood collection meth-
+ods using proper techniques and standards precautions. Includes vacuum col-
+lection devices, syringes, capillary skin puncture, butterfly needles and blood 
+culture, and specimen collection on adults, children, and infants. Emphasis on 
+infection prevention, patient identification, specimen labeling, quality assur-
+ance, specimen handling, processing, accessioning, professionalism, ethics, and 
+medical terminology.
+PLAB 1260 
+Clinical - Phlebotomy/Phlebotomist 
+2.0.8
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional.
+POFL 1303 
+Legal Office Procedures I 
+3.2.3
+Fundamental administrative duties of the legal administrative assistant. Fee 
+charged. Prerequisites: POFT 1329 and POFL 1305.
+POFL 1305 
+Legal Terminology 
+3.2.3
+This course presents an overview of legal terminology and how these terms are 
+used in legal documents. Fee charged. 
+POFL 2301 
+Legal Document Processing 
+3.2.3
+Develop skills for the production of legal documents. Fee charged. Prerequi-
+site: POFL 1305.
+POFM 1300 Basic Medical Coding 
+3.3.0
+Presentation and application of basic coding rules, principles, guidelines, and 
+conventions utilizing various coding systems. Prerequisite: HITT 1305.
+POFM 1302 Medical Software Applications 
+3.2.4
+Medical software applications for the management and operation of health 
+care information systems. The student will utilize medical software applica-
+tions; manage patient database; process billing; maintain schedules; and gener-
+ate reports. 
+POFT 1127 
+Introduction to Keyboarding 
+1.0.2
+Skill development in keyboarding techniques. Emphasis on the development 
+of speed and accuracy.
+POFT 1309 
+Administrative Office Procedures I 
+3.2.3
+Study of current office procedures, duties, and responsibilities applicable to an 
+office environment.
+POFT 1319 
+Records and Information Management I 
+3.2.3
+Introduction to basic records information management systems including 
+manual and electronic filing.
+POFT 1321 
+Business Math 
+3.3.1
+Fundamentals of business mathematics including analytical and critical think-
+ing skills.
+POFT 1329 
+Beginning Keyboarding 
+3.2.4
+Skill development in keyboarding techniques. Emphasis on development of 
+acceptable speed and accuracy levels and formatting basic documents.
+POFT 1364 
+Practicum - Administrative Assistant & Secretarial Science, General 3.0.21
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student. This course may be re-
+peated if topics and learning outcomes vary. Three credit hours.
+POFT 2301 
+Intermediate Keyboarding 
+3.2.4
+A continuation of keyboarding skills emphasizing acceptable speed and accu-
+racy levels and formatting documents. Fee charged. Prerequisite: POFT 1329 
+or equivalent.
+POFT 2312 
+Business Correspondence & Communication 
+3.2.3
+Development of writing and presentation skills to produce effective business 
+documents.
+PSYC 1100 
+Learning Framework (42.2701.51 25) 
+1.1.0
+A study of the 1) research and theory in the psychology of learning, cogni-
+tion, and motivation, 2) factors that impact learning, and 3) application of 
+learning strategies. Theoretical models of strategic learning, cognition, and 
+motivation serve as the conceptual basis for the introduction of college-level 
+student academic strategies. Students use assessment instruments (e.g., learn-
+ing inventories) to help them identify their own strengths and weaknesses as 
+strategic learners. Students are ultimately expected to integrate and apply the 
+learning skills discussed across their own academic programs and become ef-
+fective and efficient learners. Students developing these skills should be able to 
+continually draw from the theoretical models they have learned. (Cross-listed 
+as EDUC 1100.)
+PSYC 1300 
+Learning Framework (42.2701.51 25) 
+3.3.0
+A study of the 1) research and theory in the psychology of learning, cogni-
+tion, and motivation, 2) factors that impact learning, and 3) application of 
+learning strategies. Theoretical models of strategic learning, cognition, and 
+motivation serve as the conceptual basis for the introduction of college-level 
+student academic strategies. Students use assessment instruments (e.g., learn-
+ing inventories) to help them identify their own strengths and weaknesses as 
+strategic learners. Students are ultimately expected to integrate and apply the 
+learning skills discussed across their own academic programs and become ef-
+fective and efficient learners. Students developing these skills should be able to 
+continually draw from the theoretical models they have learned. (Cross-listed 
+as EDUC 1300.)
+PSYC 2301 
+General Psychology (42.0101.51 25) 
+3.3.0
+General Psychology is a survey of the major psychological topics, theories and 
+approaches to the scientific study of behavior and mental processes. 
+PSYC 2314 
+Lifespan Growth and Development (42.2703.51 25) 
+3.3.0
+Life-Span Growth and Development is a study of social, emotional, cognitive 
+and physical factors and influences of a developing human from conception 
+to death. 
+PSYC 2315 
+Psychology of Adjustment (42.0101.56 25) 
+3.3.0
+Study of the processes involved in adjustment of individuals to their personal 
+and social environments. 
+PSYC 2319 
+Social Psychology (42.2707.51  25) 
+3.3.0
+Study of individual behavior within the social environment. May include top-
+ics such as the socio-psychological process, attitude formation and change, in-
+terpersonal relations, and group processes.
+RADR 1201 Introduction to Radiography 
+2.2.0
+An overview of the historical development of radiography, basic radiation pro-
+tection, an introduction to medical terminology, ethical and legal issues for 
+health care professionals, and an orientation to the profession and the health 
+care system.
+RADR 1213 Principles of Radiographic Imaging I 
+2.1.4
+Radiographic image quality and the effects of exposure variables.
+RADR 1266 Practicum - Radiologic Technology/Science - Radiographer 
+ 2.0.16
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RADR 1267 Practicum - Radiologic Technology/Science - Radiographer 
+2.0.16
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RADR 1303 Patient Care  
+ 3.2.4
+An introduction in patient assessment, infection control procedures, emer-
+gency and safety procedures, communication and patient interaction skills, 
+and basic pharmacology.
+RADR 1311 Basic Radiographic Procedures  
+3.2.4
+An introduction to radiographic positioning terminology, manipulation of 
+equipment, positioning and alignment of the anatomic structure and equip-
+ment, and evaluation of images for demonstration of basic anatomy.
+RADR 2205 Principles of Radiographic Imaging II 
+2.1.4
+Radiographic image quality and the effects of exposure variables, and the syn-
+thesis of all variables in image production. Prerequisite: RADR 1213.
+RADR 2209 Radiographic Imaging Equipment 
+2.1.4
+Equipment and physics of x-ray production. Includes basic x-ray circuits. Also 
+examines the relationship of conventional and digital equipment components 
+to the imaging process.
+RADR 2213 Radiation Biology and Protection 
+2.2.0
+Effects of radiation exposure on biological systems. Includes typical medical 
+exposure levels, methods for measuring and monitoring radiation, and meth-
+ods for protecting personnel and patients from excessive exposure.
+RADR 2233 Advanced Medical Imaging 
+2.1.4
+An exploration of specialized imaging modalities.
+RADR 2235 Radiologic Technology Seminar (Capstone) 
+2.2.0
+A capstone course focusing on the synthesis of professional knowledge, skills, 
+and attitudes in preparation for professional employment and lifelong learning.
+RADR 2266 Practicum - Radiologic Technology/Science - Radiographer 
+2.0.16
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RADR 2267 Practicum - Radiologic Technology/Science - Radiographer 
+2.0.16
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RADR 2301 Intermediate Radiographic Procedures 
+3.2.4
+A continuation of the study of the manipulation of radiographic equipment, 
+positioning and alignment of the anatomic structure and equipment, and 
+evaluation of images for demonstration of anatomy. Prerequisite: RADR 1311.
+RADR 2331 Advanced Radiographic Procedures 
+3.2.4
+Positioning and alignment of anatomic structures and equipment, evaluation 
+of images for demonstration of anatomy and related pathology. Prerequisite: 
+RADR 2301.
+RADR 2366 Practicum - Radiologic Technology/Science - Radiographer 
+3.0.24
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RADR 2367 Practicum - Radiologic Technology/Science - Radiographer 
+3.0.24
+Practical, general workplace training supported by an individualized learning 
+plan developed by the employer, college, and student.
+RBTC 1301 Programmable Logic Controllers 
+3.2.4
+A study in programmable logic controllers (PLC). Topics include processor 
+units, numbering systems, memory organization, relay type devices, timers, 
+counters, data manipulators, and programming. Fee charged.
+RBTC 1351 Robotic Mechanisms 
+3.2.4
+The application of principles and the calculation of practical problems involv-
+ing four bar linkages, cams, gears, and gear trains. Topics include vector quan-
+tities, angular displacement, motion concepts, velocities, and motions.
+RNSG 1227 Transition to Professional Nursing 
+2.2.0
+Content includes health promotion, expanded assessment, analysis of data, 
+critical thinking skills and systematic problem solving process, pharmacology, 
+interdisciplinary teamwork, communication, and applicable competencies 
+in knowledge, judgment, skills, and professional values within a legal/ethical 
+framework throughout the lifespan. This course must be taken as a co-requisite 
+to RNSG 1262. RNSG 1262 and RNSG 1227 must be completed and passed 
+within the same semester. If the student does not successfully complete both 
+courses, future admissions will require enrolling in both courses within the 
+same semester. Prerequisites: Vocational Nurse License, BIOL 1322; BIOL 
+2401; BIOL 2402; ENGL 1301; PSYC 2301; PSYC 2314. Co-requisite: 
+RNSG 1262.
+RNSG 1262 Clinical - Registered Nursing/Registered Nurse 
+2.0.6
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. This course must be taken as a co-req-
+uisite to RNSG 1227. RNSG 1262 and RNSG 1227 must be completed and 
+passed within the same semester. If the student does not successfully complete 
+both courses, future admission will require enrolling in both courses within the 
+same semester. Pre-requisites: Vocational Nurse License, BIOL 1322, BIOL 
+2401, BIOL 2402, ENGL 1301, PSYC 2301, and PSYC 2314. Co-requisite: 
+RNSG 1227.
+RNSG 2514 Integrated Care of the Client with Complex Healthcare Needs 
+5.5.0
+Application of a systematic problem-solving process, critical thinking skills 
+and concepts to provide comprehensive nursing care to patients and families 
+across the lifespan with complex health care needs including, but not limited 
+to, complex childhood/adolescent diseases, complicated perinatal care, acute 
+mental illness, complex perioperative care, serious adult health problems and 
+health issues related to aging. Emphasis on tertiary disease prevention, health 
+maintenance/restoration and collaboration with members of the interdisciplin-
+ary health care team. Content includes the roles of the professional nurse and 
+applicable competencies in knowledge, judgment, skills, and professional val-
+ues within a legal/ethical framework. This course lends itself to an integrated 
+approach. This course must be taken as a co-requisite to RNSG 2560. RNSG 
+2514 and RNSG 2560 must be completed and passed within the same semes-
+ter. If the student does not successfully complete both courses, future admis-
+sion will require enrolling in both courses within the same semester. Prerequi-
+sites: RNSG 1227 and RNSG 1262. Co-requisite: RNSG 2560.
+RNSG 2535 Integrated Patient Care Management 
+5.5.0
+Application of independent nursing interventions to care for patients and 
+families throughout the lifespan whose health care needs may be difficult to 
+predict. Emphasis on collaborative clinical reasoning, nursing leadership skills, 
+and patient management. Content includes the significance of professional 
+development, trends in nursing and health care, and applicable knowledge, 
+judgment, skills, and professional values within a legal/ethical framework. This 
+course lends itself to an integrated approach. This course must be taken as a 
+co-requisite to RNSG 1261. RNSG 2535 and RNSG 2561 must be com-
+pleted and passed within the same semester. If the student does not success-
+fully complete both courses, future admission will require enrolling in both 
+courses within the same semester. Prerequisites: RNSG 2514, RNSG 2560, 
+BIOL 2420, SOCI 1301. Co-requisite: RNSG 2561.
+RNSG 2560 Clinical - Registered Nursing/Registered Nurse 
+5.0.16
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. This course must be taken as a co-req-
+uisite to RNSG 2514. RNSG 2560 and RNSG 2514 must be completed and 
+passed within the same semester. If the student does not successfully complete 
+both courses, future admission will require enrolling in both courses within the 
+same semester. (16 clinical hours/week) Prerequisites: RNSG 1227 and RNSG 
+1262. Co-requisite: RNSG 2514.
+RNSG 2561 Clinical - Registered Nursing/Registered Nurse 
+5.0.16
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. This course must be taken as a co-req-
+uisite to RNSG 2535. RNSG 2561 and RNSG 2535 must be completed and 
+passed within the same semester. If the student does not successfully complete 
+both courses, future admission will require enrolling in both courses within 
+the same semester. (16 clinical hours/week) Prerequisite: RNSG 2514, RNSG 
+2560, BIOL 2420, SOIC 1301. Co-requisite: RNSG 2535.
+SOCI 1301 
+Introduction to Sociology (45.1101.51 25) 
+3.3.0
+The scientific study of human society, including ways in which groups, social 
+institutions, and individuals affect each other. Causes of social stability and 
+social change are explored through the application of various theoretical per-
+spectives, key concepts, and related research methods of sociology. Analysis 
+of social issues in their institutional context may include topics such as social 
+stratification, gender, race/ethnicity, and deviance.
+SOCI 1306 
+Social Problems (45.1101.52 25) 
+3.3.0
+Application of sociological principles and theoretical perspectives to major so-
+cial problems in contemporary society such as inequality, crime and violence, 
+substance abuse, environmental issues, deviance, or family problems.
+SOCI 2301 
+Marriage & the Family (45.1101.54 25) 
+3.3.0
+Sociological and theoretical analysis of the structures and functions of the fam-
+ily, the varied cultural patterns of the American family, and the relationships 
+that exist among the individuals within the family, as well as the relationships 
+that exist between the family and other institutions in society.
+SOCI 2336 
+Criminology (45.0401.51 25) 
+3.3.0
+The course surveys various theories of crime, with an emphasis on understand-
+ing the social causes of criminal behavior. The techniques for measuring crime 
+as a social phenomenon and the characteristics of criminals are examined. This 
+course addresses crime types (such as consensual or white-collar crimes), the 
+criminal justice system, and other social responses to crime.
+SPAN 1411 
+Beginning Spanish I (16.0905.51 13) 
+4.3.4
+Basic Spanish language skills in listening, speaking, reading, and writing within 
+a cultural framework. Students will acquire the vocabulary and grammatical 
+structures necessary to communicate and comprehend at the beginner level.
+SPAN 1412 
+Beginning Spanish II (16.0905.51 13) 
+4.3.4
+Continued development of basic Spanish language skills in listening, speaking, 
+reading, and writing within a cultural framework. Students acquire the vocab-
+ulary and grammatical structures necessary to communicate and comprehend 
+at the high beginner to low intermediate level. 
+SPAN 2311 
+Intermediate Spanish I (16.0905.52 13) 
+3.2.4
+The consolidation of skills acquired at the introductory level. Further develop-
+ment of proficiency in listening, speaking, reading and writing. Emphasis on 
+comprehension, appreciation, and interpretation of the cultures of the Span-
+ish-speaking world. Fee charged.
+SPAN 2312 
+Intermediate Spanish II (16.0905.52 13) 
+3.2.4
+The consolidation of skills acquired at the introductory level. Further develop-
+ment of proficiency in listening, speaking, reading and writing. Emphasis on 
+comprehension, appreciation, and interpretation of the cultures of the Span-
+ish-speaking world. 
+SPCH 1311 Introduction to Speech Communication (09.0101.51 06) 
+3.3.0
+Introduces basic human communication principles and theories embedded in 
+a variety of contexts including interpersonal, small group, and public speaking. 
+SPCH 1315 Public Speaking (09.0101.53 06) 
+3.3.0
+Application of communication theory and practice to the public speaking con-
+text, with emphasis on audience analysis, speaker delivery, ethics of commu-
+nication, cultural diversity, and speech organizational techniques to develop 
+students’ speaking abilities, as well as ability to effectively evaluate oral pre-
+sentations.
+SPCH 1318 Interpersonal Communication (09.0101.54 06) 
+3.3.0
+Application of communication theory to interpersonal relationship develop-
+ment, maintenance, and termination in relationship contexts including friend-
+ships, romantic partners, families, and relationships with co-workers and su-
+pervisors. 
+SPCH 1321 Business & Professional Communication (09.0101.52 06) 
+3.3.0
+Study and application of communication within the business and professional 
+context. Special emphasis will be given to communication competencies in 
+presentations, dyads, teams and technologically mediated formats.
+SPCH 1342 Voice & Diction (09.0101.58 06) 
+3.3.0
+Physiology and mechanics of effective voice production with practice in articu-
+lation, pronunciation, and enunciation.
+SPCH 2335 Argumentation & Debate (09.0101.59 06) 
+1.0.3
+Theories and practice in argumentation and debate including analysis, reason-
+ing, organization, evidence, and refutation.
+SPCH 2341 Oral Interpretation (09.0101.57 06) 
+3.3.0
+Theories and techniques in analyzing and interpreting literature. Preparation 
+and presentation of various literary forms.
+SPNL 1201 
+Health Care Spanish 
+2.2.1
+Development of practical Spanish communication skills for the health care 
+employee including medical terminology, greetings, common expressions, 
+commands, and phrases normally used within a hospital or a physician’s office.
+SRGT 1405 
+Introduction to Surgical Technology 
+4.3.2
+Orientation to surgical technology theory, surgical pharmacology and anesthe-
+sia, technological sciences, and patient care concepts. Pre-requisite: Acceptance 
+in the Surgical Technology Program and completion of all previous course 
+work listed in the Surgical Technology certificate plan with a grade of “C” or 
+better. This course requires concurrent enrollment in SRGT 1409, and both 
+courses must be passed with a “C” or better within the same semester.
+SRGT 1409 
+Fundamentals of Perioperative Concepts and Techniques 
+4.2.6
+In-depth coverage of perioperative concepts such as aseptic principles and prac-
+tices, infectious processes, wound healing, and creation and maintenance of 
+the sterile field. Prerequisite: Acceptance in the Surgical Technology Program 
+and completion of all previous course work listed in the Surgical Technology 
+certificate plan with a grade of “C” or better. This course requires concurrent 
+enrollment in SRGT 1405, and both courses must be passed with a “C” or 
+better within the same semester.
+SRGT 1441 
+Surgical Procedures I 
+4.3.2
+Introduction to surgical pathology and its relationship to surgical procedures. 
+Emphasis on surgical procedures related to the general, OB/GYN, genitouri-
+nary, otorhinolaryngology, and orthopedic surgical specialties incorporating 
+instruments, equipment, and supplies required for safe patient care. Prerequi-
+site: completion of all previous course work listed in the Surgical Technology 
+certificate plan with a grade of “C” or better. This course requires concurrent 
+enrollment in SRGT 2461, and both courses must be passed with a “C” or 
+better within the same semester.
+SRGT 1442 
+Surgical Procedures II 
+4.3.2
+Introduction to surgical pathology and its relationship to surgical procedures. 
+Emphasis on surgical procedures related to the cardiothoracic, peripheral vas-
+cular, plastic/reconstructive , ophthalmology, oral/maxillofacial, and neuro-
+logical surgical specialties incorporating instruments, equipment, and supplies 
+required for safe patient care. Prerequisite: Acceptance in the Surgical Technol-
+ogy Program and completion of all previous course work listed in the Surgical 
+Technology certificate plan with a grade of “C” or better. This course requires 
+concurrent enrollment in SRGT 2462, and both courses must be passed with 
+a “C” or better within the same semester.
+SRGT 2461 
+Clinical - Surgical Technology/Technologist 
+4.0.20
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. Clinical education is an unpaid learn-
+ing experience. Prerequisite: completion of all previous course work listed in 
+the Surgical Technology certificate plan with a grade of “C” or better. This 
+course requires concurrent enrollment in SRGT 1441, and both courses must 
+be passed with a “C” or better within the same semester.
+SRGT 2462 
+Clinical - Surgical Technology/Technologist 
+4.0.20
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. Clinical education is an unpaid learn-
+ing experience. Pre-requisite: completion of all previous course work listed in 
+the Surgical Technology certificate plan with a grade of “C” or better. This 
+course requires concurrent enrollment in SRGT 1442, and both courses must 
+be passed with a “C” or better within the same semester.
+VNSG 1122 Vocational Nursing Concepts 
+1.1.1
+Introduction to the nursing profession and its responsibilities. Includes legal 
+and ethical issues in nursing practice. Concepts related to the physical, emo-
+tional, and psychosocial self-care of the learner/professional. Students will dis-
+cuss the personal adjustments essential to the development of the vocational 
+nurse; identify the role of the licensed vocational nurse; and discuss the legal 
+and ethical responsibilities in vocational nursing practice.
+VNSG 1136 Mental Health 
+1.1.1
+Introduction to the principles and theories of positive mental health and hu-
+man behaviors. Topics include emotional responses, coping mechanisms, and 
+therapeutic communication skills. Students will describe the characteristics of 
+positive mental health; identify the coping mechanisms utilized by individuals 
+to assist in alleviating stress and anxiety; and demonstrate the use of therapeu-
+tic communication skills.
+VNSG 1160 Clinical - Licensed Practical/Vocational Nurse Training 
+1.0.6
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. This course is a method of instruction 
+that provides the application of general principles of growth and development, 
+primary health care needs of the client across the life span and the application 
+of basic therapeutic nursing interventions. On-site clinical instruction, super-
+vision and evaluation, will provide education, training, work-based experience 
+and direct patient care. Specific detailed clinical and skill objectives have been 
+developed for this course by the faculty. This course must be taken as a co-req-
+uisite to VNSG 1400. VNSG 1160 and VNSG 1400 must be completed and 
+passed within the same semester. If the student does not successfully complete 
+both courses, future admissions will require enrolling in both courses within 
+the same semester. Prerequisites: All previous course work listed on the degree 
+plan for the vocational nursing certificate. Co-requisite: VNSG 1400.
+VNSG 1219 Leadership and Professional Development 
+2.2.1
+Study of the importance of professional growth. Topics include the role of the 
+licensed vocational nurse in the multi-disciplinary health care team, profes-
+sional organizations, and continuing education. Students will describe the role 
+of the licensed vocational nurse in multi-disciplinary settings inclusive of basic 
+principles of leadership and management; discuss the role of professional or-
+ganizations and regulatory agencies; explain the Texas Board of Nursing Rules 
+and Regulations and the Nurse Practice Act; and identify criteria and appropri-
+ate resources for continuing education.
+VNSG 1226 Gerontology 
+2.2.0
+Overview of the physical, psychosocial, and cultural aspects of the aging pro-
+cess. Addresses disease processes of aging. Exploration of perceptions toward 
+care of the older adult. Students will describe the aspects of aging; discuss 
+disease processes associated with aging; and identify perceptions related to care 
+of the older adult.
+VNSG 1230 Maternal – Neonatal Nursing 
+2.2.0
+A study of the biological, psychological, and sociological concepts applicable to 
+basic needs of the family including childbearing and neonatal care. Utilization 
+of the nursing process in the assessment and management of the childbearing 
+family. Topics include physiological changes related to pregnancy, fetal devel-
+opment, and nursing care of the family during labor and delivery and the pu-
+erperium. This course must be taken as a co-requisite to VNSG 1263, VNSG 
+2410 and VNSG 2460. VNSG 1230, VNSG 1263, VNSG 2410 and VNSG 
+2460 must be completed and passed within the same semester. If the student 
+does not successfully complete all courses, future admissions will require en-
+rolling in all required nursing courses within the same semester. Prerequisites: 
+All previous course work listed on the degree plan for the vocational nursing 
+certificate. Co-requisite: VNSG 1263, VNSG 2410, and VNSG 2460.
+VNSG 1231 Pharmacology 
+2.2.1
+Fundamentals of medications and their diagnostic, therapeutic, and curative 
+effects. Includes nursing interventions utilizing the nursing process. Students 
+will identify properties, effects, and principles of pharmacotherapeutic agents; 
+and explain nursing interventions associated with the various pharmacothera-
+peutic agents.
+VNSG 1323 Basic Nursing Skills 
+3.1.6
+Mastery of basic nursing skills and competencies for a variety of health care 
+settings using the nursing process as the foundation for all nursing interven-
+tions. This course must be taken as a co-requisite to VNSG 1204. VNSG 1204
+and VNSG 1323 must be completed and passed within the same semester. If 
+the student does not successfully complete both courses, future admissions will 
+require enrolling in both courses within the same semester. Prerequisites: PSYC 
+2301, BIOL 2401, and BIOL 2402. Co-requisite: VNSG 1204.
+VNSG 1334 Pediatrics 
+3.2.2
+Study of the care of the pediatric patient and family during health and disease. 
+Emphasis on growth and developmental needs utilizing the nursing process. 
+Students will identify safety principles related to childcare; discuss primary 
+nursing care of the pediatric patient and family during health and disease; and 
+apply concepts of growth and development to the care of pediatric patients 
+utilizing the nursing process.
+VNSG 1400 Nursing in Health and Illness I 
+4.3.2
+Introduction to general principles of growth and development, primary health 
+care needs of the patient across the life span, and therapeutic nursing interven-
+tions. The student will describe the psychosocial, growth and development, 
+and physiological needs of patients across the life span; identify primary health 
+care needs of the patient; and identify the basic interventions to support the 
+patient and family during life stages including death and dying. This course 
+must be taken as a co-requisite to VNSG 1160. VNSG 1400 and VNSG 1160 
+must be completed and passed within the same semester. If the student does 
+not successfully complete both courses, future admissions will require enroll-
+ing in both courses within the same semester. Prerequisites: All previous course 
+work listed on the degree plan for the vocational nursing certificate. Co-req-
+uisites: VNSG 1160.
+VNSG 1409 Nursing in Health and Illness II 
+4.4.1
+Introduction to health problems requiring medical and surgical interventions. 
+The student will compare and contrast normal physiology of body systems 
+to pathologic variations in the patient with medical-surgical health problems; 
+evaluate and treat patients with medical-surgical health problems using the 
+nursing process including nutrition, pharmacological therapy, and principles 
+of safety. This course must be taken as a co-requisite to VNSG 1429 and 
+VNSG 1460. VNSG 1409, 1429 and VNSG 1460 must be completed and 
+passed within the same semester. If the student does not successfully com-
+plete all courses, future admissions will require enrolling in all required nursing 
+courses within the same semester. Prerequisites: All previous course work listed 
+on the degree plan for the vocational nursing certificate. Co-requisites: VNSG 
+1429 & VNSG 1460.
+VNSG 1460 Clinical - Licensed Practical/Vocational Nurse Training 
+4.0.16
+A health-related work-based learning experience that enables the student to 
+apply specialized occupational theory, skills, and concepts. Direct supervision 
+is provided by the clinical professional. This course is a method of instruction 
+that provides the application of basic therapeutic nursing interventions to com-
+mon medical surgical healthcare needs of the client. On-site clinical instruc-
+tion, supervision, and evaluation, will provide education, training, work-based 
+experience and direct patient care. Specific detailed clinical and skill objectives 
+have been developed for this course by the faculty. This course must be taken 
+as a co-requisite to VNSG 1409 and 1429. VNSG 1409, 1429, and 1460 must 
+be completed and passed within the same semester. If the student does not 
+successfully complete all courses, future admissions will require enrolling in all 
+required nursing courses within the same semester. Prerequisites: All previous 
+course work listed on the degree plan for the vocational nursing certificate. 
+Co-requisites: VNSG 1409 & VNSG 1429.
+VNSG 2410 Nursing in Health and Illness III 
+4.4.1
+Continuation of Nursing in Health and Illness II. Further study of medical-
+surgical health problems of the patient including concepts such as mental ill-
+ness. Incorporates knowledge necessary to make the transition from student 
+to graduate vocational nurse. This course must be taken as a co-requisite to 
+VNSG 2460, VNSG 1230 and VNSG 1263. VNSG 2410, VNSG 2460, 
+VNSG 1230 and VNSG 1263 must be completed and passed within the same 
+semester. If the student does not successfully complete all courses, future ad-
+missions will require enrolling in all required nursing courses within the same 
+semester. Prerequisites: All previous course work listed on the degree plan for 
+the vocational nursing certificate. Co-requisite: VNSG 2460, VNSG 1230 and 
+VNSG 1263.
+VNSG 2460 Medical Surgical Clinical – Practical Nurse 
+4.0.16 
+This course is a method of instruction that provides the application of thera-
+peutic nursing interventions to common medical 
+surgical health care 
+needs of the client. On-site clinical instruction, supervision, and evaluation, 
+will provide education, training, work-based experience and direct patient 
+care. Specific detailed clinical and skill objectives have been developed for this 
+course by the faculty. This course must be taken as a co-requisite to VNSG 
+2410, VNSG 1230 and VNSG 1263. VNSG 2460, VNSG 2410, VNSG 
+1230 and VNSG 1263 must be completed and passed within the same semes-
+ter. If the student does not successfully complete all courses, future admissions 
+will require enrolling in all required nursing courses within the same semester. 
+Prerequisites: All previous course work listed on the degree plan for the voca-
+tional nursing certificate. Co-requisite: VNSG 1230, 1263 and 2410.
+WLDG 1307 Introduction to Welding Using Multiple Processes 
+3.2.4
+Basic welding techniques using some of the following processes: Oxy-fuel 
+welding (OFW) and cutting, shielded metal arc welding (SMAW), gas metal 
+arc welding (GMAW), and gas tungsten arc welding (GTAW). Fee charged.
+WLDG 1313  Introduction to Blueprint Reading for Welders 
+3.2.4
+A study of industrial blueprints. Emphasis placed on terminology, symbols, 
+graphic description, and welding processes. Includes systems of measurement 
+and industry standards. Also includes interpretation of plans and drawings 
+used by industry to facilitate field application and production. Fee charged.
+WLDG 1327 Welding Codes and Standards 
+3.2.4
+An in-depth study of welding codes and their development in accordance with 
+structural standards, welding processes, destructive and nondestructive test 
+methods. Fee charged.
+WLDG 1417 Introduction to Layout and Fabrication 
+4.2.4
+A fundamental course in layout and fabrication related to the welding industry. 
+Major emphasis on structural shapes and use in construction. Fee Charged.
+WLDG 1428 Introduction to Shield Metal Arc Welding (SMAW) 
+4.2.4
+An introduction to the shielded metal arc welding process. Emphasis placed on 
+power sources, electrode selection, oxy-fuel cutting, and various joint designs. 
+Instruction provided in SMAW fillet welds in various positions. Fee Charged.
+WLDG 1434 Introduction to Gas Tungsten Arc Welding (GTAW) 
+4.2.4
+Principles of gas tungsten arc welding (GTAW), including setup, GTAW 
+equipment. Instruction in various positions and joint designs. Fee Charged.
+WLDG 1435 Introduction to Pipe Welding 
+4.2.4
+An introduction to welding of pipe using the shielded metal arc welding pro-
+cess (SMAW), including electrode selection, equipment setup, and safe shop 
+practices. Emphasis on various welding positions and electrodes. Fee Charged.
+WLDG 1453 Intermediate Layout and Fabrication 
+4.2.4
+An intermediate course in layout and fabrication. Includes design and produc-
+tion of shop layout and fabrication. Emphasis placed on symbols, blueprints, 
+and written specifications. Fee Charged.
+WLDG 1457 Intermediate Shielded Metal Arc Welding (SMAW) 
+4.2.4
+A study of the production of various fillets and groove welds. Preparation of 
+specimens for testing in various positions. Fee Charged.
+WLDG 1491 Special Topics in Welder/Welding Technologist 
+4.2.4
+Topics address recently identified current events, skills, knowledge, and/or at-
+titudes and behaviors pertinent to the technology or occupation and relevant 
+to the professional development of the student. This course was designed to be 
+repeated multiple times to improve student proficiency. Fee Charged.
+WLDG 2406 Intermediate Pipe Welding 
+4.2.4
+A comprehensive course on the welding of pipe using the shielded metal arc 
+welding (SMAW) process. Welds will be done using various positions. Topics 
+covered include electrode selection, equipment setup, and safe shop practices. 
+Fee Charged.
+WLDG 2413 Intermediate Welding Using Multiple Processes 
+4.2.4
+Instruction using layout tools and blueprint reading with demonstration and 
+guided practices with some of the following welding processes: oxy-fuel gas 
+cutting and welding, shield metal arc welding (SMAW), gas metal arc welding 
+(GMAW), flux-cored arc welding (FCAW), gas tungsten arc welding (GTAW). 
+Fee Charged.
+WLDG 2435 Advanced Layout and Fabrication 
+4.2.4
+An advanced course in layout and fabrication. Includes production and fabri-
+cation of layout, tools, and processes. Emphasis on application of fabrication 
+and layout skills. Fee Charged.
+WLDG 2443 Advanced Shielded Metal Arc Welding (SMAW) 
+4.2.4
+Advanced topics based on accepted welding codes. Training provided with 
+various electrodes in shielded metal arc welding processes with open V-groove 
+joints in various positions.
+WLDG 2451 Advanced Gas Tungsten Arc Welding (GTAW) 
+4.2.4
+Advanced topics in GTAW welding, including welding in various positions 
+and directions. Fee charged.
+WLDG 2453 Advanced Pipe Welding 
+4.2.4
+Advanced topics involving welding of pipe using the shielded metal arc weld-
+ing (SMAW) process. Topics include electrode selection, equipment setup, and 
+safe shop practices. Emphasis on weld positions 5G and 6G using various elec-
+trodes. Fee Charged.
+187
+CLASS LISTINGS A-Z
